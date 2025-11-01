@@ -1,3 +1,5 @@
+import numpy as np
+
 class Haiku():
     def __init__(self):
         pass
