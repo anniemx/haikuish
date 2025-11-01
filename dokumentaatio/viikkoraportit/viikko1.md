@@ -1,4 +1,4 @@
-# Viikkoraprotti 1
+# Viikkoraportti 1
 
 Ensimmäisellä viikolla osallistuin aloitusluennolle. Selailin ja pohdin aihetta, jonka jälkeen myös keskustelin aiheesta kurssin vastuuopettajan kanssa. Ohjeistuksen perusteella olen alkanut etsimään tietoa projektin toteutuksesta ja hahmotellut sen rakennetta. Aiheen valinnan jälkeen olen luonut repositorion ja linkittänyt projektini Labtooliin. Loin myös dokumentaatiolle kansiot ja dokumentit, sekä kirjoitin määrittelydokumentin. Tutustuin myös Pythonin Poetryyn, joka ei ollut minulle aiemmin tuttu. 
 
