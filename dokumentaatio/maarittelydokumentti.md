@@ -1,6 +1,6 @@
 ## Määrittelydokumentti
-Opinto-ohjelma: Matemaattisten tieteiden kandiohjelma, tietojenkäsittelyteorian opintosuunta
-Helsingin yliopiston aineopintojen harjoitustyö: Algoritmit ja tekoäly syksyllä 2025.
+Opinto-ohjelma: Matemaattisten tieteiden kandiohjelma, tietojenkäsittelyteorian opintosuunta.
+Dokumentti koskee Helsingin yliopiston aineopintojen harjoitustyötä syksyllä 2025: Algoritmit ja tekoäly.
 
 ## Ohjelmointikieli
 Projektin ohjelmointikieli on Python. Vertaisarvioinnin tekisin myös Pythonilla. 
