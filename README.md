@@ -1,12 +1,13 @@
 # haikuish
 
-## Dokumentaatio
-[Määrittelydokumentti](./documentation/maarittelydokumentti.md)
+## Määrittelydokumentti
+[Määrittelydokumentti](./dokumentaatio/maarittelydokumentti.md)
 
 
 
-## Dokumentaatio
-[Viikkoraportit](./documentation/viikkoraportit)
+## Viikkoraportit
+[Viikkoraportit](./dokumentaatio/viikkoraportit)
+[Viikkoraportti 1](./dokumentaatio/viikkoraportit/viikko1.md)
 
 
 TEKOÄLYN KÄYTTÖ: 
