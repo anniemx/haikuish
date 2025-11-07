@@ -6,8 +6,12 @@ class Haiku():
 
     def generate_haiku(self):
         #tavut kolmella rivillä 5 - 7 - 5
-        pass
+        haiku = [[], [], []]
+        i = 1
 
-    def print_haiku(self):
+        return haiku
+
+    def print_haiku(self, haiku_poem):
         #tulosta rivi kerrallaan
-        pass
+        for line in haiku_poem:
+            print(line)
