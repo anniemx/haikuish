@@ -3,6 +3,7 @@ import re
 #import nltk
 #from nltk import ngrams
 
+
 corpus = ("""Lorem ipsum dolor sit amet, 
           consectetur adipiscing elit. Nullam 
           nec lobortis nulla. Curabitur congue 
@@ -56,4 +57,7 @@ def calculate_probabilities(n_grams, n_words, t_matrix):
                     count += 1
             t_matrix[i][j] = count
 
+    #normalisoidaan matriisi:
+
     print(t_matrix)
+    return t_matrix

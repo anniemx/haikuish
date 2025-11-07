@@ -55,3 +55,52 @@ class Trie:
         if delete_current_node:
             del current_node.children[child]
             return len(current_node.children) == 0 and not current_node.is_end_of_word
+
+    def has_prefix(self, prefix): #löytyykö sanan etuliite?
+        current_node = self.root
+
+        for child in prefix: # käydään läpi kirjaimet sanasta
+            if child not in current_node.children:
+                #palautetaan epätosi -> etuliite ei puussa, kirjainta ei löydy oikeassa järjestyksessä
+                return False 
+            
+            current_node = current_node.children[child]
+
+        return True #palautetaan tieto, että saavutettiin sanan loppu
+
+
+    def starts_with(self, prefix): #käytetään DFS
+        words = [] #kerätään löydetyt sanat listaan
+        current_node = self.root
+
+        for child in prefix:
+            if child not in current_node.children:
+                return words
+
+            current_node = current_node.children[child]
+
+        def dfs(current_node, path):
+            if current_node.is_end_of_word:
+                words.append("".join(path)) #koostetaan sana mjonoksi
+
+            for child, child_node in current_node.children.items():
+                dfs(child_node, path + [child])
+
+            dfs(current_node, list(prefix))
+
+            return words
+
+    def list_words(self):
+        words = []
+
+        def dfs(current_node, path):
+            if current_node.is_end_of_word:
+                words.append("".join(path)) #koostetaan sana mjonoksi
+
+            for child, child_node in current_node.children.items():
+                dfs(child_node, path + [child])
+
+            dfs(self.root, [])
+
+            return words
+
