@@ -10,7 +10,4 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 ## Viikkoraportit
 * [Viikkoraportit](./dokumentaatio/viikkoraportit)
 * [Viikkoraportti 1](./dokumentaatio/viikkoraportit/viikko1.md)
-
-
-TEKOÄLYN KÄYTTÖ: 
-Työssä ei ole käytetty tekoälytyökaluja. 
+* [Viikkoraportti 2](./dokumentaatio/viikkoraportit/viikko2.md)
