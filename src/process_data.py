@@ -43,28 +43,3 @@ def find_unique_words(corpus):
     #print(word_list, len(word_list))
     return word_list
 
-#alustetaan tilansiirtomatriisi
-def create_transition_matrix(n_words):
-    transition_matrix = [[0] * n_words for i in range(n_words)]
-    print(len(transition_matrix[1]))
-    return transition_matrix
-
-#lasketaan todennäköisyydet sille, että sana esiintyy jonkun sanan jälkeen
-def calculate_probabilities(n_grams, n_words, t_matrix):
-    prob_words = {}
-    for i in n_words:
-        for j in ():
-            pass
-
-    #for i, word in enumerate(n_words):
-    #    for j, next in enumerate(n_words):
-    #        count = 0
-    #        for n_gram in n_grams:
-    #            if n_gram[0] == word and n_gram[1] == next:
-    #                count += 1
-    #        t_matrix[i][j] = count
-
-    #normalisoidaan matriisi:
-
-    print(t_matrix)
-    return t_matrix
