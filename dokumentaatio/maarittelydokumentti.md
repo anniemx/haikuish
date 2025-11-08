@@ -23,3 +23,5 @@ Lähteenä käytän:
 * https://en.wikipedia.org/wiki/Markov_chain
 * https://towardsdatascience.com/new-york-seeks-haikus-generating-haikus-from-nyc-government-job-descriptions-c27496a376fd/
 * https://www.geeksforgeeks.org/nlp/markov-chains-in-nlp/
+* https://fitech101.aalto.fi/en/courses/introduction-to-large-language-models/part-2/4-markov-chains-and-n-gram-models
+* https://www.geeksforgeeks.org/dsa/trie-insert-and-search/ 
