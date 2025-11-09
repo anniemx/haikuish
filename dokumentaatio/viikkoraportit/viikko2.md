@@ -12,5 +12,4 @@ Seuraavalla viikolla yritän saada testejä edistettyä ja päätavoitteena on s
 
 Viikon työtunnit: 15.5h.
 
-TEKOÄLYN KÄYTTÖ TYÖSSÄ: Tällä viikolla tarkastin ja käänsin jotain termejä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla ja tarkastin muutaman Pythonin perussyntaksin ChatGPT:stä.
 
