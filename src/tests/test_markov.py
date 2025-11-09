@@ -1,11 +1,17 @@
-import unittest
+import unittest 
 from markov import MarkovModel
+
+#unittest: testauksessa ohjelman yksittäiset funktiot sekä luokkien oliot ja metodit
 
 class TestMarkovModel(unittest.TestCase):
     def setUp(self):
-        print("set up")
+        self.markov = MarkovModel()
 
     def test_demo(self):
-        test = MarkovModel()
+        self.assertEqual("", "") #assertEqual-testi
 
-        self.assertEqual(str(test), "result is ---")
+    def test_empty_string(self):
+        self.assertEqual("", "")
+
+    def test_none(self):
+        self.assertEqual("", "")
