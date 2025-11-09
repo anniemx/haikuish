@@ -3,28 +3,14 @@ import re
 #import nltk
 #from nltk import ngrams
 
-
-corpus = ("""Lorem ipsum dolor sit amet, feugiat aliquam molestie, feugiat aliquam molestie
-          consectetur adipiscing elit. Nullam Curabitur congue
-          nec lobortis nulla. Curabitur congue Curabitur congue Curabitur congue Curabitur congue
-          interdum eros commodo suscipit. Phasellus Curabitur congue
-          feugiat aliquam molestie. Nam est urna, pharetra 
-          viverra auctor et, eros commodo suscipit pellentesque quis ligula.
-          Morbi in consectetur ligula. Mauris eros est, 
-          egestas ut eros commodo suscipit  vehicula vitae, volutpat at mi. Aliquam 
-          posuere volutpat turpis auctor et, eros commodo suscipit pellentesque quis ligula.
-          Morbi in consectetur ligula. Mauris eros est,
-          egestas ut eros commodo suscipit  vehicula vitae, volutpat at mi. Aliquam
-          posuere volutpat turpis.""")   #open("").read()
-
-corpus = re.sub(r"[^a-zA-Z0-9\s]", "", corpus)
+#hataantavutttuainisto
+corpus = open("src/data/mini_corpus.txt").read()
+corpus = re.sub(r"[^a-zA-Z0-9\säöåÄÖå-]", "", corpus)
 corpus = corpus.lower()
 
 def process():
     all_n_grams = generate_ngrams(corpus)
     unique_words = find_unique_words(corpus)
-    #trasition_matrix = create_transition_matrix(len(unique_words))
-    #calculate_probabilities(all_n_grams, unique_words, trasition_matrix)
     return all_n_grams, unique_words
 
 #jaetaan tekstiaineisto kolmen sanan ketjuihin (n-grammeihin, n=3)
