@@ -5,7 +5,11 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 ## Määrittelydokumentti
 [Määrittelydokumentti](./dokumentaatio/maarittelydokumentti.md)
 
+## Toteutusdokumentti
+[Toteutusdokumentti](./dokumentaatio/toteutusdokumentti.md)
 
+## Testausraportti
+[Testausraportti](./dokumentaatio/testausraportti.md)
 
 ## Viikkoraportit
 * [Viikkoraportit](./dokumentaatio/viikkoraportit)
