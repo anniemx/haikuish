@@ -50,7 +50,7 @@ class MarkovModel:
 
             probabilities[pair] = words_prob
             
-        print(probabilities)
+        #print(probabilities)
         return probabilities
 
         #print(probabilities, len(probabilities))

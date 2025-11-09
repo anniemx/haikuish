@@ -21,11 +21,16 @@ class Trie:
 
         return current_node.is_end_of_word #palautetaan tieto, että saavutettiin sanan loppu
 
-    #lisätään sana trie-puuhun
-    def trie_insert(self, word):
+    def c(self, markov_chain):
+        for n_gram in markov_chain:
+
+           Trie.trie_insert(n_gram)
+
+    #lisätään n-grammit trie-puuhun tavutettuna merkkijonona
+    def trie_insert(self, n_gram):
         current_node = self.root
-        #lisätään sana kirjain kerrallaan -> luodaan uusi solmu, jos krijain ei puussa
-        for child in word: 
+        #lisätään sana tavu kerrallaan -> luodaan uusi solmu, jos tavu ei puussa
+        for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
 
