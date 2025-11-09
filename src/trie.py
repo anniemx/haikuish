@@ -21,7 +21,7 @@ class Trie:
 
         return current_node.is_end_of_word #palautetaan tieto, että saavutettiin sanan loppu
 
-    def c(self, markov_chain):
+    def trie_insert_markov_chain(self, markov_chain):
         for n_gram in markov_chain:
 
            Trie.trie_insert(n_gram)
