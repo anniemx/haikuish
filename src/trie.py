@@ -1,3 +1,5 @@
+import random
+
 class TrieNode:
     def __init__(self):
         self.children = {}
@@ -73,7 +75,21 @@ class Trie:
 
         return True #palautetaan tieto, että saavutettiin sanan loppu
 
+    def trie_getter(self, sequence):
+        """tallennetaan annetun sekvenssin seuraajat frekvensseineen 
+        tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
+        next_frequencies = ([],[])
+        return next_frequencies
 
+    def generate(self, sequencies_frequencies, length):
+        #Generoidaan seuraavat sanat painotetulla arvontafunktiolla
+        sequencies = sequencies_frequencies[0]
+        frequencies = sequencies_frequencies[1]
+        if len(length) == 0:
+            return  
+        new_sequence = random.choices(sequencies, weights=frequencies, k = length)
+        return new_sequence
+   
     def starts_with(self, prefix): #käytetään DFS
         words = [] #kerätään löydetyt sanat listaan
         current_node = self.root
