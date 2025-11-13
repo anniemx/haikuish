@@ -7,6 +7,7 @@ class Haiku():
 
     def starting_word(self):
         self.start = input("Anna alle 5-tavuinen aloittava sana tavutettuna: ")
+        self.degree = input("Anna Markovin ketjun aste: ")
         #validoidaan input 1.tavutettu, 2. alle 5 tavua, 3. ei tyhjä
 
     def generate_haiku(self):
