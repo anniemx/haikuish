@@ -1,11 +1,13 @@
 import process_data
 import markov
 import trie
-#import nltk
+import haiku
 #import numpy
 
-process_data.process()
-markov_model = markov.MarkovModel(process_data.process()[0], process_data.process()[1])
+corpus = process_data.pre_process()
+haiku = haiku.Haiku()
+k_order = haiku.k_order()
+markov_model = markov.MarkovModel(k_order, corpus)
 markov_model.build_model()
 markov_chain = markov_model.calculate_prob()
 trie = trie.Trie()

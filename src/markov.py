@@ -3,15 +3,33 @@ import random as rm
 #import process_data
 
 class MarkovModel:
-    def __init__(self, n_grams, words):
-        self.n_grams = n_grams
-        self.words = words
+    def __init__(self, k_order, corpus):
+        self.k_order = int(k_order)
+        self.n_grams = []
+        self.words = []
         self.markov_model = {}
+        self.corpus = corpus
+
+    #jaetaan tekstiaineisto k+1=n ketjuihin (n-grammeihin)
+    def generate_ngrams(self):
+        n = self.k_order + 1
+        words = self.corpus.split()
+        for i in range(len(words) - n + 1):
+            self.n_grams.append(words[i : i + n])
+        print(self.n_grams)
+        return self.n_grams
+
+    def find_unique_words(self):
+        word_list = list(set(self.corpus.split()))
+        #print(word_list, len(word_list))
+        return word_list
 
     def build_model(self):
-        """Muodostetaan mallin sanakirja self.markov_model, jossa 3-grammit tuple-avaimena ja lasketaan 3-grammien esiintyvyys. 
-            Siis tällöin saadaan kahden sanan ja niitä seuraavan sanan esiintyvyysmäärä koko tekstissä. 
+        """Muodostetaan mallin sanakirja self.markov_model, jossa n-grammit tuple-avaimena ja lasketaan n-grammien esiintyvyys. 
+            Siis tällöin saadaan kahden sanan ja niitä seuraavan sanan esiintyvyysmäärä (frekvenssi) koko tekstissä. 
             -> Tämän jälkeen lasketaan lukumäärän perusteella todennäköisyys sille, että kahta sanaa seuraa tietty sana."""
+        
+        self.generate_ngrams()
 
         self.n_grams = [tuple(n_gram) for n_gram in self.n_grams]
         for n_gram in self.n_grams:

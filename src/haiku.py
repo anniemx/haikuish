@@ -1,13 +1,14 @@
-import numpy as np
 import trie
 
 class Haiku():
     def __init__(self):
-        pass
+        self.order = 1
 
-    def starting_word(self):
-        self.degree = input("Anna Markovin ketjun aste: ")
-        #validoidaan input 1.tavutettu, 2. alle 5 tavua, 3. ei tyhjä
+    def k_order(self):
+        self.order = input("Anna Markovin ketjun aste: ")
+        if int(self.order) < 1 or int(self.order) > 50:
+            self.k_order()
+        return self.order
 
     def generate_haiku(self):
         #tavut kolmella rivillä 5 - 7 - 5 -> miten saadaan varmistettua oikea tavumäärä?
