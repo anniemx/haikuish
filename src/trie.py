@@ -15,19 +15,6 @@ class Trie:
     def __init__(self):
         self.root = TrieNode()
 
-    #etsitään trie-puusta sekvenssi kerrallaan child = sana
-    def trie_search(self, word):
-        current_node = self.root
-
-        for child in word: # käydään läpi sanat sekvenssistä
-            if child not in current_node.children:
-                #palautetaan epätosi -> sana ei puussa
-                return False 
-            
-            current_node = current_node.children[child]
-
-        return current_node.is_end_of_word #palautetaan tieto, että saavutettiin sanan loppu
-
     """lisätään n-grammit trie-puuhun sanoittain, 
         markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
     def trie_insert_markov_chain(self, markov_chain):
@@ -46,12 +33,73 @@ class Trie:
             current_node = current_node.children[child]
         #n-grammin (sekvenssin) lopuksi merkitään sana päättyneeksi is_end_of_sequence=True
         current_node.is_end_of_sequence = True
-        print(f"Inserted n-gram {n_gram}, frequency {frequency}", current_node)
+        #print(f"Inserted n-gram {n_gram}, frequency {frequency}", current_node)
 
+    """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen 
+        tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
 
+    #etsitään trie-puusta sekvenssi, palautetaan true/false
+    def trie_search(self, sequence):
+        current_node = self.root
+
+        for child in sequence: # käydään läpi sanat sekvenssistä
+            if child not in current_node.children:
+                #palautetaan False -> sana ei puussa
+                return False 
+            current_node = current_node.children[child]
+
+        return current_node.is_end_of_sequence #palautetaan tieto, että saavutettiin sekvenssin loppu
+
+    def get_start(self, first_word, k_order):
+        """Aloitetaan aineistosta arvotulla ensimmäisellä sanalla.
+        Etsitään sitä seuraavat sanat trie_starts_with() ja arvotaan seuraaja 
+        painotetulla arvontafunktiolla. Toistetaan k kertaa, jotta saadaan aste"""
+        sequence = []
+        word = first_word
+        for i in range(k_order):
+            self.trie_starts_with(word)
+
+        #sequencies = sequencies_frequencies[0]
+        #frequencies = sequencies_frequencies[1]
+        #if len(k_order) == 0:
+        #    return
+        #new_sequence = random.choices(sequencies, weights=frequencies, k = 1)
+        #return new_sequence
+
+    def trie_starts_with(self, start):
+        sequence = start
+        current_node = self.root
+        for word in sequence:
+            if word not in current_node.children:
+                return []
+            current_node = current_node.children[word]
+
+        next_words = self.list_words(current_node, sequence)
+        return next_words
+
+    def list_words(self, sequence):
+        words = []
+        frequencies = []
+        #etsitään seuraajat syvyyshaulla
+        current_node = self.root
+        for i in range(len(sequence)):
+            word = sequence[i]
+            if word not in current_node.children:
+                return False
+
+        def dfs(current_node, path):
+            if current_node.is_end_of_sequence:
+                words.append("".join(path)) #koostetaan sekvenssi
+
+            for child, child_node in current_node.children.items():
+                dfs(child_node, path + [child])
+
+            dfs(self.root, [])
+
+            return (words, frequencies)
 
     def trie_delete(self, word):
-        self.help_delete(self.root, word, 0)
+            self.help_delete(self.root, word, 0)
 
     def help_delete(self, current_node, word, index):
         if index == len(word):
@@ -73,21 +121,6 @@ class Trie:
             del current_node.children[child]
             return len(current_node.children) == 0 and not current_node.is_end_of_word
 
-    def trie_getter(self, sequence):
-        """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen 
-        tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
-        next_frequencies = ([],[])
-        return next_frequencies
-
-    def generate(self, sequencies_frequencies, length):
-        #Generoidaan seuraavat sanat painotetulla arvontafunktiollas
-        sequencies = sequencies_frequencies[0]
-        frequencies = sequencies_frequencies[1]
-        if len(length) == 0:
-            return  
-        new_sequence = random.choices(sequencies, weights=frequencies, k = length)
-        return new_sequence
-   
     def starts_with(self, prefix): #käytetään DFS
         words = [] #kerätään löydetyt sanat listaan
         current_node = self.root
@@ -108,18 +141,3 @@ class Trie:
             dfs(current_node, list(prefix))
 
             return words
-
-    def list_words(self):
-        words = []
-
-        def dfs(current_node, path):
-            if current_node.is_end_of_word:
-                words.append("".join(path)) #koostetaan sana mjonoksi
-
-            for child, child_node in current_node.children.items():
-                dfs(child_node, path + [child])
-
-            dfs(self.root, [])
-
-            return words
-

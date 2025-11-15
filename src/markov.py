@@ -1,5 +1,4 @@
 
-
 class MarkovModel:
     def __init__(self, k_order, corpus):
         self.k_order = int(k_order)
@@ -19,14 +18,14 @@ class MarkovModel:
 
     def find_unique_words(self):
         word_list = list(set(self.corpus.split()))
-        #print(word_list, len(word_list))
         return word_list
 
     def build_model(self):
-        """Muodostetaan mallin sanakirja self.markov_model. Ensin generoidaan korpuksesta n-grammit 
-            ja lasketaan niiden esiintyvyys korpuksessa. Sitten muodostetaan sanakirja: n-grammit 
-            (sekvenssit) tuple-avaimena ja frekvenssit arvona. Palautetaan malli TRIE-hakupuuta varten."""
-        
+        """Muodostetaan mallin sanakirja self.markov_model. Ensin generoidaan korpuksesta 
+            n-grammit ja lasketaan niiden esiintyvyys korpuksessa. Sitten muodostetaan 
+            sanakirja: n-grammit (sekvenssit) tuple-avaimena ja frekvenssit arvona. 
+            Palautetaan malli TRIE-hakupuuta varten."""
+
         self.generate_ngrams()
 
         self.n_grams = [tuple(n_gram) for n_gram in self.n_grams]
@@ -39,10 +38,11 @@ class MarkovModel:
         #print(self.markov_model, values)
         return self.markov_model
 
+    """tämä def tod.näk. turha, poistan jos en tarvitse:
     def calculate_prob(self):
-        """lasketaan todennäköisyydet, että kahta sanaa seuraa kolmas sana. 
+        lasketaan todennäköisyydet, että kahta sanaa seuraa kolmas sana. 
         Siis sana1, sana2 -> sana3 tarvitaan kahden sanan jälkeiset kaikki 
-        mahdolliset sanat, joista lasketaan esiintyvyys riippuen kahdesta edellisestä sanasta."""
+        mahdolliset sanat, joista lasketaan esiintyvyys riippuen kahdesta edellisestä sanasta.
 
         probabilities = {} #tallennetaan sanat ja seuraavien sanojen todennäköisyydet sanakirjaan
 
@@ -55,8 +55,8 @@ class MarkovModel:
                 probabilities[(word[0], word[1])].append(word[2])
 
         for pair in probabilities.keys():
-            """avaimena kaksi edellistä tilaa -> (sana1, sana2): [(sana3, tod.näk), (sana4, tod.näk)] <- mahdolliset 
-            seuraavat sanat ja niiden todennäköisyydet suhteessa muihin mahdollisiin seuraaviin sanoihin tuplena listassa"""
+            avaimena kaksi edellistä tilaa -> (sana1, sana2): [(sana3, tod.näk), (sana4, tod.näk)] <- mahdolliset 
+            seuraavat sanat ja niiden todennäköisyydet suhteessa muihin mahdollisiin seuraaviin sanoihin tuplena listassa
 
             next_words = probabilities[pair]
             words_prob = []
@@ -69,5 +69,4 @@ class MarkovModel:
             
         #print(probabilities)
         return probabilities
-
-        #print(probabilities, len(probabilities))
+        #print(probabilities, len(probabilities))"""
