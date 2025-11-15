@@ -16,8 +16,6 @@ class Haiku():
         i = 1
         #haku 5 tavulle, haku 7-tavulle, haku 5-tavulle vai yksi haku 17 tavulle?
         trie.trie_search(self.start)
-        #haku 7 tavulle
-        #haku 5 tavulle
         return haiku
 
     def print_haiku(self, haiku_poem):
