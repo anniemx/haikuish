@@ -2,8 +2,9 @@ import random
 
 class TrieNode:
     def __init__(self):
-        self.children = {}
-        self.is_end_of_word = False
+        self.children = {} # a: TrieNode
+        self.is_end_of_sequence = False
+        self.frequency = 1
 
 
 class Trie:
@@ -28,17 +29,17 @@ class Trie:
 
            Trie.trie_insert(n_gram)
 
-    #lisätään n-grammit trie-puuhun tavutettuna merkkijonona
+    #lisätään n-grammit trie-puuhun sanoittain
     def trie_insert(self, n_gram):
         current_node = self.root
-        #lisätään sana tavu kerrallaan -> luodaan uusi solmu, jos tavu ei puussa
+        #lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei puussa
         for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
-
             current_node = current_node.children[child]
-        #kirjainten lopuksi merkitään sana päättyneeksi is_end_of_word=True
-        current_node.is_end_of_word = True
+
+        #n-grammin/sekvenssin lopuksi merkitään sana päättyneeksi is_end_of_sequence=True
+        current_node.is_end_of_sequence = True
 
     def trie_delete(self, word):
         self.help_delete(self.root, word, 0)
@@ -76,13 +77,13 @@ class Trie:
         return True #palautetaan tieto, että saavutettiin sanan loppu
 
     def trie_getter(self, sequence):
-        """tallennetaan annetun sekvenssin seuraajat frekvensseineen 
+        """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen 
         tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
         next_frequencies = ([],[])
         return next_frequencies
 
     def generate(self, sequencies_frequencies, length):
-        #Generoidaan seuraavat sanat painotetulla arvontafunktiolla
+        #Generoidaan seuraavat sanat painotetulla arvontafunktiollas
         sequencies = sequencies_frequencies[0]
         frequencies = sequencies_frequencies[1]
         if len(length) == 0:

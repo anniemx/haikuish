@@ -6,7 +6,7 @@ class Haiku():
 
     def k_order(self):
         self.order = input("Anna Markovin ketjun aste: ")
-        if int(self.order) < 1 or int(self.order) > 50:
+        if int(self.order) < 1 or int(self.order) > 50 or self.order == None:
             self.k_order()
         return self.order
 

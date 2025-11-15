@@ -1,6 +1,4 @@
-#import numpy as np
-import random as rm
-#import process_data
+
 
 class MarkovModel:
     def __init__(self, k_order, corpus):
@@ -16,7 +14,7 @@ class MarkovModel:
         words = self.corpus.split()
         for i in range(len(words) - n + 1):
             self.n_grams.append(words[i : i + n])
-        print(self.n_grams)
+        #print(self.n_grams)
         return self.n_grams
 
     def find_unique_words(self):
@@ -38,7 +36,7 @@ class MarkovModel:
             else:
                 self.markov_model[n_gram] = 1
         values = list(self.markov_model.values())
-        #print(self.markov_model, values)
+        print(self.markov_model, values)
 
     def calculate_prob(self):
         """lasketaan todennäköisyydet, että kahta sanaa seuraa kolmas sana. 
