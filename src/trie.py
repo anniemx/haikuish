@@ -2,44 +2,53 @@ import random
 
 class TrieNode:
     def __init__(self):
-        self.children = {} # a: TrieNode
+        self.children = {}
         self.is_end_of_sequence = False
         self.frequency = 1
+
+    def __repr__(self):
+        return f"TrieNode(children={list(self.children.keys())},\
+        is_end_of_sequence={self.is_end_of_sequence}, frequency={self.frequency})"
 
 
 class Trie:
     def __init__(self):
         self.root = TrieNode()
 
-    #etsitään trie-puusta sana kirjain kerrallaan child = kirjain
+    #etsitään trie-puusta sekvenssi kerrallaan child = sana
     def trie_search(self, word):
         current_node = self.root
 
-        for child in word: # käydään läpi kirjaimet sanasta
+        for child in word: # käydään läpi sanat sekvenssistä
             if child not in current_node.children:
-                #palautetaan epätosi -> sana ei puussa, kirjainta ei löydy oikeassa järjestyksessä
+                #palautetaan epätosi -> sana ei puussa
                 return False 
             
             current_node = current_node.children[child]
 
         return current_node.is_end_of_word #palautetaan tieto, että saavutettiin sanan loppu
 
+    """lisätään n-grammit trie-puuhun sanoittain, 
+        markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
     def trie_insert_markov_chain(self, markov_chain):
-        for n_gram in markov_chain:
+        for n_gram, frequency in markov_chain.items():
+           #print(n_gram, frequency)
+           self.trie_insert(n_gram, frequency)
 
-           Trie.trie_insert(n_gram)
-
-    #lisätään n-grammit trie-puuhun sanoittain
-    def trie_insert(self, n_gram):
+    def trie_insert(self, n_gram, frequency):
         current_node = self.root
-        #lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei puussa
+        #lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei ole puussa
         for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
-            current_node = current_node.children[child]
+                current_node.frequency = frequency
 
-        #n-grammin/sekvenssin lopuksi merkitään sana päättyneeksi is_end_of_sequence=True
+            current_node = current_node.children[child]
+        #n-grammin (sekvenssin) lopuksi merkitään sana päättyneeksi is_end_of_sequence=True
         current_node.is_end_of_sequence = True
+        print(f"Inserted n-gram {n_gram}, frequency {frequency}", current_node)
+
+
 
     def trie_delete(self, word):
         self.help_delete(self.root, word, 0)
@@ -63,18 +72,6 @@ class Trie:
         if delete_current_node:
             del current_node.children[child]
             return len(current_node.children) == 0 and not current_node.is_end_of_word
-
-    def has_prefix(self, prefix): #löytyykö sanan etuliite?
-        current_node = self.root
-
-        for child in prefix: # käydään läpi kirjaimet sanasta
-            if child not in current_node.children:
-                #palautetaan epätosi -> etuliite ei puussa, kirjainta ei löydy oikeassa järjestyksessä
-                return False 
-            
-            current_node = current_node.children[child]
-
-        return True #palautetaan tieto, että saavutettiin sanan loppu
 
     def trie_getter(self, sequence):
         """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen 

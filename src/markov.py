@@ -23,9 +23,9 @@ class MarkovModel:
         return word_list
 
     def build_model(self):
-        """Muodostetaan mallin sanakirja self.markov_model, jossa n-grammit tuple-avaimena ja lasketaan n-grammien esiintyvyys. 
-            Siis tällöin saadaan kahden sanan ja niitä seuraavan sanan esiintyvyysmäärä (frekvenssi) koko tekstissä. 
-            -> Tämän jälkeen lasketaan lukumäärän perusteella todennäköisyys sille, että kahta sanaa seuraa tietty sana."""
+        """Muodostetaan mallin sanakirja self.markov_model. Ensin generoidaan korpuksesta n-grammit 
+            ja lasketaan niiden esiintyvyys korpuksessa. Sitten muodostetaan sanakirja: n-grammit 
+            (sekvenssit) tuple-avaimena ja frekvenssit arvona. Palautetaan malli TRIE-hakupuuta varten."""
         
         self.generate_ngrams()
 
@@ -36,7 +36,8 @@ class MarkovModel:
             else:
                 self.markov_model[n_gram] = 1
         values = list(self.markov_model.values())
-        print(self.markov_model, values)
+        #print(self.markov_model, values)
+        return self.markov_model
 
     def calculate_prob(self):
         """lasketaan todennäköisyydet, että kahta sanaa seuraa kolmas sana. 
