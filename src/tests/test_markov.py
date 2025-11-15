@@ -7,22 +7,20 @@ class TestMarkovModel(unittest.TestCase):
     def setUp(self):
         self.markov = MarkovModel()
 
+    #testataan muodostuuko n-grammit asteen mukaisesti oikein
+    def test_generate_ngrams():
+        pass
 
     """testataan, että malli rakentuu oikein: n-grammit jakautuu mallin sanakirjarakenteeseen muotoon 
-    (sana1, sana2):[(seuraava_sana1, x), (seuraava_sana2, x), (seuraava_sana, x)]"""
+    """
     def test_build_model_(self):
-        self.assertEqual()
+        self.assertEqual() #palauttaako sekvenssit ja frekvenssit oikeassa muodossa
 
-    """testataan, että todennäköisyys oikein"""
-    def calculate_prob(self):
-        prob =  self.markov
-        self.assertEqual()
-
-    """testataan, ettei tyhjiä mjonoja"""
+    #testataan, ettei tyhjiä mjonoja
     def test_empty_string(self):
         self.assertEqual("", "")
 
-    """testataan, ettei None"""
+    #testataan, ettei None
     def test_none(self):
         self.assertEqual("", None)
 
