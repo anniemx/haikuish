@@ -75,23 +75,24 @@ class Trie:
                 self.sequence.append(next_word)
                 search_sequence.append(next_word)
 
-    def search_dfs(self, current_node, path):
-        if current_node.is_end_of_sequence:
-            words.append("".join(path))
+    def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
+        if index == len(search_sequence):
+            return current_node.children #palautetaan lapset, kun ollaan käyty koko puu lävitse
+        word = search_sequence[index]
+        if word in current_node.children:
+            return self._dfs(current_node[word],search_sequence, index + 1)
+        
 
-        for child in current_node.children.items():
-            self.dfs(child, path + [child])
-
-            self.dfs(self.root, [])
-
-    def get_list_words(self, search_sequence=list):
-        words = []
-        frequencies = []
+    def get_list_words(self, search_sequence):
+        #etsitään seuraajat ja niiden frekvenssit
+        #etsitään siis puusta search_sequence ja lisätään sen k+1 jäsenet ja frekvenssit listaan
         current_node = self.root
-        for i in range(len(search_sequence)):
-            word = search_sequence[i]
-            if word not in current_node.children:
-                return False
+        index = 0
+        next_words = self._dfs(current_node, search_sequence, index)
+        words = [next_words.keys]
+        frequencies = [next_words.values]
+        
+        return (words, frequencies)
 
 #nämä metodit apuna - ei käytössä
     def get_start(self, first_word, k_order):

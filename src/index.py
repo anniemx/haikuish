@@ -10,7 +10,6 @@ k_order = haiku.k_order() #haetaan käyttäjältä markovin ketjun haluttu aste
 markov_model = markov.MarkovModel(k_order, corpus) 
 markov_chain = markov_model.build_model() #luodaan markovin ketju halutun asteen mukaan
 markov_chain_words = markov_model.find_unique_words() #haetaan listana yksittäiset esiintyvät sanat 
-start = random.choice(markov_chain_words)
 trie = trie.Trie()
 trie.trie_insert_markov_chain(markov_chain) #tallennetaan sekvenssit ja frekvenssit trieen
-trie.starts_with(start, k_order)
+trie.generate(k_order, length=5)
