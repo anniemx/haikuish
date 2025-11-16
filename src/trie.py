@@ -14,6 +14,7 @@ class TrieNode:
 class Trie:
     def __init__(self):
         self.root = TrieNode()
+        self.sequence = []
 
     """lisätään n-grammit trie-puuhun sanoittain, 
         markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
@@ -50,6 +51,49 @@ class Trie:
 
         return current_node.is_end_of_sequence #palautetaan tieto, että saavutettiin sekvenssin loppu
 
+
+    def generate(self, k_order, length):
+        """Generoidaan sanoja length-verran. Aloitetaan haku sekvenssistä k=0, eli tyhjästä listasta.
+            Generoidaan halutun k-asteen verran sanoja hakusekvenssiin. Sen jälkeen generoidaan sana kerrallaan
+            seuraajat ja niiden frekvenssit tuplena ([sekvenssit],[frekvenssit]), joista arvotaan koko sanalistaan
+            seuraava sana. Markovin ketjun k-aste tarkastetaan jokaisen generoidun sanan jälkeen ja muokataan 
+            hakusekvenssi k-asteiseksi, eli poistetaan ensimmäinen sana."""
+
+        search_sequence = []
+
+        for i in range(len(length)):
+            if len(search_sequence) < k_order:
+                next_search_wordlist = self.get_list_words(search_sequence)
+                next_search_word = random.choices(next_search_wordlist[0], weights=next_search_wordlist[1], k = 1)
+                search_sequence.append(next_search_word)
+
+            else:
+                if len(search_sequence) > k_order:
+                    search_sequence.pop(0)
+                next_wordlist = self.get_list_words(search_sequence)
+                next_word = random.choices(next_wordlist[0], weights=next_wordlist[1], k = 1)
+                self.sequence.append(next_word)
+                search_sequence.append(next_word)
+
+    def search_dfs(self, current_node, path):
+        if current_node.is_end_of_sequence:
+            words.append("".join(path))
+
+        for child in current_node.children.items():
+            self.dfs(child, path + [child])
+
+            self.dfs(self.root, [])
+
+    def get_list_words(self, search_sequence=list):
+        words = []
+        frequencies = []
+        current_node = self.root
+        for i in range(len(search_sequence)):
+            word = search_sequence[i]
+            if word not in current_node.children:
+                return False
+
+#nämä metodit apuna - ei käytössä
     def get_start(self, first_word, k_order):
         """Aloitetaan aineistosta arvotulla ensimmäisellä sanalla.
         Etsitään sitä seuraavat sanat trie_starts_with() ja arvotaan seuraaja 
@@ -74,29 +118,8 @@ class Trie:
                 return []
             current_node = current_node.children[word]
 
-        next_words = self.list_words(current_node, sequence)
+        next_words = self.get_list_words(current_node, sequence)
         return next_words
-
-    def list_words(self, sequence):
-        words = []
-        frequencies = []
-        #etsitään seuraajat syvyyshaulla
-        current_node = self.root
-        for i in range(len(sequence)):
-            word = sequence[i]
-            if word not in current_node.children:
-                return False
-
-        def dfs(current_node, path):
-            if current_node.is_end_of_sequence:
-                words.append("".join(path)) #koostetaan sekvenssi
-
-            for child, child_node in current_node.children.items():
-                dfs(child_node, path + [child])
-
-            dfs(self.root, [])
-
-            return (words, frequencies)
 
     def trie_delete(self, word):
             self.help_delete(self.root, word, 0)
