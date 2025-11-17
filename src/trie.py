@@ -61,27 +61,19 @@ class Trie:
 
         search_sequence = []
 
-        for i in range(len(length)):
-            if len(search_sequence) < k_order:
+        for i in range(length):
+            if len(search_sequence) < len(k_order):
                 next_search_wordlist = self.get_list_words(search_sequence)
                 next_search_word = random.choices(next_search_wordlist[0], weights=next_search_wordlist[1], k = 1)
                 search_sequence.append(next_search_word)
 
             else:
-                if len(search_sequence) > k_order:
+                if len(search_sequence) > int(k_order):
                     search_sequence.pop(0)
                 next_wordlist = self.get_list_words(search_sequence)
                 next_word = random.choices(next_wordlist[0], weights=next_wordlist[1], k = 1)
                 self.sequence.append(next_word)
                 search_sequence.append(next_word)
-
-    def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
-        if index == len(search_sequence):
-            return current_node.children #palautetaan lapset, kun ollaan käyty koko puu lävitse
-        word = search_sequence[index]
-        if word in current_node.children:
-            return self._dfs(current_node[word],search_sequence, index + 1)
-        
 
     def get_list_words(self, search_sequence):
         #etsitään seuraajat ja niiden frekvenssit
@@ -91,8 +83,25 @@ class Trie:
         next_words = self._dfs(current_node, search_sequence, index)
         words = [next_words.keys]
         frequencies = [next_words.values]
-        
+
         return (words, frequencies)
+
+    def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
+        if index == len(search_sequence):
+            return current_node.children #palautetaan lapset, kun ollaan käyty koko puu lävitse
+        word = search_sequence[index]
+        if word in current_node.children:
+            return self._dfs(current_node[word],search_sequence, index + 1)
+        
+
+    
+
+
+
+
+
+
+
 
 #nämä metodit apuna - ei käytössä
     def get_start(self, first_word, k_order):
@@ -104,12 +113,12 @@ class Trie:
         for i in range(k_order):
             self.trie_starts_with(word)
 
-        #sequencies = sequencies_frequencies[0]
+        """sequencies = sequencies_frequencies[0]
         #frequencies = sequencies_frequencies[1]
         #if len(k_order) == 0:
         #    return
         #new_sequence = random.choices(sequencies, weights=frequencies, k = 1)
-        #return new_sequence
+        #return new_sequence"""
 
     def trie_starts_with(self, start):
         sequence = start
