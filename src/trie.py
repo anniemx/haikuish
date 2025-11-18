@@ -63,7 +63,9 @@ class Trie:
 
         for i in range(length):
             if len(search_sequence) < len(k_order):
+                
                 next_search_wordlist = self.get_list_words(search_sequence)
+                #print(next_search_wordlist[0], next_search_wordlist[1])
                 next_search_word = random.choices(next_search_wordlist[0], weights=next_search_wordlist[1], k = 1)
                 search_sequence.append(next_search_word)
 
@@ -71,9 +73,12 @@ class Trie:
                 if len(search_sequence) > int(k_order):
                     search_sequence.pop(0)
                 next_wordlist = self.get_list_words(search_sequence)
-                next_word = random.choices(next_wordlist[0], weights=next_wordlist[1], k = 1)
+                #print(next_wordlist[1])
+                next_word = random.choices(next_wordlist[0], weights=(next_wordlist[1]), k = 1)
                 self.sequence.append(next_word)
                 search_sequence.append(next_word)
+
+        return self.sequence
 
     def get_list_words(self, search_sequence):
         #etsitään seuraajat ja niiden frekvenssit
@@ -81,19 +86,29 @@ class Trie:
         current_node = self.root
         index = 0
         next_words = self._dfs(current_node, search_sequence, index)
-        words = [next_words.keys]
-        frequencies = [next_words.values]
-
+        words = list(next_words.keys())
+        frequencies = list(next_words.values())
         return (words, frequencies)
 
     def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
         if index == len(search_sequence):
-            return current_node.children #palautetaan lapset, kun ollaan käyty koko puu lävitse
-        word = search_sequence[index]
-        if word in current_node.children:
-            return self._dfs(current_node[word],search_sequence, index + 1)
+            results={}
+            
+            for word, child in current_node.children.items():
+                results[word] = child.frequency        
+            #print(results)
+            return results #palautetaan lapset, kun ollaan käyty koko puu lävitse
         
+        next_word = search_sequence[index]
+        #print(next_word)
 
+        if isinstance(next_word, list):
+            next_word = next_word[0]
+
+        if next_word in current_node.children:
+            return self._dfs(current_node.children[next_word], search_sequence, index + 1)
+        
+        return {}
     
 
 

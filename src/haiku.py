@@ -6,16 +6,18 @@ class Haiku():
 
     def k_order(self):
         self.order = input("Anna Markovin ketjun aste: ")
-        if int(self.order) < 1 or int(self.order) > 50 or self.order == None:
+        if self.order == None or self.order == "" or int(self.order) < 1 or int(self.order) > 50:
             self.k_order()
         return self.order
 
-    def generate_haiku(self):
+    def generate_haiku(self, content):
         #tavut kolmella rivillä 5 - 7 - 5 -> miten saadaan varmistettua oikea tavumäärä?
-        haiku = [[], [], []]
-        i = 1
+        haiku = [[content], [], []]
+        for line in haiku:
+            print(line)
+
         #haku 5 tavulle, haku 7-tavulle, haku 5-tavulle vai yksi haku 17 tavulle?
-        trie.trie_search(self.start)
+        
         return haiku
 
     def print_haiku(self, haiku_poem):
