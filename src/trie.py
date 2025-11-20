@@ -61,7 +61,7 @@ class Trie:
 
         search_sequence = []
 
-        for i in range(length):
+        for i in range(length + 1):
             if len(search_sequence) < len(k_order):
                 
                 next_search_wordlist = self.get_list_words(search_sequence)
@@ -108,7 +108,7 @@ class Trie:
         if next_word in current_node.children:
             return self._dfs(current_node.children[next_word], search_sequence, index + 1)
         
-        return {}
+        return None
     
 
 
