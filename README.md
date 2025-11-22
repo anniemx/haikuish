@@ -16,6 +16,7 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 * [Viikkoraportti 1](./dokumentaatio/viikkoraportit/viikko1.md)
 * [Viikkoraportti 2](./dokumentaatio/viikkoraportit/viikko2.md)
 * [Viikkoraportti 3](./dokumentaatio/viikkoraportit/viikko3.md)
+* [Viikkoraportti 4](./dokumentaatio/viikkoraportit/viikko4.md)
 
 
 Data/mini_corpus.txt: Tavutettu mini-tietoaineisto testiksi: Eino Leinon runoja (Runoja kokoelmien ulkopuolelta) kotimaisten kielten keskuksen avoimesta tietokannasta.
