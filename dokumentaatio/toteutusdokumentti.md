@@ -1,21 +1,23 @@
 ## Ohjelman yleisrakenne
-Ohjelma koostuu Markovin ketjusta ja TRIE-hakupuusta. 
+Haikumaisia runoja generoiva ohjelma koostuu Markovin ketjusta ja TRIE-hakupuusta. 
 
-Tavutettu tekstiaineisto prosessoidaan ensin n-grammeihin, joissa n=3. 3-grammit eli muotoa (sana1, sana2, sana3) ja (sana2, sana3, sana4) viedään Markovin ketjuihin (markov.py). 3-grammit jaotellaan sanakirjaan niin, että avaimena on sanapari ja arvona kaikki mahdolliset paria seuraavat mahdolliset sanat ja niiden todennäköisyydet. Markovin ketjun aste on siten k=2, koska tunnemme kaksi edellistä sanaa, eli tilaa seuraavan sanan generointia varten. 
+Tavutettu tekstiaineisto (korpus) prosessoidaan ensin n-grammeihin, jonka Markovin ketjun k asteen mukaan n=k+1. Käyttäjä määrittää halutun asteen k. Markovin ketjun aste kertoo, kuinka monen edellisen sanan perusteella generoidaan seuraava sana. Markovin ketjun malli muodostetaan markov.py ohjelmassa metodilla build_model, joka muodostaa n-grammit tuplena esim. n=3 (sana1, sana2, sana3) ja (sana2, sana3, sana4). N-grammit jaotellaan mallin sanakirjaan niin, että avaimena on n-grammi (sekvenssi) ja arvona niiden esiintyvyys (frekvenssi) korpuksessa. 
 
-Muodostettu Markovin ketjun malli viedään TRIE-hakupuuhun (trie.py), jossa 3-grammit tallennetaan tavuittain.
-Haikun generointi aloitetaan käyttäjän antamasta tavutetusta sanasta. TRIE-hakupuusta arvotaan painotetusti annetun aloitussanan perusteella haikumuotoon sopivat seuraavat sanat.
+Muodostettu Markovin ketjun malli viedään TRIE-hakupuuhun (trie.py), johon n-grammit tallennetaan. Seuraavien sanojen generointi halutun pituuden mukaisesti käyttää TRIE:n getteriä get_list_words(), joka palauttaa hakupuusta löydetyt seuraavat sanat. TRIE:n haku itsessään käyttää syvyyshakua (dfs). Uusi sanajono arvotaan painotetusti frekvenssien mukaan.
 
-Haiku tulostetaan riveittäin.
+Haikun generointi ja tavujen tarkastus (yhteensä 17-tavua, jaolla 5-7-5) aloitetaan ohjelmassa haiku.py. Haikuruno siis haetaan trie-hakupuusta generoimalla oikeaa muotoa oleva sanajono.
+
+Kun sopiva sanajono on muodostettu, haiku tulostetaan riveittäin.
 
 ## Saavutetut aika- ja tilavaativuudet (esim. O-analyysit pseudokoodista)
+TRIE:n haku ja lisäys tapahtuu aikavaativuudella O(n), jossa n on sanajonon pituus. Tämä on tehokkaampi, kuin esimerkiksi listasta sanan etsintä, jossa käydään lineaarisesti vaihtoehdot lävitse. TRIE-hakupuussa voidaan siis etsiä tehokkaammin oikea polku kulkemalla vain toisiinsa liittyvät sanat.
 
 ## Suorituskyky- ja O-analyysivertailu (mikäli sopii työn aiheeseen)
 
 ##  Työn mahdolliset puutteet ja parannusehdotukset
 
 ## Laajojen kielimallien (ChatGPT yms.) käyttö
-Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla ja tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ChatGPT:stä.
+Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä.
 
 ## Lähteet
 * https://fi.wikipedia.org/wiki/Haiku

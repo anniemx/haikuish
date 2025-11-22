@@ -17,7 +17,7 @@ Aikavaativuus vaikuttaa riippuvan tilojen ja siirtymien määrästä. Aikavaativ
 
 
 ## Lähteet
-Lähteenä käytän: 
+Lähteenä käytän:
 * https://fi.wikipedia.org/wiki/Haiku
 * https://en.wikipedia.org/wiki/Markov_chain
 * https://towardsdatascience.com/new-york-seeks-haikus-generating-haikus-from-nyc-government-job-descriptions-c27496a376fd/
