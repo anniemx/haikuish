@@ -6,10 +6,10 @@ Tällä viikolla minitekstiaineiston ongelmat tulivat esille. Olen aikaisemmin k
 
 Kommentoin keskeneräisen haikutarkastuksen koodista tässä välissä vielä pois (ellen kerkeä sitä ratkaisemaan vielä ennen arviointeja), sillä ajattelin, että vertaisarvioinnin kannalta jotain tuottava koodi on mukavampi.
 
-Seuraavaksi jatkan generoivan algoritmin ja haikumuodon tarkastuksen hienosäätöä isommalla aineistolla. Aion osallistua testauksesta kertovalle luennolle, jonka perusteella jatkan testien rakentamista ja itse testaamista. 
+Seuraavaksi jatkan generoivan algoritmin ja haikumuodon tarkastuksta ja hienosäätöä isommalla aineistolla. Aion osallistua testauksesta kertovalle luennolle, jonka perusteella jatkan testien rakentamista ja itse testaamista. 
 
 Mikään yksittäinen asia ei ehkä ole ollut tässä vaiheessa ylitsepääsemätön, vaan enemmänkin yritän nyt saada testattua toimivuutta ja rakentaa testejä eteenpäin.
 
 Etsin myös sopivaa opetusaineistoa ja latasin YLE:n uutisaineistoja, joita olen testaillut vielä erillään projektista. Löysin myös python-kirjaston FinnSyll, joka tavuttaa tekstiä. Voisiko tätä käyttää hyödyksi tekstiaineiston tavutukseen, koska se ei ole algoritmin pääasiallinen tarkoitus, vaan koskisi vain aineiston prosessointia algoritmille sopivaksi? 
 
-Viikon työtunnit: xxh.
+Viikon työtunnit: 16.00h
