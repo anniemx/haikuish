@@ -12,5 +12,11 @@ markov_chain = markov_model.build_model() #luodaan markovin ketju halutun asteen
 markov_chain_words = markov_model.find_unique_words() #haetaan listana yksittäiset esiintyvät sanat 
 trie = trie.Trie()
 trie.trie_insert_markov_chain(markov_chain) #tallennetaan sekvenssit ja frekvenssit trieen
-content = trie.generate(k_order, length=15)
-haiku.generate_haiku(content)
+length = 1
+while True:
+    content = trie.generate(k_order, length)
+    length +=1
+    if haiku.generate_haiku(content):
+        break
+
+
