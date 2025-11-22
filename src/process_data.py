@@ -1,7 +1,4 @@
 import re
-#import numpy as np
-
-
 #haetaan tavutettu aineisto, prosessoidaan teksti käsiteltäväksi markovin ketjun mallia varten
 
 def pre_process():
@@ -9,6 +6,3 @@ def pre_process():
     corpus = re.sub(r"[^a-zA-Z0-9\säöåÄÖå-]", "", corpus)
     corpus = corpus.lower()
     return corpus
-
-
-

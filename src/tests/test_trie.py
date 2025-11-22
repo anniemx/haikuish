@@ -17,12 +17,14 @@ class TestTrie(unittest.TestCase):
 
     def generate(self):
         self.assertTrue("", "")
-    
 
     #tyhjä markov ketju?
-    def test_insert_empty_string(self):
-        self.assertEqual("", "")
+    def test_search_empty_string(self):
+        self.assertEqual(self.trie.trie_search(""), False)
 
-    def test_insert_none(self):
-        self.assertEqual("", "")
+    def test_search_none(self):
+        self.assertEqual(self.trie.trie_search(None), False)
+
+    def test_search(self):
+        self.assertTrue(self.trie.trie_search(("sana3", "sana4", "sana5")))
 

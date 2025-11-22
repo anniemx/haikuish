@@ -16,7 +16,7 @@ class Trie:
         self.root = TrieNode()
         self.sequence = []
 
-    """lisätään n-grammit trie-puuhun sanoittain, 
+    """lisätään n-grammit trie-puuhun sanoittain,
         markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
     def trie_insert_markov_chain(self, markov_chain):
         for n_gram, frequency in markov_chain.items():
@@ -36,7 +36,7 @@ class Trie:
         current_node.is_end_of_sequence = True
         #print(f"Inserted n-gram {n_gram}, frequency {frequency}", current_node)
 
-    """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen 
+    """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen
         tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
 
     #etsitään trie-puusta sekvenssi, palautetaan true/false
@@ -46,27 +46,30 @@ class Trie:
         for child in sequence: # käydään läpi sanat sekvenssistä
             if child not in current_node.children:
                 #palautetaan False -> sana ei puussa
-                return False 
+                return False
             current_node = current_node.children[child]
-
-        return current_node.is_end_of_sequence #palautetaan tieto, että saavutettiin sekvenssin loppu
+    #palautetaan tieto, että saavutettiin sekvenssin loppu
+        return current_node.is_end_of_sequence
 
 
     def generate(self, k_order, length):
-        """Generoidaan sanoja length-verran. Aloitetaan haku sekvenssistä k=0, eli tyhjästä listasta.
-            Generoidaan halutun k-asteen verran sanoja hakusekvenssiin. Sen jälkeen generoidaan sana kerrallaan
-            seuraajat ja niiden frekvenssit tuplena ([sekvenssit],[frekvenssit]), joista arvotaan koko sanalistaan
-            seuraava sana. Markovin ketjun k-aste tarkastetaan jokaisen generoidun sanan jälkeen ja muokataan 
+        """Generoidaan sanoja length-verran. Aloitetaan haku sekvenssistä k=0, 
+            eli tyhjästä listasta. Generoidaan halutun k-asteen verran sanoja 
+            hakusekvenssiin. Sen jälkeen generoidaan sana kerrallaan seuraajat 
+            ja niiden frekvenssit tuplena ([sekvenssit],[frekvenssit]), 
+            joista arvotaan koko sanalistaan seuraava sana. Markovin ketjun 
+            k-aste tarkastetaan jokaisen generoidun sanan jälkeen ja muokataan 
             hakusekvenssi k-asteiseksi, eli poistetaan ensimmäinen sana."""
 
         search_sequence = []
 
         for i in range(length + 1):
             if len(search_sequence) < len(k_order):
-                
+
                 next_search_wordlist = self.get_list_words(search_sequence)
                 #print(next_search_wordlist[0], next_search_wordlist[1])
-                next_search_word = random.choices(next_search_wordlist[0], weights=next_search_wordlist[1], k = 1)
+                next_search_word = random.choices(next_search_wordlist[0],
+                                                  weights=next_search_wordlist[1], k = 1)
                 search_sequence.append(next_search_word)
 
             else:
@@ -74,7 +77,8 @@ class Trie:
                     search_sequence.pop(0)
                 next_wordlist = self.get_list_words(search_sequence)
                 #print(next_wordlist[1])
-                next_word = random.choices(next_wordlist[0], weights=(next_wordlist[1]), k = 1)
+                next_word = random.choices(next_wordlist[0],
+                                           weights=(next_wordlist[1]), k = 1)
                 self.sequence.append(next_word)
                 search_sequence.append(next_word)
 
@@ -93,12 +97,12 @@ class Trie:
     def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
         if index == len(search_sequence):
             results={}
-            
+
             for word, child in current_node.children.items():
-                results[word] = child.frequency        
+                results[word] = child.frequency
             #print(results)
             return results #palautetaan lapset, kun ollaan käyty koko puu lävitse
-        
+
         next_word = search_sequence[index]
         #print(next_word)
 
@@ -107,9 +111,8 @@ class Trie:
 
         if next_word in current_node.children:
             return self._dfs(current_node.children[next_word], search_sequence, index + 1)
-        
+
         return None
-    
 
 
 
@@ -117,23 +120,22 @@ class Trie:
 
 
 
-
-#nämä metodit apuna - ei käytössä
+"""nämä metodit apuna - ei käytössä
     def get_start(self, first_word, k_order):
-        """Aloitetaan aineistosta arvotulla ensimmäisellä sanalla.
+        Aloitetaan aineistosta arvotulla ensimmäisellä sanalla.
         Etsitään sitä seuraavat sanat trie_starts_with() ja arvotaan seuraaja 
-        painotetulla arvontafunktiolla. Toistetaan k kertaa, jotta saadaan aste"""
+        painotetulla arvontafunktiolla. Toistetaan k kertaa, jotta saadaan aste
         sequence = []
         word = first_word
         for i in range(k_order):
             self.trie_starts_with(word)
 
-        """sequencies = sequencies_frequencies[0]
+       sequencies = sequencies_frequencies[0]
         #frequencies = sequencies_frequencies[1]
         #if len(k_order) == 0:
         #    return
         #new_sequence = random.choices(sequencies, weights=frequencies, k = 1)
-        #return new_sequence"""
+        #return new_sequence
 
     def trie_starts_with(self, start):
         sequence = start
@@ -189,3 +191,4 @@ class Trie:
             dfs(current_node, list(prefix))
 
             return words
+"""

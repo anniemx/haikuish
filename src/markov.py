@@ -34,8 +34,6 @@ class MarkovModel:
                 self.markov_model[n_gram] += 1
             else:
                 self.markov_model[n_gram] = 1
-        values = list(self.markov_model.values())
-        #print(self.markov_model, values)
         return self.markov_model
 
     """tämä def tod.näk. turha, poistan jos en tarvitse:
