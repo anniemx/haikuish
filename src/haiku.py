@@ -12,7 +12,8 @@ class Haiku():
     def generate_haiku(self, content):
         #tavut kolmella rivillä 5 - 7 - 5 -> miten saadaan varmistettua oikea tavumäärä?
         #yksi haku 17 tavulle, mutta miten jako-  vai tarkastetaanko jokaisessa haun välissä määrä?
-
+        print(content)
+    """ei toimi pienellä korpuksella:
         haiku = []
         haiku_poem = []
         line_no = 1
@@ -26,8 +27,6 @@ class Haiku():
                 haiku_poem.append(content[i][0].replace("-", ""))
                 self._check_syllables(content, line_no)
                 line_no+=1
-
-
             print(haiku_poem)
             return True
         return False
@@ -50,3 +49,4 @@ class Haiku():
         #tulosta rivi kerrallaan
         for line in haiku_poem:
             print(line)
+    """
