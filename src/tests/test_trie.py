@@ -4,8 +4,8 @@ from trie import Trie
 class TestTrie(unittest.TestCase):
     def setUp(self):
         self.trie = Trie()
-        self.content = {("sana1", "sana2", "sana3"):2, 
-                        ("sana2", "sana3", "sana4"):1, 
+        self.content = {("sana1", "sana2", "sana3"):2,
+                        ("sana2", "sana3", "sana4"):1,
                         ("sana3", "sana4", "sana5"):1,
                         }
         self.trie_insert_markov_chain(self.content)
@@ -27,4 +27,3 @@ class TestTrie(unittest.TestCase):
 
     def test_search(self):
         self.assertTrue(self.trie.trie_search(("sana3", "sana4", "sana5")))
-
