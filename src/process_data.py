@@ -1,8 +1,8 @@
 import re
-#haetaan tavutettu aineisto, prosessoidaan teksti käsiteltäväksi markovin ketjun mallia varten
+#haetaan tavutettu aineisto
 
-def pre_process():
-    corpus = open("src/data/mini_corpus.txt").read()
-    corpus = re.sub(r"[^a-zA-Z0-9\säöåÄÖå-]", "", corpus)
-    corpus = corpus.lower()
+def process():
+    corpus = open("src/data/corpus.txt").read()
+    #corpus = re.sub(r"[^a-zA-Z0-9\säöåÄÖå-]", "", corpus)
+    #corpus = corpus.lower()
     return corpus

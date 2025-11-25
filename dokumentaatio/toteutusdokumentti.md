@@ -1,6 +1,8 @@
 ## Ohjelman yleisrakenne
 Haikumaisia runoja generoiva ohjelma koostuu Markovin ketjusta ja TRIE-hakupuusta. 
 
+Algoritmin opetukseen käytetty prosessoitu aineisto löytyy data-kansioista nimellä corpus.txt. Aineiston alkuprosessointiin käytetty koodi on data-kansiossa erikseen. Alkuprosessointi tavuttaa FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksen (osakorpus). 
+
 Tavutettu tekstiaineisto (korpus) prosessoidaan ensin n-grammeihin, jonka Markovin ketjun k asteen mukaan n=k+1. Käyttäjä määrittää halutun asteen k. Markovin ketjun aste kertoo, kuinka monen edellisen sanan perusteella generoidaan seuraava sana. Markovin ketjun malli muodostetaan markov.py ohjelmassa metodilla build_model, joka muodostaa n-grammit tuplena esim. n=3 (sana1, sana2, sana3) ja (sana2, sana3, sana4). N-grammit jaotellaan mallin sanakirjaan niin, että avaimena on n-grammi (sekvenssi) ja arvona niiden esiintyvyys (frekvenssi) korpuksessa. 
 
 Muodostettu Markovin ketjun malli viedään TRIE-hakupuuhun (trie.py), johon n-grammit tallennetaan. Seuraavien sanojen generointi halutun pituuden mukaisesti käyttää TRIE:n getteriä get_list_words(), joka palauttaa hakupuusta löydetyt seuraavat sanat. TRIE:n haku itsessään käyttää syvyyshakua (dfs). Uusi sanajono arvotaan painotetusti frekvenssien mukaan.
