@@ -17,9 +17,10 @@ TRIE:n haku ja lisäys tapahtuu aikavaativuudella O(n), jossa n on sanajonon pit
 ## Suorituskyky- ja O-analyysivertailu (mikäli sopii työn aiheeseen)
 
 ##  Työn mahdolliset puutteet ja parannusehdotukset
+Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jää korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti.
 
 ## Laajojen kielimallien (ChatGPT yms.) käyttö
-Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä.
+Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä, sekä etsinyt kerran trien testitiedostosta typoa. 
 
 ## Lähteet
 * https://fi.wikipedia.org/wiki/Haiku

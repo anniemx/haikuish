@@ -1,6 +1,6 @@
 import re
 #haetaan tavutettu aineisto
 
-def process():
-    corpus = open("src/data/corpus.txt").read()
+def process(path):
+    corpus = open(path).read()
     return corpus

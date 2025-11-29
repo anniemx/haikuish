@@ -22,3 +22,7 @@ Testillä def test_structure(self) tulostetaan trien rakenne solmuineen ja niide
 Raportti viikolla 5 (ei vielä Markovia testattu tässä):
 ![report](coverage.png)
 
+* Pylint testaukset viikolla 5:
+trie.py: 7.97 siivottuna: 9.17, eniten ylimääräisiä välilyöntejä ja lisätty kommentteja metodien alle
+markov.py: 8.33 siivottuna: 9.17, lisätty kommentteja metodien alle
+haiku.py: 7.07 (keskeneräinen)

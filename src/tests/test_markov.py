@@ -1,8 +1,8 @@
-from markov import MarkovModel
-from trie import Trie
+import markov
+import trie
+import process_data
+import haiku
 
-
-#end-to-end testaus
 """ Päästä-päähän testaus
     1. lataa testitekstiaineisto (pienempi ja kevyempi), muodosta sen n-grammit
     2. generoi haiku
@@ -12,10 +12,20 @@ from trie import Trie
 
 class TestMarkovModel():
     def setUp(self):
-        print("set up")
+        self.corpus = process_data.process(path="src/data/test_corpus.txt")
+        self.haiku = haiku.Haiku()
+        self.markov_model = markov.MarkovModel(k_order = 2, corpus = self.corpus)
+        self.markov_chain = self.markov_model.build_model()
+        self.trie = trie.Trie()
+        self.trie.trie_insert_markov_chain(self.markov_chain)
+        self.content = self.trie.generate(k_order = 2, length = 5)
 
     def test_demo(self):
-        pass
+        self.haiku_markov_model = markov.MarkovModel(k_order = 2, corpus = self.content)
+        haiku_markov_chain = self.markov_model.build_model()
 
-if __name__=="__main__":
-    pass
+        for item in haiku_markov_chain:
+            if item not in self.markov_chain:
+                return False
+        return True
+

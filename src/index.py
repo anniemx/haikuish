@@ -4,7 +4,7 @@ import markov
 import trie
 import haiku
 
-corpus = process_data.process() #ladataan ja käsitellään tekstiaineisto
+corpus = process_data.process(path = "src/data/corpus.txt") #ladataan ja käsitellään tekstiaineisto
 haiku = haiku.Haiku()
 k_order = haiku.k_order() #haetaan käyttäjältä markovin ketjun haluttu aste
 markov_model = markov.MarkovModel(k_order, corpus)

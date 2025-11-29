@@ -7,8 +7,10 @@ class MarkovModel:
         self.markov_model = {}
         self.corpus = corpus
 
-    #jaetaan tekstiaineisto k+1=n ketjuihin (n-grammeihin)
+
     def generate_ngrams(self):
+        """jaetaan tekstiaineisto k+1=n ketjuihin (n-grammeihin)"""
+
         n = self.k_order + 1
         words = self.corpus.split()
         for i in range(len(words) - n + 1):
@@ -17,6 +19,7 @@ class MarkovModel:
         return self.n_grams
 
     def find_unique_words(self):
+        """etsitään yksittäiset sanat tekstistä"""
         word_list = list(set(self.corpus.split()))
         return word_list
 

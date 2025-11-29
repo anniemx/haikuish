@@ -26,28 +26,29 @@ class Trie:
             result.append(self._repr_recursive(child, word + (item, )))
         return "".join(result)
 
-    """lisätään n-grammit trie-puuhun sanoittain,
-        markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
     def trie_insert_markov_chain(self, markov_chain):
+        """lisätään n-grammit trie-puuhun sanoittain,
+        markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
+
         for n_gram, frequency in markov_chain.items():
-           self.trie_insert(n_gram, frequency)
+            self.trie_insert(n_gram, frequency)
 
     def trie_insert(self, n_gram, frequency):
+        """lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei ole puussa"""
         current_node = self.root
-        #lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei ole puussa
         for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
                 current_node.frequency = frequency
             current_node = current_node.children[child]
-        #n-grammin (sekvenssin) lopuksi merkitään n-grammi päättyneeksi is_end_of_sequence=True
+        #n-grammin (sekvenssin) lopuksi merkitään n-grammi päättyneeksi
         current_node.is_end_of_sequence = True
 
-    """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen
-        tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
+    #sekvenssin seuraajat frekvensseineen: ([seuraajat], [seuraajien frekvenssit])
 
-    #etsitään trie-puusta sekvenssi, palautetaan true/false
     def trie_search(self, sequence):
+        """#etsitään trie-puusta sekvenssi, palautetaan true/false"""
+
         current_node = self.root
         for child in sequence: # käydään läpi sanat sekvenssistä
             if child not in current_node.children:
@@ -65,7 +66,8 @@ class Trie:
             joista arvotaan koko sanalistaan seuraava sana. Markovin ketjun 
             k-aste tarkastetaan jokaisen generoidun sanan jälkeen ja muokataan 
             hakusekvenssi k-asteiseksi, eli poistetaan ensimmäinen sana."""
-        if k_order == 0 or k_order == None or length == None or length == 0:
+
+        if k_order == 0 or k_order is None or length is None or length == 0:
             return []
         search_sequence = []
 
@@ -89,8 +91,9 @@ class Trie:
         return self.sequence
 
     def get_list_words(self, search_sequence):
-        #etsitään seuraajat ja niiden frekvenssit
-        #etsitään siis puusta search_sequence ja lisätään sen k+1 jäsenet ja frekvenssit listaan
+        """etsitään seuraajat ja niiden frekvenssit, etsitään siis puusta 
+        search_sequence ja lisätään sen k+1 jäsenet ja frekvenssit listaan"""
+
         current_node = self.root
         index = 0
         next_words = self._dfs(current_node, search_sequence, index)
