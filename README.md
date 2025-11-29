@@ -2,6 +2,27 @@
 
 Sovellus generoi yleiskielen perusteella haikumaisia runoja. 
 
+## Ohjelman käyttö:
+* lataa tai kloonaa ohjelma
+* lataa tarvittaessa poetry
+* aktivoi virtuaaliympäristö
+```
+$ poetry shell
+$ poetry env activate
+```
+* aja ohjelma 
+```
+$ python3 src/index.py
+```
+* anna markovin aste generoidaksesi haikumaisen uutisrunon
+* testaukseen:
+```
+$ poetry add pytest
+$ pytest src
+```
+
+
+
 ## Määrittelydokumentti
 [Määrittelydokumentti](./dokumentaatio/maarittelydokumentti.md)
 
@@ -17,6 +38,7 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 * [Viikkoraportti 2](./dokumentaatio/viikkoraportit/viikko2.md)
 * [Viikkoraportti 3](./dokumentaatio/viikkoraportit/viikko3.md)
 * [Viikkoraportti 4](./dokumentaatio/viikkoraportit/viikko4.md)
+* [Viikkoraportti 5](./dokumentaatio/viikkoraportit/viikko5.md)
 
 
 
