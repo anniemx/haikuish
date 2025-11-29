@@ -41,13 +41,11 @@ class Trie:
     #etsitään trie-puusta sekvenssi, palautetaan true/false
     def trie_search(self, sequence):
         current_node = self.root
-
         for child in sequence: # käydään läpi sanat sekvenssistä
             if child not in current_node.children:
                 #palautetaan False -> sana ei puussa
                 return False
             current_node = current_node.children[child]
-    #palautetaan tieto, että saavutettiin sekvenssin loppu
         return current_node.is_end_of_sequence
 
 
@@ -59,7 +57,8 @@ class Trie:
             joista arvotaan koko sanalistaan seuraava sana. Markovin ketjun 
             k-aste tarkastetaan jokaisen generoidun sanan jälkeen ja muokataan 
             hakusekvenssi k-asteiseksi, eli poistetaan ensimmäinen sana."""
-
+        if k_order == 0 or k_order == None or length == None or length == 0:
+            return []
         search_sequence = []
 
         for i in range(length + 1):
