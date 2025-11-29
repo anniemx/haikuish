@@ -35,36 +35,3 @@ class MarkovModel:
             else:
                 self.markov_model[n_gram] = 1
         return self.markov_model
-
-    """tämä def tod.näk. turha, poistan jos en tarvitse:
-    def calculate_prob(self):
-        lasketaan todennäköisyydet, että kahta sanaa seuraa kolmas sana. 
-        Siis sana1, sana2 -> sana3 tarvitaan kahden sanan jälkeiset kaikki 
-        mahdolliset sanat, joista lasketaan esiintyvyys riippuen kahdesta edellisestä sanasta.
-
-        probabilities = {} #tallennetaan sanat ja seuraavien sanojen todennäköisyydet sanakirjaan
-
-        #käydään läpi sanat: onko sana1 ja sana2 löydetty peräkkäin? -> jos ei lisätään sanakirjaan ja arvoksi sana3
-        for word in self.markov_model.keys():
-            if (word[0], word[1]) not in probabilities:
-                probabilities[(word[0], word[1])] = [word[2]]
-
-            else:
-                probabilities[(word[0], word[1])].append(word[2])
-
-        for pair in probabilities.keys():
-            avaimena kaksi edellistä tilaa -> (sana1, sana2): [(sana3, tod.näk), (sana4, tod.näk)] <- mahdolliset 
-            seuraavat sanat ja niiden todennäköisyydet suhteessa muihin mahdollisiin seuraaviin sanoihin tuplena listassa
-
-            next_words = probabilities[pair]
-            words_prob = []
-            for word in next_words:
-                count = next_words.count(word)
-                prob = count / len(next_words)
-                words_prob.append((word, prob))
-
-            probabilities[pair] = words_prob
-            
-        #print(probabilities)
-        return probabilities
-        #print(probabilities, len(probabilities))"""

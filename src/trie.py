@@ -32,9 +32,8 @@ class Trie:
                 current_node.frequency = frequency
 
             current_node = current_node.children[child]
-        #n-grammin (sekvenssin) lopuksi merkitään sana päättyneeksi is_end_of_sequence=True
+        #n-grammin (sekvenssin) lopuksi merkitään n-grammi päättyneeksi is_end_of_sequence=True
         current_node.is_end_of_sequence = True
-        #print(f"Inserted n-gram {n_gram}, frequency {frequency}", current_node)
 
     """hakusekvenssi mielivaltainen - tallennetaan annetun sekvenssin seuraajat frekvensseineen
         tupleen listoina ([seuraajat], [seuraajien frekvenssit])"""
@@ -65,18 +64,16 @@ class Trie:
 
         for i in range(length + 1):
             if len(search_sequence) < len(k_order):
-
                 next_search_wordlist = self.get_list_words(search_sequence)
-                #print(next_search_wordlist[0], next_search_wordlist[1])
                 next_search_word = random.choices(next_search_wordlist[0],
                                                   weights=next_search_wordlist[1], k = 1)
+                self.sequence.append(next_search_word)
                 search_sequence.append(next_search_word)
 
             else:
                 if len(search_sequence) > int(k_order):
                     search_sequence.pop(0)
                 next_wordlist = self.get_list_words(search_sequence)
-                #print(next_wordlist[1])
                 next_word = random.choices(next_wordlist[0],
                                            weights=(next_wordlist[1]), k = 1)
                 self.sequence.append(next_word)
@@ -113,82 +110,3 @@ class Trie:
             return self._dfs(current_node.children[next_word], search_sequence, index + 1)
 
         return None
-
-
-
-
-
-
-
-"""nämä metodit apuna - ei käytössä
-    def get_start(self, first_word, k_order):
-        Aloitetaan aineistosta arvotulla ensimmäisellä sanalla.
-        Etsitään sitä seuraavat sanat trie_starts_with() ja arvotaan seuraaja 
-        painotetulla arvontafunktiolla. Toistetaan k kertaa, jotta saadaan aste
-        sequence = []
-        word = first_word
-        for i in range(k_order):
-            self.trie_starts_with(word)
-
-       sequencies = sequencies_frequencies[0]
-        #frequencies = sequencies_frequencies[1]
-        #if len(k_order) == 0:
-        #    return
-        #new_sequence = random.choices(sequencies, weights=frequencies, k = 1)
-        #return new_sequence
-
-    def trie_starts_with(self, start):
-        sequence = start
-        current_node = self.root
-        for word in sequence:
-            if word not in current_node.children:
-                return []
-            current_node = current_node.children[word]
-
-        next_words = self.get_list_words(current_node, sequence)
-        return next_words
-
-    def trie_delete(self, word):
-            self.help_delete(self.root, word, 0)
-
-    def help_delete(self, current_node, word, index):
-        if index == len(word):
-            if not current_node.is_end_of_word():
-                return False
-            
-            current_node.is_end_of_word = False #poistetaan vain tieto sanan lopusta
-            return len(current_node.children) == 0
-        
-        child = word[index]
-        node = current_node.children.get(child)
-
-        if node is None:
-            return False
-        
-        #poistetaan rekursiivisesti, jos puulla ei lehtiä poiston jälkeen
-        delete_current_node = self.help_delete(node, word, index + 1) 
-        if delete_current_node:
-            del current_node.children[child]
-            return len(current_node.children) == 0 and not current_node.is_end_of_word
-
-    def starts_with(self, prefix): #käytetään DFS
-        words = [] #kerätään löydetyt sanat listaan
-        current_node = self.root
-
-        for child in prefix:
-            if child not in current_node.children:
-                return words
-
-            current_node = current_node.children[child]
-
-        def dfs(current_node, path):
-            if current_node.is_end_of_word:
-                words.append("".join(path)) #koostetaan sana mjonoksi
-
-            for child, child_node in current_node.children.items():
-                dfs(child_node, path + [child])
-
-            dfs(current_node, list(prefix))
-
-            return words
-"""
