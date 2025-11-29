@@ -1,14 +1,19 @@
 import unittest
 from trie import Trie
 
+
+#trien tarkastuksessa tärkein: toimiiko tallennus ja haku oikein: rakenne
+#mitä palautetaan tyhjillä tai none-syötteillä?
+
+
 class TestTrie(unittest.TestCase):
     def setUp(self):
         self.trie = Trie()
-        self.content = {("sana1", "sana2", "sana3"):2,
-                        ("sana2", "sana3", "sana4"):1,
-                        ("sana3", "sana4", "sana5"):1,
+        self.content = {("sana1", "sana2", "sana3"): 2,
+                        ("sana2", "sana3", "sana4"): 1,
+                        ("sana3", "sana4", "sana5"): 1,
                         }
-        self.trie_insert_markov_chain(self.content)
+        self.trie.trie_insert_markov_chain(self.content)
 
     def trie_insert_markov_chain(self):
         self.assertTrue(self.trie.trie_search(("sana1", "sana2", "sana3")))
@@ -18,7 +23,6 @@ class TestTrie(unittest.TestCase):
     def generate(self):
         self.assertTrue("", "")
 
-    #tyhjä markov ketju?
     def test_search_empty_string(self):
         self.assertEqual(self.trie.trie_search(""), False)
 
@@ -27,3 +31,6 @@ class TestTrie(unittest.TestCase):
 
     def test_search(self):
         self.assertTrue(self.trie.trie_search(("sana3", "sana4", "sana5")))
+
+if __name__=="__main__":
+    unittest.main()
