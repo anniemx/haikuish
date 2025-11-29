@@ -6,9 +6,9 @@ class TrieNode:
         self.is_end_of_sequence = False
         self.frequency = 1
 
-    def __repr__(self):
-        return f"TrieNode(children={list(self.children.keys())},\
-        is_end_of_sequence={self.is_end_of_sequence}, frequency={self.frequency})"
+    #def __repr__(self):
+    #    return f"TrieNode(children={list(self.children.keys())},\
+    #    is_end_of_sequence={self.is_end_of_sequence}, frequency={self.frequency})"
 
 
 class Trie:
@@ -16,11 +16,20 @@ class Trie:
         self.root = TrieNode()
         self.sequence = []
 
+    def __repr__(self):
+        return "".join(self._repr_recursive(self.root, ()))
+
+    def _repr_recursive(self, node, word):
+        result = []
+        result.append(f"Node:{word}, children={list(node.children.keys())}")
+        for item, child in node.children.items():
+            result.append(self._repr_recursive(child, word + (item, )))
+        return "".join(result)
+
     """lisätään n-grammit trie-puuhun sanoittain,
         markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
     def trie_insert_markov_chain(self, markov_chain):
         for n_gram, frequency in markov_chain.items():
-           #print(n_gram, frequency)
            self.trie_insert(n_gram, frequency)
 
     def trie_insert(self, n_gram, frequency):
@@ -30,7 +39,6 @@ class Trie:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
                 current_node.frequency = frequency
-
             current_node = current_node.children[child]
         #n-grammin (sekvenssin) lopuksi merkitään n-grammi päättyneeksi is_end_of_sequence=True
         current_node.is_end_of_sequence = True

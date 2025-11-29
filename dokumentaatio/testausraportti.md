@@ -2,23 +2,23 @@
 
 * Yksikkötestauksen kattavuusraportti.
 * Mitä on testattu, miten tämä tehtiin?
+
 ## TRIE:n testaus
 * Yksikkötestit:
-* toimiiko trie-puun markovin ketjun tallennus ja haku oikein?
-* toimiiko trie:n generointi oikein
-* mitä trie palauttaa tyhjistä syötteistä?
+Yksikkötestissä trie-rakenteelle annetaan sanakirjana 3-grammit.
+Testillä def test_trie_insert_markov_chain(self) testataan, onko kolmikot tallentunut trie rakenteeseen ja löytyvätkö ne sieltä.
+Testillä def test_search_empty_string(self) testataan tyhjää syötettä.
+Testillä def test_search_none(self) tulisi palauttaa tyhjä lista none-pituudella ja none-k-asteella.
+Testillä def test_structure(self) tulostetaan trien rakenne solmuineen ja niiden lapsineen tarkasteltavaksi.
 
 ## Markovin ketjun testaus
-* Yksikkötestit:
+* Päästä päähän testaus
+* tarkastetaan onko generoidun haikurunon sanat löydettävissä peräkkäin alkuperäisestä tekstiaineistosta
 
 * Minkälaisilla syötteillä testaus tehtiin?
 * Miten testit voidaan toistaa?
-* Ohjelman toiminnan mahdollisen empiirisen testauksen tulosten esittäminen graafisessa muodossa. (Mikäli sopii aiheeseen)
 * konkreettista tietoa testeistä
 
----
-Testauksessa tarkoitus testata:
-* isoja tekstimääriä
+Raportti viikolla 5 (ei vielä Markovia testattu tässä):
+![report](coverage.png)
 
-
-* noudattaako tulosteet oikeaa haikun formaattioa 5-7-5 tavua?

@@ -1,25 +1,28 @@
+import re
 import process_data
 import markov
 import trie
 import haiku
 
-corpus = process_data.pre_process() #ladataan ja käsitellään tekstiaineisto
+corpus = process_data.process() #ladataan ja käsitellään tekstiaineisto
 haiku = haiku.Haiku()
 k_order = haiku.k_order() #haetaan käyttäjältä markovin ketjun haluttu aste
 markov_model = markov.MarkovModel(k_order, corpus)
 markov_chain = markov_model.build_model() #luodaan markovin ketju halutun asteen mukaan
-markov_chain_words = markov_model.find_unique_words() #haetaan listana yksittäiset esiintyvät sanat
 trie = trie.Trie()
 trie.trie_insert_markov_chain(markov_chain) #tallennetaan sekvenssit ja frekvenssit trieen
-length = 5
-content = trie.generate(k_order, length)
-haiku.generate_haiku(content)
+content = trie.generate(k_order, length=10)
+#content_check = haiku.generate_haiku(content)
+print(content)
 
 """ei toimi pienellä korpuksella:
 while True:
-    content = trie.generate(k_order, length)
-    length +=1
+    content = trie.generate(k_order, length=10)
     if haiku.generate_haiku(content):
         break
 """
 
+
+
+
+#markov_chain_words = markov_model.find_unique_words() #haetaan listana yksittäiset esiintyvät sanat
