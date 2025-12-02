@@ -9,7 +9,7 @@ def process(batchsize = 1000):
     with open("corpus2.txt", "w", encoding="utf-8") as f:
         for batch in process_batch("ylenews_fi_2018_s.vrt"):
             corpus_words.extend(batch)
-            batch = [word for words in batch for word in words]
+            batch = [str(word) for words in batch for word in words]
             f.write(" ".join(batch) + "\n")
 
 
@@ -25,7 +25,8 @@ def process_batch(file, batchsize = 1000):
             word = re.sub(r"[^a-zA-Z0-9\säöåÄÖå-]", "", word)
             if word != "":
                 word = f.syllabify(word)
-                batch.append(word)
+                syllables = int(len(word[0].split(".")))
+                batch.append((word[0], syllables))
             if len(batch) == batchsize:
                 yield batch  
                 batch = []
