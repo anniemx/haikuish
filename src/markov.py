@@ -10,12 +10,9 @@ class MarkovModel:
 
     def generate_ngrams(self):
         """jaetaan tekstiaineisto k+1=n ketjuihin (n-grammeihin)"""
-
         n = self.k_order + 1
-        words = self.corpus.split()
-        for i in range(len(words) - n + 1):
-            self.n_grams.append(words[i : i + n])
-        #print(self.n_grams)
+        for i in range(len(self.corpus) - n + 1):
+            self.n_grams.append(self.corpus[i : i + n])
         return self.n_grams
 
     def find_unique_words(self):
@@ -27,7 +24,8 @@ class MarkovModel:
         """Muodostetaan mallin sanakirja self.markov_model. Ensin generoidaan korpuksesta 
             n-grammit ja lasketaan niiden esiintyvyys korpuksessa. Sitten muodostetaan 
             sanakirja: n-grammit (sekvenssit) tuple-avaimena ja frekvenssit arvona. 
-            Palautetaan malli TRIE-hakupuuta varten."""
+            Palautetaan malli TRIE-hakupuuta varten. Huom! alkuperäisestä aineistosta säilyy tuple, 
+            jossa (sana, tavumäärä)"""
 
         self.generate_ngrams()
 
@@ -37,4 +35,5 @@ class MarkovModel:
                 self.markov_model[n_gram] += 1
             else:
                 self.markov_model[n_gram] = 1
+        print(self.markov_model)
         return self.markov_model
