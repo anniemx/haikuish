@@ -47,4 +47,4 @@ Data/mini_corpus.txt: Tavutettu mini-tietoaineisto testiksi: Eino Leinon runoja 
 https://kaino.kotus.fi/korpus/klassikot/meta/leino/leino_muita_runoja_rdf.xml
 tavutettu käyttäen tavuttajaa: https://joukahainen.puimula.org/hyphenate
 
-Algoritmin opetukseen käytetty aineisto löytyy data-kansioista nimellä corpus.txt. Aineiston alkuprosessointiin käytetty koodi on data-kansiossa erikseen. Alkuprosessointi tavuttaa FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksen osittain (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). 
+Algoritmin opetukseen on käytetty laajana aineistona YLE:n 2018 uutisaineistokorpuksen osittain (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). Aineiston alkuprosessointiin käytetty koodi on data-kansiossa erikseen. Alkuprosessointi tavuttaa aineiston FinnSyll-kirjaston avulla.  
