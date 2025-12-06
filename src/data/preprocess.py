@@ -6,7 +6,7 @@ f = FinnSyll()
 
 def process(batchsize = 1000):
     corpus_words = []
-    with open("corpus2.txt", "w", encoding="utf-8") as f:
+    with open("corpus_syllables.txt", "w", encoding="utf-8") as f:
         for batch in process_batch("ylenews_fi_2018_s.vrt"):
             corpus_words.extend(batch)
             batch = [str(word) for words in batch for word in words]

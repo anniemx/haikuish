@@ -28,4 +28,15 @@ class TestMarkovModel():
             if item not in self.markov_chain:
                 return False
         return True
+    
+    def test_print(self, result):
+        if result is True:
+            print("Markov chain test: passed")
+        else:
+            print("Markov chain test: failed")
 
+
+if __name__=="__main__":
+    test_markov = TestMarkovModel()
+    test_result = test_markov.test_demo()
+    test_markov.test_print(test_result)
