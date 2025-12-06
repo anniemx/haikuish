@@ -10,6 +10,9 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 $ poetry shell
 $ poetry env activate
 ```
+* hae haluttu korpusaineisto (testauksessa käytetty YLE:n 2018 uutisaineistoa)
+* esiprosessoi ja tavuta ohjelma data-kansion preprocess.py ohjelmalla
+* varmista index.py polku korpustiedostoon on oikein
 * aja ohjelma 
 ```
 $ python3 src/index.py
@@ -39,6 +42,7 @@ $ pytest src
 * [Viikkoraportti 3](./dokumentaatio/viikkoraportit/viikko3.md)
 * [Viikkoraportti 4](./dokumentaatio/viikkoraportit/viikko4.md)
 * [Viikkoraportti 5](./dokumentaatio/viikkoraportit/viikko5.md)
+* [Viikkoraportti 6](./dokumentaatio/viikkoraportit/viikko6.md)
 
 
 
