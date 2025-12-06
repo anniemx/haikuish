@@ -4,7 +4,7 @@ import markov
 import trie
 import haiku
 
-corpus = process_data.process(path = "src/data/test_corpus.txt") #ladataan ja käsitellään tekstiaineisto
+corpus = process_data.process(path = "src/data/corpus_syllables.txt") #ladataan ja käsitellään tekstiaineisto
 haiku = haiku.Haiku()
 k_order = haiku.k_order() #haetaan käyttäjältä markovin ketjun haluttu aste
 markov_model = markov.MarkovModel(k_order, corpus)
@@ -13,16 +13,7 @@ trie = trie.Trie()
 trie.trie_insert_markov_chain(markov_chain) #tallennetaan sekvenssit ja frekvenssit trieen
 content = trie.generate(k_order, length=10)
 #content_check = haiku.generate_haiku(content)
-print(content)
-
-"""ei toimi pienellä korpuksella:
-while True:
-    content = trie.generate(k_order, length=10)
-    if haiku.generate_haiku(content):
-        break
-"""
-
-
-
-
-#markov_chain_words = markov_model.find_unique_words() #haetaan listana yksittäiset esiintyvät sanat
+for i in content:
+    print(i)
+    #word = i[0][0]
+    #print(word.replace(".", ""))

@@ -15,6 +15,13 @@ class Trie:
     def __init__(self):
         self.root = TrieNode()
         self.sequence = []
+        self.search_sequence = []
+        self.sequence1 = []
+        self.sequence2 = []
+        self.sequence3 = []
+        self.line_limits = {1:5, 2:12, 3:17} #5-7-5: line1 - line2 - line3
+        self.line_no = 1
+        self.syllable_count = 0
 
     def __repr__(self):
         return "".join(self._repr_recursive(self.root, ()))
@@ -69,26 +76,84 @@ class Trie:
 
         if k_order == 0 or k_order is None or length is None or length == 0:
             return []
-        search_sequence = []
 
         for i in range(length + 1):
-            if len(search_sequence) < len(k_order):
-                next_search_wordlist = self.get_list_words(search_sequence)
+            if len(self.search_sequence) < int(k_order):
+                next_search_wordlist = self.get_list_words(self.search_sequence)
                 next_search_word = random.choices(next_search_wordlist[0],
-                                                  weights=next_search_wordlist[1], k = 1)
-                self.sequence.append(next_search_word)
-                search_sequence.append(next_search_word)
+                                                  weights=next_search_wordlist[1], k = 1)[0]
+                print(self.sequence)
+                result = self.haiku_format_count(next_search_word, next_search_wordlist)
+                if result is True:
+                    return self.sequence
+                #self.sequence.append(next_search_word)
+                #search_sequence.append(next_search_word)
 
             else:
-                if len(search_sequence) > int(k_order):
-                    search_sequence.pop(0)
-                next_wordlist = self.get_list_words(search_sequence)
-                next_word = random.choices(next_wordlist[0],
-                                           weights=(next_wordlist[1]), k = 1)
-                self.sequence.append(next_word)
-                search_sequence.append(next_word)
+                if len(self.search_sequence) > int(k_order):
+                    self.search_sequence.pop(0)
+                next_wordlist = self.get_list_words(self.search_sequence)
+                next_search_word = random.choices(next_wordlist[0],
+                                           weights=(next_wordlist[1]), k = 1)[0]
+                #self.sequence.append(next_word)
+                #search_sequence.append(next_word)
+                print(self.sequence)
+                result = self.haiku_format_count(next_search_word, next_wordlist)
+                if result is True:
+                    return self.sequence
+        
+    #tarkastetaan haikumuoto ja tallennetaan listoihin
+    def haiku_format_count(self, search_word, wordlist):
+        syllables = search_word[1]
+        self.syllable_count += syllables
+        line_limit = self.line_limits[self.line_no]
 
-        return self.sequence
+        """tarkastetaan ensin sanan pituus: jos generoitu sana liian pitkä, 
+        valitaan seuraajalistasta ensimmäinen sopiva:"""
+        if self.syllable_count > line_limit:
+            for next_word in wordlist[0]:
+                next_syllables = next_word[1] #haetaan sanan tavumäärä
+                if next_syllables + self.syllable_count - syllables <= line_limit: #lasketaan sopiiko rajaan
+                    self.sequence.append(next_word)
+                    self.search_sequence.append(next_word)
+                    self.syllable_count -= syllables
+                    self.syllable_count += next_syllables
+                    #return False
+                
+            #raise ValueError("No found words")
+        
+        #tarkastetaan haikun tavumäärä riveittän 1:5-2:7-3:5
+        elif self.syllable_count < line_limit:
+            self.search_sequence.append(search_word)
+            if self.line_no == 1:
+                self.sequence1.append(search_word)
+            elif self.line_no == 2:
+                self.sequence2.append(search_word)
+            else:
+                self.sequence3.append(search_word)
+            #return False
+        
+        #jos rivin tavumäärä täynnä, vaihdetaan rivitieto
+        else:
+            self.search_sequence.append(search_word)
+
+            if self.line_no == 1:
+                self.sequence1.append(search_word)
+                self.sequence.append(self.sequence1)
+                self.line_no = 2
+
+            elif self.line_no == 2:
+                self.sequence2.append(search_word)
+                self.sequence.append(self.sequence2)
+                self.line_no = 3
+
+            else:
+                self.sequence3.append(search_word)
+                self.sequence.append(self.sequence3)
+                return True
+            
+            return False
+
 
     def get_list_words(self, search_sequence):
         """etsitään seuraajat ja niiden frekvenssit, etsitään siis puusta 
