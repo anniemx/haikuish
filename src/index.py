@@ -11,9 +11,8 @@ markov_model = markov.MarkovModel(k_order, corpus)
 markov_chain = markov_model.build_model() #luodaan markovin ketju halutun asteen mukaan
 trie = trie.Trie()
 trie.trie_insert_markov_chain(markov_chain) #tallennetaan sekvenssit ja frekvenssit trieen
-content = trie.generate(k_order, length=10)
-#content_check = haiku.generate_haiku(content)
-for i in content:
-    print(i)
-    #word = i[0][0]
-    #print(word.replace(".", ""))
+try:
+    content = trie.generate(k_order, length=10)
+    haiku.print_haiku(content)
+except:
+    print("Haikumuotoa noudattavia runoja ei löytynyt.")

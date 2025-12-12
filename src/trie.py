@@ -6,9 +6,9 @@ class TrieNode:
         self.is_end_of_sequence = False
         self.frequency = 1
 
-    #def __repr__(self):
-    #    return f"TrieNode(children={list(self.children.keys())},\
-    #    is_end_of_sequence={self.is_end_of_sequence}, frequency={self.frequency})"
+    def __repr__(self):
+        return f"TrieNode(children={list(self.children.keys())},\
+        is_end_of_sequence={self.is_end_of_sequence}, frequency={self.frequency})"
 
 
 class Trie:
@@ -19,7 +19,7 @@ class Trie:
         self.sequence1 = []
         self.sequence2 = []
         self.sequence3 = []
-        self.line_limits = {1:5, 2:12, 3:17} #5-7-5: line1 - line2 - line3
+        self.line_limits = {1:5, 2:12, 3:17} #haiku-muoto: line1:5 - line2:7-> 12 - line:5 -> 17
         self.line_no = 1
         self.syllable_count = 0
 
@@ -86,8 +86,6 @@ class Trie:
                 result = self.haiku_format_count(next_search_word, next_search_wordlist)
                 if result is True:
                     return self.sequence
-                #self.sequence.append(next_search_word)
-                #search_sequence.append(next_search_word)
 
             else:
                 if len(self.search_sequence) > int(k_order):
@@ -95,8 +93,6 @@ class Trie:
                 next_wordlist = self.get_list_words(self.search_sequence)
                 next_search_word = random.choices(next_wordlist[0],
                                            weights=(next_wordlist[1]), k = 1)[0]
-                #self.sequence.append(next_word)
-                #search_sequence.append(next_word)
                 print(self.sequence)
                 result = self.haiku_format_count(next_search_word, next_wordlist)
                 if result is True:
@@ -118,9 +114,9 @@ class Trie:
                     self.search_sequence.append(next_word)
                     self.syllable_count -= syllables
                     self.syllable_count += next_syllables
-                    #return False
+                    return False
                 
-            #raise ValueError("No found words")
+            raise ValueError("No found words")
         
         #tarkastetaan haikun tavumäärä riveittän 1:5-2:7-3:5
         elif self.syllable_count < line_limit:
@@ -166,17 +162,15 @@ class Trie:
         frequencies = list(next_words.values())
         return (words, frequencies)
 
-    def _dfs(self, current_node, search_sequence, index): #syvyyshaku trie
+    def _dfs(self, current_node, search_sequence, index):
         if index == len(search_sequence):
             results={}
 
             for word, child in current_node.children.items():
                 results[word] = child.frequency
-            #print(results)
             return results #palautetaan lapset, kun ollaan käyty koko puu lävitse
 
         next_word = search_sequence[index]
-        #print(next_word)
 
         if isinstance(next_word, list):
             next_word = next_word[0]

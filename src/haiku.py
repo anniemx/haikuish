@@ -48,5 +48,6 @@ class Haiku():
     def print_haiku(self, haiku_poem):
         #tulosta rivi kerrallaan
         for line in haiku_poem:
+            line[:] = [word[0].replace(".", "") for word_list in line for word in word_list]
             print(line)
 
