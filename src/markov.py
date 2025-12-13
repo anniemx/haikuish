@@ -28,5 +28,4 @@ class MarkovModel:
                 self.markov_model[n_gram] += 1
             else:
                 self.markov_model[n_gram] = 1
-        print(self.markov_model)
         return self.markov_model
