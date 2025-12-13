@@ -1,7 +1,6 @@
 import re
 from finnsyll import FinnSyll
 f = FinnSyll()
-#split_compounds=True
 
 
 def process(batchsize = 1000):

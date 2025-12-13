@@ -1,5 +1,7 @@
-import re
-#haetaan tavutettu aineisto
+
+"""haetaan tavutettu aineisto ja 
+    prosessoidaan se markovin ketjuun sopivaksi: 
+    (sana, tavumäärä:int)"""
 
 def process(path):
     corpus = open(path).read()

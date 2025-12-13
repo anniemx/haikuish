@@ -19,7 +19,8 @@ class Trie:
         self.sequence1 = []
         self.sequence2 = []
         self.sequence3 = []
-        self.line_limits = {1:5, 2:12, 3:17} #haiku-muoto: line1:5 - line2:7-> 12 - line:5 -> 17
+        #haiku-muodon rajat: rivi1:5 - rivi2:7-> 12 - rivi3:5 -> 17
+        self.line_limits = {1:5, 2:12, 3:17}
         self.line_no = 1
         self.syllable_count = 0
 
@@ -34,39 +35,35 @@ class Trie:
         return "".join(result)
 
     def trie_insert_markov_chain(self, markov_chain):
-        """lisätään n-grammit trie-puuhun sanoittain,
-        markovin ketjusta saadaan sekvenssit ja frekvenssit sanakirjana"""
+        """lisätään n-grammit sanoittain trieen markovin ketjun mukaan,
+            sekvenssit ja frekvenssit talletetaan sanakirjaan muodossa
+            ([seuraajasekvenssit], [frekvenssit])"""
 
         for n_gram, frequency in markov_chain.items():
             self.trie_insert(n_gram, frequency)
 
     def trie_insert(self, n_gram, frequency):
-        """lisätään sana kerrallaan -> luodaan uusi solmu, jos sana ei ole puussa"""
         current_node = self.root
         for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
-                current_node.frequency = frequency
             current_node = current_node.children[child]
-        #n-grammin (sekvenssin) lopuksi merkitään n-grammi päättyneeksi
+        current_node.frequency = frequency
+        #merkataan sekvenssi päättyneeksi
         current_node.is_end_of_sequence = True
 
-    #sekvenssin seuraajat frekvensseineen: ([seuraajat], [seuraajien frekvenssit])
 
     def trie_search(self, sequence):
-        """#etsitään trie-puusta sekvenssi, palautetaan true/false"""
-
         current_node = self.root
-        for child in sequence: # käydään läpi sanat sekvenssistä
+        for child in sequence:
             if child not in current_node.children:
-                #palautetaan False -> sana ei puussa
                 return False
             current_node = current_node.children[child]
         return current_node.is_end_of_sequence
 
 
     def generate(self, k_order, length):
-        """Generoidaan sanoja length-verran. Aloitetaan haku sekvenssistä k=0, 
+        """Generoidaan sanoja maksimissaan 17. Aloitetaan haku sekvenssistä k=0, 
             eli tyhjästä listasta. Generoidaan halutun k-asteen verran sanoja 
             hakusekvenssiin. Sen jälkeen generoidaan sana kerrallaan seuraajat 
             ja niiden frekvenssit tuplena ([sekvenssit],[frekvenssit]), 
@@ -97,6 +94,8 @@ class Trie:
                 result = self.haiku_format_count(next_search_word, next_wordlist)
                 if result is True:
                     return self.sequence
+                
+        return self.sequence
         
     #tarkastetaan haikumuoto ja tallennetaan listoihin
     def haiku_format_count(self, search_word, wordlist):
@@ -119,32 +118,26 @@ class Trie:
             raise ValueError("No found words")
         
         #tarkastetaan haikun tavumäärä riveittän 1:5-2:7-3:5
-        elif self.syllable_count < line_limit:
-            self.search_sequence.append(search_word)
-            if self.line_no == 1:
-                self.sequence1.append(search_word)
-            elif self.line_no == 2:
-                self.sequence2.append(search_word)
-            else:
-                self.sequence3.append(search_word)
-            #return False
+        #elif self.syllable_count < line_limit:
+        self.search_sequence.append(search_word)
+        if self.line_no == 1:
+            self.sequence1.append(search_word)
+        elif self.line_no == 2:
+            self.sequence2.append(search_word)
+        else:
+            self.sequence3.append(search_word)
         
         #jos rivin tavumäärä täynnä, vaihdetaan rivitieto
-        else:
-            self.search_sequence.append(search_word)
-
+        if self.syllable_count ==line_limit:
             if self.line_no == 1:
-                self.sequence1.append(search_word)
                 self.sequence.append(self.sequence1)
                 self.line_no = 2
 
             elif self.line_no == 2:
-                self.sequence2.append(search_word)
                 self.sequence.append(self.sequence2)
                 self.line_no = 3
 
             else:
-                self.sequence3.append(search_word)
                 self.sequence.append(self.sequence3)
                 return True
             
@@ -178,4 +171,4 @@ class Trie:
         if next_word in current_node.children:
             return self._dfs(current_node.children[next_word], search_sequence, index + 1)
 
-        return None
+        return {}
