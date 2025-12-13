@@ -7,20 +7,18 @@ Tavutettu tekstiaineisto (korpus) prosessoidaan ensin n-grammeihin, jonka Markov
 
 Muodostettu Markovin ketjun malli viedään TRIE-hakupuuhun (trie.py), johon n-grammit tallennetaan. Seuraavien sanojen generointi halutun pituuden mukaisesti käyttää TRIE:n getteriä get_list_words(), joka palauttaa hakupuusta löydetyt seuraavat sanat. TRIE:n haku itsessään käyttää syvyyshakua (dfs). Uusi sanajono arvotaan painotetusti frekvenssien mukaan.
 
-Haikun generointi ja tavujen tarkastus (yhteensä 17-tavua, jaolla 5-7-5) aloitetaan ohjelmassa haiku.py. Haikuruno siis haetaan trie-hakupuusta generoimalla oikeaa muotoa oleva sanajono.
+Haikun generointi ja tavujen tarkastus (yhteensä 17-tavua, jaolla 5-7-5) haetaan trie-hakupuusta generoimalla oikeaa muotoa oleva sanajono. Haikumuoto tarkastetaan samalla, kun uusia sanoja generoidaan. Haikurunon tavujakojen rajat (5-12-17) riveittäin tarkastetaan samalla ja mikäli sana tavumäärä on liian pitkä, haetaan kaikki edellisen sanan seuraajat ja valitaan niistä ensimmäinen sopiva. 
 
 Kun sopiva sanajono on muodostettu, haiku tulostetaan riveittäin.
 
 ## Saavutetut aika- ja tilavaativuudet (esim. O-analyysit pseudokoodista)
 TRIE:n haku ja lisäys tapahtuu aikavaativuudella O(n), jossa n on sanajonon pituus. Tämä on tehokkaampi, kuin esimerkiksi listasta sanan etsintä, jossa käydään lineaarisesti vaihtoehdot lävitse. TRIE-hakupuussa voidaan siis etsiä tehokkaammin oikea polku kulkemalla vain toisiinsa liittyvät sanat.
 
-## Suorituskyky- ja O-analyysivertailu (mikäli sopii työn aiheeseen)
-
 ##  Työn mahdolliset puutteet ja parannusehdotukset
-Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jää korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti. 
+Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jää korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti. Lisäksi joitain numerosarjoja saattaa tulla korpuksessa vastaan.
 
 ## Laajojen kielimallien (ChatGPT yms.) käyttö
-Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä, sekä etsinyt kerran trien testitiedostosta typoa ja tarkastanut virheiden takia trien haikumuodon koodin.
+Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä, sekä etsinyt kerran trien testitiedostosta typoa ja tarkastanut virheiden takia trien haikumuodon koodia.
 
 ## Lähteet
 * https://fi.wikipedia.org/wiki/Haiku
