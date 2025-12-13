@@ -14,4 +14,3 @@ class Haiku():
         for line in haiku_poem:
             line[:] = [word[0].replace(".", "") for word_list in line for word in word_list]
             print(line)
-

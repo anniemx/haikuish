@@ -1,22 +1,28 @@
 import unittest
-from trie import Trie
+from ..trie import Trie
 
 class TestTrie(unittest.TestCase):
     def setUp(self):
         self.trie = Trie()
-        self.content = {("testaus", "teksti", "jossa"): 1, ("teksti", "jossa", "on"): 1,
-                        ("jossa", "on", "useampi"): 1, ("on", "useampi", "lapsi") : 1,
-                        ("useampi", "lapsi", "ja"): 1, ("lapsi", "ja", "useampi"): 1,
-                        ("ja", "useampi", "sana"): 3, ("useampi", "sana", "jotta"): 1,
-                        ("sana", "jotta", "nähdään"): 1, ("jotta", "nähdään", "jakaako"): 1,
-                        ("nähdään", "jakaako", "trie"): 1, ("jakaako", "trie", "tietorakenteeseen"): 1,
-                        ("trie", "tietorakenteeseen", "oikein"): 1}
+        self.content = {(("testaus", 2), ("teksti", 2), ("jossa", 2)): 1, 
+                        (("teksti", 2), ("jossa", 2), ("on", 2)): 1,
+                        (("jossa", 2), ("on", 2), ("useampi", 3)): 1, 
+                        (("on", 2), ("useampi", 3), ("lapsi", 2)) : 1,
+                        (("useampi", 3), ("lapsi", 2), ("ja", 1)): 1, 
+                        (("lapsi", 2), ("ja", 1), ("useampi", 4)): 1,
+                        (("ja", 1), ("useampi", 4), ("sana", 2)): 3, 
+                        (("useampi", 4), ("sana", 2), ("jotta", 2)): 1,
+                        (("sana", 2), ("jotta", 2), ("nähdään", 2)): 1, 
+                        (("jotta", 2), ("nähdään", 2), ("jakaako", 3)): 1,
+                        (("nähdään", 2), ("jakaako", 3), ("trie", 1)): 1, 
+                        (("jakaako", 3), ("trie", 1), ("rakenteeseen", 4)): 1,
+                        (("trie", 1), ("rakenteeseen", 4), ("oikein", 2)): 1}
         self.trie.trie_insert_markov_chain(self.content)
 
     def test_trie_insert_markov_chain(self):
-        self.assertTrue(self.trie.trie_search(("ja", "useampi", "sana")))
-        self.assertTrue(self.trie.trie_search(("useampi", "sana", "jotta")))
-        self.assertTrue(self.trie.trie_search(("trie", "tietorakenteeseen", "oikein")))
+        self.assertTrue(self.trie.trie_search((("ja", 1), ("useampi", 4), ("sana", 2))))
+        self.assertTrue(self.trie.trie_search((("jotta", 2), ("nähdään", 2), ("jakaako", 3))))
+        self.assertTrue(self.trie.trie_search((("trie", 1), ("rakenteeseen", 4), ("oikein", 2))))
 
     def test_search_empty_string(self):
         self.assertEqual(self.trie.trie_search(""), False)

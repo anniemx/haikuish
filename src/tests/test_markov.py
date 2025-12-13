@@ -3,7 +3,7 @@ from ..trie import Trie
 from ..process_data import process
 from ..haiku import Haiku
 
-""" Päästä-päähän testaus
+"""Päästä-päähän testaus
     1. lataa testitekstiaineisto (pienempi ja kevyempi), muodosta sen n-grammit
     2. generoi haiku
     3. muodosta runosta n-grammit
@@ -24,13 +24,12 @@ class TestMarkovModel():
         self.haiku_markov_model = MarkovModel(k_order = 2, corpus = self.content)
         haiku_markov_chain = self.haiku_markov_model.build_model()
         return all(item in self.markov_chain for item in haiku_markov_chain)
-    
+
     def test_print(self, result):
         if result:
             print("Markov chain test: passed")
         else:
             print("Markov chain test: failed")
-
 
 if __name__=="__main__":
     test_markov = TestMarkovModel()

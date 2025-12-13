@@ -19,7 +19,7 @@ class Trie:
         self.sequence1 = []
         self.sequence2 = []
         self.sequence3 = []
-        #haiku-muodon rajat: rivi1:5 - rivi2:7-> 12 - rivi3:5 -> 17
+        #haiku-muodon rajat: rivi1:5 - rivi2:7->12 - rivi3:5->17
         self.line_limits = {1:5, 2:12, 3:17}
         self.line_no = 1
         self.syllable_count = 0
@@ -47,8 +47,8 @@ class Trie:
         for child in n_gram:
             if child not in current_node.children:
                 current_node.children[child] = TrieNode()
+                current_node.frequency = frequency
             current_node = current_node.children[child]
-        current_node.frequency = frequency
         #merkataan sekvenssi päättyneeksi
         current_node.is_end_of_sequence = True
 
@@ -75,7 +75,7 @@ class Trie:
             return []
 
         for i in range(length + 1):
-            if len(self.search_sequence) < int(k_order):
+            if len(self.search_sequence) <= int(k_order):
                 next_search_wordlist = self.get_list_words(self.search_sequence)
                 next_search_word = random.choices(next_search_wordlist[0],
                                                   weights=next_search_wordlist[1], k = 1)[0]
@@ -94,9 +94,9 @@ class Trie:
                 result = self.haiku_format_count(next_search_word, next_wordlist)
                 if result is True:
                     return self.sequence
-                
+
         return self.sequence
-        
+
     #tarkastetaan haikumuoto ja tallennetaan listoihin
     def haiku_format_count(self, search_word, wordlist):
         syllables = search_word[1]
@@ -108,15 +108,15 @@ class Trie:
         if self.syllable_count > line_limit:
             for next_word in wordlist[0]:
                 next_syllables = next_word[1] #haetaan sanan tavumäärä
-                if next_syllables + self.syllable_count - syllables <= line_limit: #lasketaan sopiiko rajaan
+                if next_syllables + self.syllable_count - syllables <= line_limit:
                     self.sequence.append(next_word)
                     self.search_sequence.append(next_word)
                     self.syllable_count -= syllables
                     self.syllable_count += next_syllables
                     return False
-                
+
             raise ValueError("No found words")
-        
+
         #tarkastetaan haikun tavumäärä riveittän 1:5-2:7-3:5
         #elif self.syllable_count < line_limit:
         self.search_sequence.append(search_word)
@@ -126,7 +126,7 @@ class Trie:
             self.sequence2.append(search_word)
         else:
             self.sequence3.append(search_word)
-        
+
         #jos rivin tavumäärä täynnä, vaihdetaan rivitieto
         if self.syllable_count ==line_limit:
             if self.line_no == 1:
@@ -140,7 +140,7 @@ class Trie:
             else:
                 self.sequence.append(self.sequence3)
                 return True
-            
+
             return False
 
 
