@@ -3,7 +3,6 @@ class MarkovModel:
     def __init__(self, k_order, corpus):
         self.k_order = int(k_order)
         self.n_grams = []
-        self.words = []
         self.markov_model = {}
         self.corpus = corpus
 
@@ -13,11 +12,6 @@ class MarkovModel:
         for i in range(len(self.corpus) - n + 1):
             self.n_grams.append(self.corpus[i : i + n])
         return self.n_grams
-
-    def find_unique_words(self):
-        #etsitään yksittäiset sanat tekstistä
-        word_list = list(set(self.corpus.split()))
-        return word_list
 
     def build_model(self):
         """Muodostetaan mallin sanakirja self.markov_model. Ensin generoidaan korpuksesta 
@@ -34,4 +28,5 @@ class MarkovModel:
                 self.markov_model[n_gram] += 1
             else:
                 self.markov_model[n_gram] = 1
+        print(self.markov_model)
         return self.markov_model
