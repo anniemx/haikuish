@@ -4,7 +4,7 @@
     (sana, tavumäärä:int)"""
 
 def process(path):
-    corpus = open(path).read()
+    corpus = open(path, encoding="utf-8").read()
     corpus = corpus.replace("\n", " ")
     corpus = corpus.split(" ")
     words = [word for word in corpus[0::2]]
