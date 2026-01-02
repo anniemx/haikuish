@@ -14,11 +14,10 @@ class Trie:
     def trie_insert(self, corpus): #time complexity O(n), space complexity O(n)
         current_node = self.root
         for word in corpus:
-            current_node.frequency += 1
             if word not in current_node.children:
                 current_node.children[word] = TrieNode()
             current_node = current_node.children[word]
-        current_node.frequency += 1
+            current_node.frequency += 1
         current_node.IsEndof = True
 
     #check the path of wordlist exists, return the last word
