@@ -13,56 +13,59 @@ class Haiku():
             self.k_order()
         return k_order
     
-    def check_syllables(self):
-        pass
 
     def lottery(self, words): #words ([words], [frequencies])
         word_list = words[0]
         weights = words[1]
-        next_word = random.choice(word_list, weights, k=1)[0]
+        next_word = random.choice(word_list, weights, k=1)
         return next_word
 
     def generate_haiku(self):
         order = self.k_order()
         search_words = deque(maxlen=order)
 
-        followers = trie.trie_search_followers(self, search_words, limit)
+        #generate line 1:
+        line_1 = []
+        limit = 5
+        while limit < 0:
+            followers = trie.trie_search_followers(self, search_words, limit)
+            next_word = self.lottery(self, followers)
+            if next_word:
+                line_1.append(next_word)[0]
+                search_words.append(next_word)
+                limit -= next_word[1]
 
-        #call lottery
-        self.lottery(self, followers)
+        self.poem.append(line_1)
 
+        #generate line 2:
+        line_2 = []
+        limit = 7
+        while limit < 0:
+            followers = trie.trie_search_followers(self, search_words, limit)
+            next_word = self.lottery(self, followers)
+            if next_word:
+                line_2.append(next_word)[0]
+                search_words.append(next_word)
+                limit -= next_word[1]
+
+        self.poem.append(line_2)
+
+        #generate line 3:
+        line_3 = []
+        limit = 5
+        while limit < 0:
+            #search valid followers from trie
+            followers = trie.trie_search_followers(self, search_words, limit)
+            next_word = self.lottery(self, followers) #call lottery
+            if next_word:
+                line_3.append(next_word)[0]
+                search_words.append(next_word)
+                limit -= next_word[1]
+
+        self.poem.append(line_3)
 
 
     def print_haiku(self, haiku_poem):
         #tulosta rivi kerrallaan
         for line in haiku_poem:
-            line[:] = [word[0].replace(".", "") for word_list in line for word in word_list]
             print(line)
-
-            """        self.sequence = []
-        self.search_sequence = []
-        self.sequence1 = []
-        self.sequence2 = []
-        self.sequence3 = []
-        #haiku-muodon rajat: rivi1:5 - rivi2:7->12 - rivi3:5->17
-        self.line_limits = {1:5, 2:12, 3:17}
-        self.line_no = 1
-        self.syllable_count = 0
-        
-        
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-        """
