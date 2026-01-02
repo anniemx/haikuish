@@ -16,10 +16,10 @@ class Haiku():
     def check_syllables(self):
         pass
 
-    def lottery(self, words):
+    def lottery(self, words): #words ([words], [frequencies])
         word_list = words[0]
         weights = words[1]
-        next_word = random.choice(word_list, weights, k=1)
+        next_word = random.choice(word_list, weights, k=1)[0]
         return next_word
 
     def generate_haiku(self):
