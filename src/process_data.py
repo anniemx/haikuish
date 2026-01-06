@@ -1,14 +1,24 @@
-
-"""haetaan tavutettu aineisto ja 
-    prosessoidaan se markovin ketjuun sopivaksi: 
-    (sana, tavumäärä:int)"""
+import re
+"""fetch data and 
+    process for trie 
+    (word, syllable count:int)"""
 
 def process(path):
-    corpus = open(path, encoding="utf-8").read()
-    corpus = corpus.replace("\n", " ")
-    corpus = corpus.split(" ")
-    words = [word for word in corpus[0::2]]
-    syllables = [int(syllable) for syllable in corpus[1::2]]
-    corpus = list(zip(words, syllables))
+    data = open(path, encoding="utf-8").read()
+    data = data.split("\n")
+    corpus = []
+
+    for line in data:
+        all_words = line.split(" ")
+        sentence = []
+        for word in all_words:
+            word_syllables = word.split(":")
+            word = (word_syllables[0], word_syllables[1])
+            sentence.append(word)
+        corpus.append(sentence)
 
     return corpus
+
+
+if __name__ == "__main__":
+    corpus1 = process(path = "src/data/corpus_syllables.txt")
