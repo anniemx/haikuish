@@ -1,7 +1,6 @@
-import re
-"""fetch data and 
-    process for trie 
-    (word, syllable count:int)"""
+
+"""fetch data and process for trie as a list of 
+    sentences [(word, syllable_count:int),...]"""
 
 def process(path):
     data = open(path, encoding="utf-8").read()
