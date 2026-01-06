@@ -5,13 +5,11 @@ Sovellus generoi yleiskielen perusteella haikumaisia runoja.
 ## Ohjelman käyttö:
 * lataa tai kloonaa ohjelma
 * lataa tarvittaessa poetry
-* aktivoi virtuaaliympäristö
+* aktivoi virtuaaliympäristö (jompi kumpi)
 ```
 $ poetry shell
 $ poetry env activate
 ```
-* hae haluttu korpusaineisto (testauksessa käytetty YLE:n 2018 uutisaineistoa)
-* esiprosessoi ja tavuta ohjelma data-kansion preprocess.py ohjelmalla
 * varmista index.py polku korpustiedostoon on oikein
 * aja ohjelma 
 ```
@@ -47,8 +45,4 @@ $ pytest src
 
 
 ---
-Data/mini_corpus.txt: Tavutettu mini-tietoaineisto testiksi: Eino Leinon runoja (Runoja kokoelmien ulkopuolelta) kotimaisten kielten keskuksen avoimesta tietokannasta.
-https://kaino.kotus.fi/korpus/klassikot/meta/leino/leino_muita_runoja_rdf.xml
-tavutettu käyttäen tavuttajaa: https://joukahainen.puimula.org/hyphenate
-
-Algoritmin opetukseen on käytetty laajana aineistona YLE:n 2018 uutisaineistokorpuksen osittain (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). Aineiston alkuprosessointiin käytetty koodi on data-kansiossa erikseen. Alkuprosessointi tavuttaa aineiston FinnSyll-kirjaston avulla.  
+Algoritmin opetukseen on käytetty laajana aineistona YLE:n 2018 uutisaineistokorpuksen osittain (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). Alkuprosessoinnissa ohjelman ulkopuolella on tavutettu ja siistitty aineisto FinnSyll-kirjaston avulla.  
