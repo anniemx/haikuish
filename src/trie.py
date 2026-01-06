@@ -14,8 +14,9 @@ class Trie:
         for word in ngram:
             if word not in current_node.children:
                 current_node.children[word] = TrieNode()
-            current_node = current_node.children[word]
             current_node.frequency += 1
+            current_node = current_node.children[word]
+            
 
     #check the path of wordlist exists, return the last word
     def get_node(self, wordlist):
@@ -29,10 +30,11 @@ class Trie:
     def trie_get_followers(self, search_words, limit): #time complexity O(n), space complexity O(1)
         node = self.get_node(search_words)
         following_words = []
+        following_frequencies = []
         if not node:
             return following_words
-        for word, child in node.children.items():
-            if limit <= word[1]:
-                following_words.append(word[0], child.frequency)
-        return following_words
-
+        for child, child_node in node.children.items():
+            if int(child[1]) <= limit:
+                following_words.append((child))
+                following_frequencies.append(child_node.frequency)
+        return (following_words, following_frequencies)

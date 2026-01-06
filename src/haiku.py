@@ -6,71 +6,76 @@ import trie
 class Haiku():
     def __init__(self):
         self.poem = []
+        self.trie = trie.Trie()
 
     def k_order(self):
         k_order = int(input("Anna Markovin ketjun aste: "))
-        if k_order is None or k_order < 1 or k_order > 50:
+        if k_order < 1 or k_order > 10:
             self.k_order()
         return k_order
     
     def create_trie(self, k, corpus):
-        trie_tree = trie.Trie()
         n = k + 1
         for sentence in corpus: 
             for i in range(len(sentence) - n + 1):
-                trie_tree.trie_insert(sentence[i: i + n])
+                self.trie.trie_insert(sentence[i: i + n])
 
     def lottery(self, words): #words ([words], [frequencies])
-        word_list = words[0]
+        wordlist = words[0]
         weights = words[1]
-        next_word = random.choice(word_list, weights, k=1)
-        return next_word
+        next_word = random.choices(wordlist, weights, k=1)
+        return next_word[0]
 
-    def generate_haiku(self):
-        order = self.k_order()
-        search_words = deque(maxlen=order)
-
+    def generate_haiku(self, k_order):
+        search_words = deque(maxlen=k_order)
+        
         #generate line 1:
         line_1 = []
         limit = 5
-        while limit < 0:
-            followers = trie.trie_search_followers(self, search_words, limit)
-            next_word = self.lottery(self, followers)
+        while limit > 0:
+            followers = self.trie.trie_get_followers(search_words, limit)
+            next_word = self.lottery(followers)
             if next_word:
-                line_1.append(next_word)[0]
+                line_1.append(next_word[0])
                 search_words.append(next_word)
-                limit -= next_word[1]
+                limit -= int(next_word[1])
 
         self.poem.append(line_1)
 
         #generate line 2:
         line_2 = []
         limit = 7
-        while limit < 0:
-            followers = trie.trie_search_followers(self, search_words, limit)
-            next_word = self.lottery(self, followers)
+        while limit > 0:
+            followers = self.trie.trie_get_followers(search_words, limit)
+            next_word = self.lottery(followers)
             if next_word:
-                line_2.append(next_word)[0]
+                line_2.append(next_word[0])
                 search_words.append(next_word)
-                limit -= next_word[1]
+                limit -= int(next_word[1])
 
         self.poem.append(line_2)
 
         #generate line 3:
         line_3 = []
         limit = 5
-        while limit < 0:
+        while limit > 0:
             #search valid followers from trie
-            followers = trie.trie_search_followers(self, search_words, limit)
-            next_word = self.lottery(self, followers) #call lottery
+            followers = self.trie.trie_get_followers(search_words, limit)
+            next_word = self.lottery(followers) #call lottery
             if next_word:
-                line_3.append(next_word)[0]
+                line_3.append(next_word[0])
                 search_words.append(next_word)
-                limit -= next_word[1]
+                limit -= int(next_word[1])
 
         self.poem.append(line_3)
+        self.print_haiku()
 
-    def print_haiku(self, haiku_poem):
+    def print_haiku(self):
         #tulosta rivi kerrallaan
-        for line in haiku_poem:
+        print("***************************")
+        print("- Uutishaiku -")
+        print("***************************")
+        for line in self.poem:
+            line = " ".join(line)
             print(line)
+        print("***************************")
