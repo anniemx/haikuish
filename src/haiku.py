@@ -13,6 +13,12 @@ class Haiku():
             self.k_order()
         return k_order
     
+    def create_trie(self, k, corpus):
+        trie_tree = trie.Trie()
+        n = k + 1
+        for sentence in corpus: 
+            for i in range(len(sentence) - n + 1):
+                trie_tree.trie_insert(sentence[i: i + n])
 
     def lottery(self, words): #words ([words], [frequencies])
         word_list = words[0]
@@ -63,7 +69,6 @@ class Haiku():
                 limit -= next_word[1]
 
         self.poem.append(line_3)
-
 
     def print_haiku(self, haiku_poem):
         #tulosta rivi kerrallaan
