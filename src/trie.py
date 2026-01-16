@@ -9,14 +9,14 @@ class Trie:
     def __init__(self):
         self.root = TrieNode()
 
-    def trie_insert(self, ngram): #time complexity O(n), space complexity O(n)
+    def trie_insert(self, ngram):
         current_node = self.root
         for word in ngram:
             if word not in current_node.children:
                 current_node.children[word] = TrieNode()
             current_node.frequency += 1
             current_node = current_node.children[word]
-            
+
 
     #check the path of wordlist exists, return the last word
     def get_node(self, wordlist):
@@ -27,7 +27,7 @@ class Trie:
         return node
 
     #search the followers of last word from wordlist, return all valid words (limit)
-    def trie_get_followers(self, search_words, limit): #time complexity O(n), space complexity O(1)
+    def trie_get_followers(self, search_words, limit):
         node = self.get_node(search_words)
         following_words = []
         following_frequencies = []

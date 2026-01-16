@@ -13,6 +13,9 @@ Kun sopiva sanajono on muodostettu, haiku tulostetaan riveittäin.
 
 ## Saavutetut aika- ja tilavaativuudet (esim. O-analyysit pseudokoodista)
 TRIE:n haku ja lisäys tapahtuu aikavaativuudella O(n), jossa n on sanajonon pituus. Tämä on tehokkaampi, kuin esimerkiksi listasta sanan etsintä, jossa käydään lineaarisesti vaihtoehdot lävitse. TRIE-hakupuussa voidaan siis etsiä tehokkaammin oikea polku kulkemalla vain toisiinsa liittyvät sanat.
+def trie_insert(self, ngram): #time complexity O(n), space complexity O(n)
+def trie_get_followers(self, search_words, limit): #time complexity O(n), space complexity O(1)
+
 
 ##  Työn mahdolliset puutteet ja parannusehdotukset
 Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jää korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti. Lisäksi joitain numerosarjoja saattaa tulla korpuksessa vastaan.

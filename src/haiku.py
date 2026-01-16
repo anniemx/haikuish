@@ -11,6 +11,7 @@ class Haiku():
     def k_order(self):
         k_order = int(input("Anna Markovin ketjun aste: "))
         if k_order < 1 or k_order > 10:
+            print("Aste liian suuri tai pieni.")
             self.k_order()
         return k_order
     
