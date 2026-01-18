@@ -28,7 +28,7 @@ class Haiku():
         return next_word[0]
 
     def generate_haiku(self, k_order):
-        search_words = deque(maxlen=k_order)
+        search_words = [] #deque(maxlen=k_order)
         
         #generate line 1:
         line_1 = []
@@ -39,9 +39,12 @@ class Haiku():
             if next_word:
                 line_1.append(next_word[0])
                 search_words.append(next_word)
+                if len(search_words) > k_order:
+                    search_words.pop(0)
                 limit -= int(next_word[1])
 
         self.poem.append(line_1)
+        print(self.poem)
 
         #generate line 2:
         line_2 = []
@@ -52,9 +55,12 @@ class Haiku():
             if next_word:
                 line_2.append(next_word[0])
                 search_words.append(next_word)
+                if len(search_words) > k_order:
+                    search_words.pop(0)
                 limit -= int(next_word[1])
 
         self.poem.append(line_2)
+        print(self.poem)
 
         #generate line 3:
         line_3 = []
@@ -66,9 +72,12 @@ class Haiku():
             if next_word:
                 line_3.append(next_word[0])
                 search_words.append(next_word)
+                if len(search_words) > k_order:
+                    search_words.pop(0)
                 limit -= int(next_word[1])
 
         self.poem.append(line_3)
+        print(self.poem)
         self.print_haiku()
 
     def print_haiku(self):
