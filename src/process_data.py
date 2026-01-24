@@ -20,4 +20,4 @@ def process(path):
 
 
 if __name__ == "__main__":
-    corpus1 = process(path = "src/data/corpus_syllables.txt")
+    corpus1 = process(path = "src/data/test_syllables.txt")
