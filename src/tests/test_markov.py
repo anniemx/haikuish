@@ -17,17 +17,17 @@ def test_markov_chain():
     haiku_poem.create_trie(k_order, corpus)
 
     try:
-        haiku_poem.generate_haiku(k_order)
+        haiku = haiku_poem.generate_haiku(k_order)
     except:
         print("Haikumuotoa noudattavia runoja ei voitu generoida.")
-    
+
     #generate n-grams from haiku
-    haiku_words = [word for line in haiku_poem for word in line]
+    haiku_words = [word for line in haiku for word in line]
     corpus_ngrams = []
     n_grams = []
     n = k_order + 1
 
-    for sentence in corpus: 
+    for sentence in corpus:
         for i in range(len(sentence) - n + 1):
             ngram1 = sentence[i: i + n]
             ngram_words = []

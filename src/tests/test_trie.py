@@ -5,15 +5,20 @@ class TestTrie(unittest.TestCase):
     def setUp(self):
         self.trie = Trie()
         self.trie.trie_insert([('on', '1'), ('virrannut', '3'), ('lastenlaulukulttuurin', '7')])
-        self.trie.trie_insert([('virrannut', '3'), ('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6')])
-        self.trie.trie_insert([('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6'), ('ja', '1')])
+        self.trie.trie_insert([('virrannut', '3'), ('lastenlaulukulttuurin', '7'),
+                               ('uudistamisesta', '6')])
+        self.trie.trie_insert([('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6'),
+                               ('ja', '1')])
         self.trie.trie_insert([('on', '1'), ('olemassa', '4'), ('monia', '3')])
         self.trie.trie_insert([('on', '1'), ('olemassa', '4'), ('ainakin', '3')])
 
     def test_trie_insert(self):
-        self.assertTrue(self.trie.trie_search([('on', '1'), ('virrannut', '3'), ('lastenlaulukulttuurin', '7')]))
-        self.assertTrue(self.trie.trie_search([('virrannut', '3'), ('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6')]))
-        self.assertTrue(self.trie.trie_search([('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6'), ('ja', '1')]))
+        self.assertTrue(self.trie.trie_search([('on', '1'), ('virrannut', '3'),
+                                               ('lastenlaulukulttuurin', '7')]))
+        self.assertTrue(self.trie.trie_search([('virrannut', '3'), ('lastenlaulukulttuurin', '7'),
+                                               ('uudistamisesta', '6')]))
+        self.assertTrue(self.trie.trie_search([('lastenlaulukulttuurin', '7'),
+                                               ('uudistamisesta', '6'), ('ja', '1')]))
         self.assertTrue(self.trie.trie_search([('on', '1'), ('olemassa', '4'), ('monia', '3')]))
         self.assertTrue(self.trie.trie_search([('on', '1'), ('olemassa', '4'), ('ainakin', '3')]))
 
@@ -36,5 +41,3 @@ class TestTrie(unittest.TestCase):
         self.assertEqual(len(result1[0]), 2) #2 children should be "virrannut" and "olemassa"
         self.assertEqual(len(result2[0]), 1) #1 child should be "virrannut"
         self.assertEqual(len(result3[0]), 2) #2 children should be "monia" and "ainakin"
-        
-

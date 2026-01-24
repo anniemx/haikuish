@@ -4,4 +4,4 @@ Viikolla 2 olen rakentanut TRIE:n yksikkötestaukset, jotka menevät läpi. Niid
 
 Keskeneräisenä on vielä markovin ketjun tarkastustestaus, jota jatkan seuraavalla viikolla.
 
-Työtunnit 4h
+Työtunnit 4.25h

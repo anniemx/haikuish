@@ -1,5 +1,4 @@
 import random
-from collections import deque
 import trie
 
 
@@ -14,10 +13,10 @@ class Haiku():
             print("Aste liian suuri tai pieni.")
             self.k_order()
         return k_order
-    
+
     def create_trie(self, k, corpus):
         n = k + 1
-        for sentence in corpus: 
+        for sentence in corpus:
             for i in range(len(sentence) - n + 1):
                 self.trie.trie_insert(sentence[i: i + n])
 
@@ -29,7 +28,7 @@ class Haiku():
 
     def generate_haiku(self, k_order):
         search_words = [] #deque(maxlen=k_order)
-        
+
         #generate line 1:
         line_1 = []
         limit = 5
@@ -79,6 +78,7 @@ class Haiku():
         self.poem.append(line_3)
         print(self.poem)
         self.print_haiku()
+        return self.poem
 
     def print_haiku(self):
         #tulosta rivi kerrallaan
