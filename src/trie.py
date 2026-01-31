@@ -10,6 +10,8 @@ class Trie:
         self.root = TrieNode()
 
     def trie_insert(self, ngram):
+        """Function inserting ngrams to trie"""
+
         current_node = self.root
         for word in ngram:
             if word not in current_node.children:
@@ -18,6 +20,8 @@ class Trie:
             current_node.frequency += 1
 
     def trie_search(self, ngram):
+        """Function searching words/ngrams from trie, return False/True."""
+
         if not ngram:
             return False
 
@@ -30,8 +34,11 @@ class Trie:
 
         return True
 
-    #check the path of wordlist exists, return the last word
+
     def get_node(self, wordlist):
+        """Function to check whether the path of wordlist exists, 
+            return None/the last word."""
+
         node = self.root
         for word in wordlist:
             if word not in node.children:
@@ -40,8 +47,10 @@ class Trie:
         return node
 
 
-    #search the followers of last word from wordlist, return all valid words (limit)
     def trie_get_followers(self, search_words, limit):
+        """Getter to search the followers of last word from wordlist, 
+            return all valid words considering syllable limit."""
+
         node = self.get_node(search_words)
         following_words = []
         following_frequencies = []

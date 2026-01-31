@@ -8,6 +8,8 @@ class Haiku():
         self.trie = trie.Trie()
 
     def k_order(self):
+        """Function to ask Markov-chain k-order as input from user."""
+
         k_order = int(input("Anna Markovin ketjun aste: "))
         if k_order < 1 or k_order > 10:
             print("Aste liian suuri tai pieni.")
@@ -15,19 +17,26 @@ class Haiku():
         return k_order
 
     def create_trie(self, k, corpus):
+        """Create trie datastructure and insert sentences from 
+            corpus as n-grams based on k-order."""
+
         n = k + 1
         for sentence in corpus:
             for i in range(len(sentence) - n + 1):
                 self.trie.trie_insert(sentence[i: i + n])
 
-    def lottery(self, words): #words ([words], [frequencies])
+    def lottery(self, words): 
+        """Function to draw a word with weights based on frequencies."""
+
         wordlist = words[0]
         weights = words[1]
         next_word = random.choices(wordlist, weights, k=1)
         return next_word[0]
 
     def generate_haiku(self, k_order):
-        search_words = [] #deque(maxlen=k_order)
+        """Function to generate 3 lines of haiku poem line by line."""
+
+        search_words = []
 
         #generate line 1:
         line_1 = []
@@ -81,7 +90,8 @@ class Haiku():
         return self.poem
 
     def print_haiku(self):
-        #tulosta rivi kerrallaan
+        """Function to print the generated haiku poem."""
+
         print("***************************")
         print("- Uutishaiku -")
         print("***************************")

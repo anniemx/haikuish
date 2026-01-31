@@ -13,6 +13,8 @@ class TestTrie(unittest.TestCase):
         self.trie.trie_insert([('on', '1'), ('olemassa', '4'), ('ainakin', '3')])
 
     def test_trie_insert(self):
+        """Test trie insert-function."""
+
         self.assertTrue(self.trie.trie_search([('on', '1'), ('virrannut', '3'),
                                                ('lastenlaulukulttuurin', '7')]))
         self.assertTrue(self.trie.trie_search([('virrannut', '3'), ('lastenlaulukulttuurin', '7'),
@@ -23,14 +25,19 @@ class TestTrie(unittest.TestCase):
         self.assertTrue(self.trie.trie_search([('on', '1'), ('olemassa', '4'), ('ainakin', '3')]))
 
     def test_search_empty_sequence(self):
+        """Test trie search-function with empty sequence."""
+
         self.assertEqual(self.trie.trie_search(""), False)
 
     def test_search_none(self):
+        """Test trie search-function with None."""
+
         result = self.trie.trie_search(None)
         self.assertEqual(result, False)
 
     def test_get_followers(self):
-        #test structure and syllable filter
+        """Test trie structure and syllable filter."""
+
         search_words = [('on', '1')]
         search_words2 = [('on', '1'), ('olemassa', '4')]
         limit1 = 5
