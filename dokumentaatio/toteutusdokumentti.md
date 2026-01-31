@@ -1,27 +1,23 @@
 ## Ohjelman yleisrakenne
 Haikumaisia runoja generoiva ohjelma koostuu Markovin ketjusta ja TRIE-hakupuusta. 
 
-Algoritmin opetukseen käytetty prosessoitu aineisto löytyy data-kansioista nimellä corpus.txt. Aineiston alkuprosessointiin käytetty koodi on data-kansiossa erikseen. Alkuprosessointi tavuttaa FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksen (osakorpus). 
+Algoritmin opetukseen käytetty prosessoitu osa-aineisto/pienehkö testiaineisto löytyy data-kansioista nimellä test_corpus.txt. Osakorpus on alkuprosessointu ja tavutettu FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksesta. Aineisto koostuu yleiskielisistä lauseista.
 
-Tavutettu tekstiaineisto (korpus) prosessoidaan ensin n-grammeihin, jonka Markovin ketjun k asteen mukaan n=k+1. Käyttäjä määrittää halutun asteen k. Toisin sanoen ohjelma mahdollistaa mielivaltaiset markovin ketjun asteen, mutta käytännössä pienellä korpuksella aste 2 tai 3 on järkevin. Markovin ketjun aste kertoo, kuinka monen edellisen sanan perusteella generoidaan seuraava sana. Markovin ketjun malli muodostetaan markov.py ohjelmassa metodilla build_model, joka muodostaa n-grammit tuplena esim. n=3 (sana1, sana2, sana3) ja (sana2, sana3, sana4). N-grammit jaotellaan mallin sanakirjaan niin, että avaimena on n-grammi (sekvenssi) ja arvona niiden esiintyvyys (frekvenssi) korpuksessa. 
+Index.py-tiedostossa käynnistetään sovellus ja kutsutaan korpuksen prosessointi process_data.py, jossa tekstitiedosto avataan ja prosessoidaan lauseittain listaan. Haiku.py ohjaa koko runon muodostamista. Ensin kysytään käyttäjältä haluttu Markovin ketjun aste. Annettua syötettä on rajoitettu nollan ja kymmenen väliin. Toisin sanoen ohjelma mahdollistaisi mielivaltaiset markovin ketjun asteen, mutta käytännössä pienellä korpuksella aste 2 tai 3 on järkevin. Korpuslistan lauseista muodostetaan n-grammit Markovin ketjun k-asteen mukaan n=k+1, jotka talletetaan trie-tietorakenteeseen. Markovin ketjun aste kertoo, kuinka monen edellisen sanan perusteella generoidaan seuraava sana. 
 
-Muodostettu Markovin ketjun malli viedään TRIE-hakupuuhun (trie.py), johon n-grammit tallennetaan. Seuraavien sanojen generointi halutun pituuden mukaisesti käyttää TRIE:n getteriä get_list_words(), joka palauttaa hakupuusta löydetyt seuraavat sanat. TRIE:n haku itsessään käyttää syvyyshakua (dfs). Uusi sanajono arvotaan painotetusti frekvenssien mukaan.
-
-Haikun generointi ja tavujen tarkastus (yhteensä 17-tavua, jaolla 5-7-5) haetaan trie-hakupuusta generoimalla oikeaa muotoa oleva sanajono. Haikumuoto tarkastetaan samalla, kun uusia sanoja generoidaan. Haikurunon tavujakojen rajat (5-12-17) riveittäin tarkastetaan samalla ja mikäli sana tavumäärä on liian pitkä, haetaan kaikki edellisen sanan seuraajat ja valitaan niistä ensimmäinen sopiva. 
-
-Kun sopiva sanajono on muodostettu, haiku tulostetaan riveittäin.
+Trieen tallennetaan ja lasketaan samalla myös esiintyvyys korpuksessa. Esiintyvyyden perusteella voidaan arpoa seuraava sana. Haikua muodostetaan riveittäin. Haikun generointi ja tavujen tarkastus (yhteensä 17-tavua, jaolla 5-7-5) haetaan trie-hakupuusta generoimalla oikeaa muotoa oleva sanajono. Haiku.py muodostetaan markovin ketjua niin, että hakusekvenssiksi aletaan keräämään sanalistaa tyhjästä listasta. Hakulistaan lisätään ja poistetaan sanoja niin, että se pysyy k-asteen mukaisena. Triestä haetaan seuraava sana hakulistan sanojen perusteella ja trien getteri palauttaa vain haiku-runon rivin tavumäärään sopivat seuraajasanat. Tavuraja annetaan trielle parametrinä limit. Löydetyistä hyväksytyistä seuraajasanoista arvotaan haiku.py metodissa lottery seuraava sana painotetusti frekvenssien mukaan. Kun kaikki kolme riviä on tällä tavalla generoitu, haiku tulostetaan riveittäin.
 
 ## Saavutetut aika- ja tilavaativuudet (esim. O-analyysit pseudokoodista)
 TRIE:n haku ja lisäys tapahtuu aikavaativuudella O(n), jossa n on sanajonon pituus. Tämä on tehokkaampi, kuin esimerkiksi listasta sanan etsintä, jossa käydään lineaarisesti vaihtoehdot lävitse. TRIE-hakupuussa voidaan siis etsiä tehokkaammin oikea polku kulkemalla vain toisiinsa liittyvät sanat.
-def trie_insert(self, ngram): #time complexity O(n), space complexity O(n)
-def trie_get_followers(self, search_words, limit): #time complexity O(n), space complexity O(1)
+def trie_insert(self, ngram): aikavaativuus O(n), tilavaativuus O(n)
+def trie_get_followers(self, search_words, limit): aikavaativuus O(n), tilavaativuus O(1)
 
 
 ##  Työn mahdolliset puutteet ja parannusehdotukset
-Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jää korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti. Lisäksi joitain numerosarjoja saattaa tulla korpuksessa vastaan.
+Ylen korpuksen käsittelyssä käytetty FinnSyll ei osaa tavuttaa ihan jokaista pitkää sanaa oikein, jolloin se antaa kaksi vaihtoehtoa. Nämä vaihtoehdot jäävät korpukseen, jolloin joissain tapauksissa sana saattaa toistua kahdesti. Lisäksi joitain numerosarjoja saattaa tulla korpuksessa vastaan. Haikumuodon tavurajat ovat myös aika tarkkoja, joten runoa ei voida aina generoida. Tulokset voisivat olla parempia, jos itse korpus koostuisi haikurunoista, joissa tavumäärät jo lähtökohtaisesti täsmäisivät haikumuotoon.
 
 ## Laajojen kielimallien (ChatGPT yms.) käyttö
-Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä, sekä etsinyt kerran trien testitiedostosta typoa ja tarkastanut virheiden takia trien haikumuodon koodia.
+Olen tarkastanut ja kääntänyt jotain englanninkielisiä termejä ja niiden selityksiä suomeksi TRIE-koodiesimerkkien osalta ChatGPT:n avulla. Olen tarkastanut joitakin yksittäisiä Pythonin perussyntakseja ja virheilmoituksia ChatGPT:stä, sekä etsinyt trien testitiedostosta typoa.
 
 ## Lähteet
 * https://fi.wikipedia.org/wiki/Haiku
