@@ -1,22 +1,22 @@
 # haikuish
 
-Sovellus generoi yleiskielen perusteella haikumaisia runoja. 
+Application generates haikuish poems from news corpus. 
 
-## Ohjelman käyttö:
-* lataa tai kloonaa ohjelma
-* lataa tarvittaessa poetry
-* aktivoi virtuaaliympäristö (jompi kumpi)
+## Use:
+* load or clone application
+* load poetry if needed
+* activate virtual environment (depending the version;)
 ```
 $ poetry shell
 $ poetry env activate
 ```
-* varmista index.py polku korpustiedostoon on oikein
-* aja ohjelma 
+* write index.py path to corpus as wanted (you can thus use another corpus in case you want as long as it is sentences row by row with syllables as numbers after each word)
+* run program 
 ```
 $ python3 src/index.py
 ```
-* anna markovin aste generoidaksesi haikumaisen uutisrunon
-* testaukseen:
+* give Markov chain k-order to generate a news haiku
+* to test:
 ```
 $ poetry add pytest
 $ pytest src
@@ -45,4 +45,4 @@ $ pytest src
 
 
 ---
-Algoritmin opetukseen on käytetty laajana aineistona YLE:n 2018 uutisaineistokorpuksen osittain (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). Alkuprosessoinnissa ohjelman ulkopuolella on tavutettu ja siistitty aineisto FinnSyll-kirjaston avulla.  
+Corpus used partially: (https://www.kielipankki.fi/download/YLE/fi/2011-2018-s-vrt/). Preprocessing with counting syllables has been done outside the programm with the help of FinnSyll-library.  
