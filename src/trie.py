@@ -47,17 +47,17 @@ class Trie:
         return node
 
 
-    def trie_get_followers(self, search_words, limit):
-        """Getter to search the followers of last word from wordlist, 
+    def trie_get_successors(self, search_words, limit):
+        """Getter to search the successors of last word from wordlist, 
             return all valid words considering syllable limit."""
 
         node = self.get_node(search_words)
-        following_words = []
-        following_frequencies = []
+        successors_words = []
+        successors_frequencies = []
         if not node:
-            return (following_words, following_frequencies)
+            return (successors_words, successors_frequencies)
         for child, child_node in node.children.items():
             if int(child[1]) <= limit:
-                following_words.append(child)
-                following_frequencies.append(child_node.frequency)
-        return (following_words, following_frequencies)
+                successors_words.append(child)
+                successors_frequencies.append(child_node.frequency)
+        return (successors_words, successors_frequencies)

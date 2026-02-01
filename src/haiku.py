@@ -42,8 +42,8 @@ class Haiku():
         line_1 = []
         limit = 5
         while limit > 0:
-            followers = self.trie.trie_get_followers(search_words, limit)
-            next_word = self.lottery(followers)
+            successors = self.trie.trie_get_successors(search_words, limit)
+            next_word = self.lottery(successors)
             if next_word:
                 line_1.append(next_word[0])
                 search_words.append(next_word)
@@ -58,8 +58,8 @@ class Haiku():
         line_2 = []
         limit = 7
         while limit > 0:
-            followers = self.trie.trie_get_followers(search_words, limit)
-            next_word = self.lottery(followers)
+            successors = self.trie.trie_get_successors(search_words, limit)
+            next_word = self.lottery(successors)
             if next_word:
                 line_2.append(next_word[0])
                 search_words.append(next_word)
@@ -75,8 +75,8 @@ class Haiku():
         limit = 5
         while limit > 0:
             #search valid followers from trie
-            followers = self.trie.trie_get_followers(search_words, limit)
-            next_word = self.lottery(followers) #call lottery
+            successors = self.trie.trie_get_successors(search_words, limit)
+            next_word = self.lottery(successors) #call lottery
             if next_word:
                 line_3.append(next_word[0])
                 search_words.append(next_word)

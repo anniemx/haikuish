@@ -35,16 +35,16 @@ class TestTrie(unittest.TestCase):
         result = self.trie.trie_search(None)
         self.assertEqual(result, False)
 
-    def test_get_followers(self):
+    def test_get_successors(self):
         """Test trie structure and syllable filter."""
 
         search_words = [('on', '1')]
         search_words2 = [('on', '1'), ('olemassa', '4')]
         limit1 = 5
         limit2 = 3
-        result1 = self.trie.trie_get_followers(search_words, limit1)
-        result2 = self.trie.trie_get_followers(search_words, limit2)
-        result3 = self.trie.trie_get_followers(search_words2, limit1)
+        result1 = self.trie.trie_get_successors(search_words, limit1)
+        result2 = self.trie.trie_get_successors(search_words, limit2)
+        result3 = self.trie.trie_get_successors(search_words2, limit1)
         self.assertEqual(len(result1[0]), 2) #2 children should be "virrannut" and "olemassa"
         self.assertEqual(len(result2[0]), 1) #1 child should be "virrannut"
         self.assertEqual(len(result3[0]), 2) #2 children should be "monia" and "ainakin"
