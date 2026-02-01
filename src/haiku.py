@@ -49,7 +49,7 @@ class Haiku():
                 search_words.append(next_word)
                 if len(search_words) > k_order:
                     search_words.pop(0)
-                limit -= int(next_word[1])
+                limit -= next_word[1]
 
         self.poem.append(line_1)
         print(self.poem)
@@ -65,7 +65,7 @@ class Haiku():
                 search_words.append(next_word)
                 if len(search_words) > k_order:
                     search_words.pop(0)
-                limit -= int(next_word[1])
+                limit -= next_word[1]
 
         self.poem.append(line_2)
         print(self.poem)
@@ -82,7 +82,7 @@ class Haiku():
                 search_words.append(next_word)
                 if len(search_words) > k_order:
                     search_words.pop(0)
-                limit -= int(next_word[1])
+                limit -= next_word[1]
 
         self.poem.append(line_3)
         print(self.poem)

@@ -57,7 +57,7 @@ class Trie:
         if not node:
             return (successors_words, successors_frequencies)
         for child, child_node in node.children.items():
-            if int(child[1]) <= limit:
+            if child[1] <= limit:
                 successors_words.append(child)
                 successors_frequencies.append(child_node.frequency)
         return (successors_words, successors_frequencies)

@@ -12,7 +12,7 @@ def process(path):
         sentence = []
         for word in all_words:
             word_syllables = word.split(":")
-            word = (word_syllables[0], word_syllables[1])
+            word = (word_syllables[0], int(word_syllables[1]))
             sentence.append(word)
         corpus.append(sentence)
 
