@@ -9,6 +9,11 @@ class Trie:
     def __init__(self):
         self.root = TrieNode()
 
+    def __str__(self):
+        node = self.root
+        successors = node.children
+        return f"node:{node}, children:{successors}"
+
     def trie_insert(self, ngram):
         """Function inserting ngrams to trie"""
 
