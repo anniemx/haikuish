@@ -11,8 +11,8 @@ class Trie:
 
     def __str__(self):
         node = self.root
-        successors = node.children
-        return f"node:{node}, children:{successors}"
+        successors = list(node.children.keys())
+        return f"node:root, children:{successors}"
 
     def trie_insert(self, ngram):
         """Function inserting ngrams to trie"""

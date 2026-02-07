@@ -4,25 +4,30 @@ from src.trie import Trie
 class TestTrie(unittest.TestCase):
     def setUp(self):
         self.trie = Trie()
-        self.trie.trie_insert([('on', '1'), ('virrannut', '3'), ('lastenlaulukulttuurin', '7')])
-        self.trie.trie_insert([('virrannut', '3'), ('lastenlaulukulttuurin', '7'),
-                               ('uudistamisesta', '6')])
-        self.trie.trie_insert([('lastenlaulukulttuurin', '7'), ('uudistamisesta', '6'),
-                               ('ja', '1')])
-        self.trie.trie_insert([('on', '1'), ('olemassa', '4'), ('monia', '3')])
-        self.trie.trie_insert([('on', '1'), ('olemassa', '4'), ('ainakin', '3')])
+        self.trie.trie_insert([('on', 1), ('virrannut', 3), ('lastenlaulukulttuurin', 7)])
+        self.trie.trie_insert([('virrannut', 3), ('lastenlaulukulttuurin', 7),
+                               ('uudistamisesta', 6)])
+        self.trie.trie_insert([('lastenlaulukulttuurin', 7), ('uudistamisesta', 6),
+                               ('ja', 1)])
+        self.trie.trie_insert([('on', 1), ('olemassa', 4), ('monia', 3)])
+        self.trie.trie_insert([('on', 1), ('olemassa', 4), ('ainakin', 3)])
+        self.trie.trie_insert([('kokonaan', 1), ('uusi', 4), ('sanajono', 3)])
+
+    def test_str_(self):
+        self.assertEqual(str(self.trie), "node:root, children:[('on', 1), ('virrannut', 3), "
+        "('lastenlaulukulttuurin', 7), ('kokonaan', 1)]")
 
     def test_trie_insert(self):
         """Test trie insert-function."""
 
-        self.assertTrue(self.trie.trie_search([('on', '1'), ('virrannut', '3'),
-                                               ('lastenlaulukulttuurin', '7')]))
-        self.assertTrue(self.trie.trie_search([('virrannut', '3'), ('lastenlaulukulttuurin', '7'),
-                                               ('uudistamisesta', '6')]))
-        self.assertTrue(self.trie.trie_search([('lastenlaulukulttuurin', '7'),
-                                               ('uudistamisesta', '6'), ('ja', '1')]))
-        self.assertTrue(self.trie.trie_search([('on', '1'), ('olemassa', '4'), ('monia', '3')]))
-        self.assertTrue(self.trie.trie_search([('on', '1'), ('olemassa', '4'), ('ainakin', '3')]))
+        self.assertTrue(self.trie.trie_search([('on', 1), ('virrannut', 3),
+                                               ('lastenlaulukulttuurin', 7)]))
+        self.assertTrue(self.trie.trie_search([('virrannut', 3), ('lastenlaulukulttuurin', 7),
+                                               ('uudistamisesta', 6)]))
+        self.assertTrue(self.trie.trie_search([('lastenlaulukulttuurin', 7),
+                                               ('uudistamisesta', 6), ('ja', 1)]))
+        self.assertTrue(self.trie.trie_search([('on', 1), ('olemassa', 4), ('monia', 3)]))
+        self.assertTrue(self.trie.trie_search([('on', 1), ('olemassa', 4), ('ainakin', 3)]))
 
     def test_search_empty_sequence(self):
         """Test trie search-function with empty sequence."""
@@ -38,8 +43,8 @@ class TestTrie(unittest.TestCase):
     def test_get_successors(self):
         """Test trie structure and syllable filter."""
 
-        search_words = [('on', '1')]
-        search_words2 = [('on', '1'), ('olemassa', '4')]
+        search_words = [('on', 1)]
+        search_words2 = [('on', 1), ('olemassa', 4)]
         limit1 = 5
         limit2 = 3
         result1 = self.trie.trie_get_successors(search_words, limit1)
