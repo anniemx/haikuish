@@ -1,6 +1,15 @@
 ## Ohjelman yleisrakenne
 Haikumaisia runoja generoiva ohjelma koostuu Markovin ketjusta ja TRIE-hakupuusta. 
 
+Esimerkiksi generoitu runo;
+***************************
+- Uutishaiku -
+***************************
+pyörivä tuuli
+jonka takia piispat
+keskeyttävät
+***************************
+
 Algoritmin opetukseen käytetty prosessoitu osa-aineisto/pienehkö testiaineisto löytyy data-kansioista nimellä test_corpus.txt. Osakorpus on alkuprosessointu ja tavutettu FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksesta. Aineisto koostuu yleiskielisistä lauseista.
 
 Index.py-tiedostossa käynnistetään sovellus ja kutsutaan korpuksen prosessointi process_data.py, jossa tekstitiedosto avataan ja prosessoidaan lauseittain listaan. Haiku.py ohjaa koko runon muodostamista. Ensin kysytään käyttäjältä haluttu Markovin ketjun aste. Annettua syötettä on rajoitettu nollan ja kymmenen väliin. Toisin sanoen ohjelma mahdollistaisi mielivaltaiset markovin ketjun asteen, mutta käytännössä pienellä korpuksella aste 2 tai 3 on järkevin. Korpuslistan lauseista muodostetaan n-grammit Markovin ketjun k-asteen mukaan n=k+1, jotka talletetaan trie-tietorakenteeseen. Markovin ketjun aste kertoo, kuinka monen edellisen sanan perusteella generoidaan seuraava sana. 

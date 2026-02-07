@@ -27,15 +27,15 @@ class Haiku():
 
     def lottery(self, words): 
         """Function to draw a word with weights based on frequencies."""
-
         wordlist = words[0]
         weights = words[1]
+        if len(wordlist) == 1:
+            return wordlist[0]
         next_word = random.choices(wordlist, weights, k=1)
         return next_word[0]
 
     def generate_haiku(self, k_order):
         """Function to generate 3 lines of haiku poem line by line."""
-
         search_words = []
 
         #generate line 1:
@@ -43,8 +43,8 @@ class Haiku():
         limit = 5
         while limit > 0:
             successors = self.trie.trie_get_successors(search_words, limit)
-            next_word = self.lottery(successors)
-            if next_word:
+            if successors:
+                next_word = self.lottery(successors)
                 line_1.append(next_word[0])
                 search_words.append(next_word)
                 if len(search_words) > k_order:
@@ -59,8 +59,8 @@ class Haiku():
         limit = 7
         while limit > 0:
             successors = self.trie.trie_get_successors(search_words, limit)
-            next_word = self.lottery(successors)
-            if next_word:
+            if successors:
+                next_word = self.lottery(successors)
                 line_2.append(next_word[0])
                 search_words.append(next_word)
                 if len(search_words) > k_order:
@@ -76,8 +76,8 @@ class Haiku():
         while limit > 0:
             #search valid followers from trie
             successors = self.trie.trie_get_successors(search_words, limit)
-            next_word = self.lottery(successors) #call lottery
-            if next_word:
+            if successors:
+                next_word = self.lottery(successors)
                 line_3.append(next_word[0])
                 search_words.append(next_word)
                 if len(search_words) > k_order:

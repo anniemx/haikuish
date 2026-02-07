@@ -1,5 +1,5 @@
 from src import process_data
-from src import haiku
+from src.haiku import Haiku
 
 """End-to-end testing
     1. load testing data, generate ngrams k-order
@@ -11,7 +11,7 @@ from src import haiku
 def test_markov_chain():
     #load and process corpus
     corpus = process_data.process(path = "src/data/test_corpus.txt")
-    haiku_poem = haiku.Haiku()
+    haiku_poem = Haiku()
     k_order = 2
     #insert sentences by k+1 ngrams to trie
     haiku_poem.create_trie(k_order, corpus)

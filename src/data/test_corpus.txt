@@ -26853,3 +26853,1179 @@ vastedes:3 viranomaiset:5 voivat:2 viedä:2 asioita:4 oikeuteen:3 ja:1 rikkojia:
 palautteen:4 antamiseen:4 on:1 kaksi:2 vaihtoehtoa:5 nimettömänä:5 tai:1 rekisteröitymällä:7 ja:1 luomalla:3 palveluun:3 suorastaan:3 salasanan:4
 sähköpostitse:5 vastaaminen:4 vaatisi:3 mahdollisesti:5 erillisen:4 järjestelmän:4 tai:1 henkilön:3 ja:1 se:1 on:1 paljon:2 työläämpää:3 ja:1 kalliimpaa:3 varsinkin:3 jos:1 jonnekin:3 tulee:2 kymmeniä:4 tuhansia:4 tai:1 satoja:3 tuhansia:4 sähköposteja:5
 uuden:2 asetuksen:4 mukaan:2 niillä:2 pitää:2 olla:2 asiakkaan:4 tietoinen:3 suostumus:3 ja:1 hänen:2 pitää:2 myös:1 ymmärtää:3 mihin:2 hän:1 suostuu:2
+syyttäjä:3 poliisit:3 puhuivat:3 kuulusteluissa:5 paljon:2 passiivissa:4 ja:1 syyttelivät:4 toisiaan:3 suomen:2 historian:4 suurin:2 poliisirikosjuttu:7 alkoi:2 jari:2 aarnio:3 johti:2 aiemmin:3 helsingin:3 huumepoliisia:6 jossa:2 tietolähteitä:5 käytettiin:3
+helsingin:3 käräjäoikeudessa:7 alkoi:2 tänään:2 tiistaina:3 suomen:2 rikoshistorian:6 laajimman:3 poliisirikosoikeudenkäynnin:10 valmisteluistunto:6
+kuiviston:3 kausi:2 jatkuu:2 kansainvälisillä:6 kisoilla:3 ennen:2 elo-syyskuun:3 taitteen:2 ruotsi-ottelua:5 jossa:2 hän:1 aikoo:2 juosta:2 800:1 ja:1 1500:1 metriä:3 kristiina:3 mäki:2 oli:2 kuudes:2 ja:1 sara:2 kuivisto:3 seitsemäs:3 800:1 metrillä:3 puolan:2 szczecinissä:4
+sara:2 kuivisto:3 sara:2 kuivisto:3 hyvässä:3 vauhdissa:3 puolassa:3 en:1 ole:2 ihan:2 tyytyväinen:4 en:1 ole:2 ihan:2 tyytyväinen:4
+sara:2 kuivisto:3 hyvässä:3 vauhdissa:3 puolassa:3 en:1 ole:2 ihan:2 tyytyväinen:4 sara:2 kuivisto:3 juoksi:2 seitsemänneksi:5 puolan:2 szczecinin:3 kansainvälisessä:6 800:1 metrin:2 kilpailussa:4 ajalla:3 2.0263:2
+se:1 on:1 porvoolaisen:4 kauden:2 kolmanneksi:4 paras:2 aika:2
+puolan:2 anna:2 sabat:2 oli:2 toinen:2 ajalla:3 2.0072:2
+se:1 oli:2 kovavauhtinen:5 juoksu:2 ja:1 jotenkin:3 omassa:3 juoksussa:3 tuo:1 loppu:2 ei:1 oikein:2 tullut:2 kuivisto:3 harmitteli:4
+sara:2 kuivisto:3 kilpailun:3 voitti:2 hallitseva:4 euroopan:3 mestari:3 ukrainan:3 natalia:4 pryshchepa:3 ajalla:3 1.5991:2
+läksin:2 hakemaan:3 sitä:2 2.01n:2 aikaa:2
+kristiina:3 mäki:2 oli:2 kuudes:2 ja:1 sara:2 kuivisto:3 seitsemäs:3 800:1 metrillä:3 puolan:2 szczecinissä:4
+kuiviston:3 edellä:3 kuudentena:4 maaliin:2 juoksi:2 tshekkiä:3 edustava:4 kristiina:3 mäki:2 ennätyksellään:5 2.0221:2
+golden:2 dawn:1 girls:1
+tammikuussa:4 2015:1 pidettyjen:4 parlamenttivaalien:7 jälkeen:2 puolue:3 onnistui:3 säilyttämään:4 asemansa:4 maan:1 viidenneksi:4 suurimpana:4 puolueena:4
+naisten:2 mielestä:3 miehet:2 ovat:2 syyttömiä:4 ja:1 vangitseminen:5 osa:2 laajempaa:3 salaliittoa:5
+norjalainen:4 dokumentaristi:6 håvard:1 bustnes:2 etsii:2 totuutta:3 kreikan:2 kultaisen:3 aamunkoiton:4 hymyilevien:5 naisten:2 takana:3
+norjalainen:4 dokumentaristi:6 håvard:1 bustnes:2 etsii:2 totuutta:3 kreikan:2 kultaisen:3 aamunkoiton:4 kulissien:4 takana:3
+miten:2 oikeudenkäynti:5 vaikuttaa:3 puolueen:3 tilanteeseen:4
+dokumenttiprojekti:7 vihan:2 kehto:2 kun:1 miehet:2 ovat:2 vankilassa:4 mitä:2 tapahtuu:3 heidän:2 perheenjäsenilleen:6 ja:1 puolueelle:4
+bustnes:2 kuvauryhmineen:5 pääsee:2 puolueen:3 salaisiin:3 kammioihin:4 ja:1 tutustuu:3 sisäpiirin:4 elämään:3
+dokumenttielokuvassa:9 vihan:2 kehto:2 16:1 seurataan:3 kolmen:2 pidätetyn:4 perheenjäsentä:5 oikeudenkäynnin:5 ajan:2
+dokumenttiprojekti:7 vihan:2 kehto:2 norjalainen:4 dokumentaristi:6 håvard:1 bustnes:2 etsii:2 totuutta:3 kreikan:2 kultaisen:3 aamunkoiton:4 hymyilevien:5 naisten:2 takana:3
+ourania:4 michaloliakos:6 jatkaa:2 isänsä:3 jäljissä:3 politiikassa:5
+naiset:2 jatkavat:3 puoluetyötä:5 tuotanto:3 house:2 of:1 real:2 napafilms:3 tanska:2 suomi:2 2017:1
+ourania:4 michaloliakos:6 jatkaa:2 isänsä:3 jäljissä:3 politiikassa:5
+naiset:2 yrittävät:4 kaikkensa:3 pitääkseen:3 puolueen:3 ja:1 perheensä:3 kasassa:3 kun:1 miehet:2 ovat:2 vangittuina:4
+norjalainen:4 dokumentaristi:6 håvard:1 bustnes:2 etsii:2 selitystä:4 radikaalin:4 äärioikeistopuolueen:8 menestykselle:5
+miten:2 naiset:2 kamppailevat:4 miestensä:3 ja:1 puolueen:3 maineen:2 puolesta:3
+mikä:2 on:1 totuus:2 kultaisen:3 aamunkoiton:4 kulissien:4 takana:3
+kreikkalaispuolueen:6 kultaisen:3 aamunkoiton:4 edustajia:5 syytetään:3 rikollisen:4 uusnatsipuolueen:6 johtamisesta:5 ja:1 tärkeimpiä:4 henkilöitä:4 vangitaan:3
+äiti:2 vaimo:2 ja:1 tytär:2 hatets:2 vugge:2
+päähenkilöinä:5 ovat:2 puolueen:3 johtajan:3 nikolaos:4 michaloliakosin:7 tytär:2 ourania:4 puolueen:3 keskuskomitean:6 jäsenen:3 georgious:4 germenisin:4 vaimo:2 jenny:2 ja:1 puoleaktiivin:5 panagiotis:5 iliopoulosin:7 äiti:2 dafni:2
+tv1:1 maanantaina:4 13.8.2018:3 klo:1 21.30:2 -:1 22.30:2 uusinta:3 sunnuntaina:4 19.8:2
+klo:1 22.50:2 areenass:3 30:1 päivää:2 poliisi:3 kuvitus:3 seitsemän:3 villikoiran:4 lauma:2 on:1 tullut:2 suomen:2 puolelle:3 mahdollisesti:5 venäjältä:4
+koirat:2 ovat:2 mahdollisesti:5 tulleet:2 suomen:2 puolelle:3 venäjältä:4
+poliisi:3 kaipaa:2 havaintoja:4 villikoiralaumasta:7 imatralla:4 poliisi:3 muistuttaa:3 että:2 lauman:2 lähelle:3 ei:1 saa:1 mennä:2 eikä:2 koiriin:2 tule:2 koskea:3
+koirat:2 havaittiin:3 imatralla:4 jaakkimankadun:5 ja:1 hiitolankadun:5 väliltä:3
+poliisi:3 kuvitus:3 kaakkois-suomen:3 poliisi:3 sai:1 ilmoituksen:4 seitsemän:3 villikoiran:4 laumasta:3 keskiviikkona:5 iltapäivällä:5
+seitsemän:3 villikoiran:4 lauma:2 on:1 tullut:2 suomen:2 puolelle:3 mahdollisesti:5 venäjältä:4
+havainnot:3 villikoiralaumasta:7 tulee:2 ilmoittaa:3 suoraan:2 hätäkeskukseen:5 tai:1 kaakkois-suomen:3 poliisille:4 numeroon:3 050 447:1 9574:1
+poliisi:3 kaipaa:2 havaintoja:4 villikoiralaumasta:7 imatralla:4 brasilian:4 ex-presidentti:4 luiz:1 inacio:4 lula:2 da:1 silva:2 tuomio:3 on:1 kokonaisuudessaan:6 12:1 vuotta:2
+brasilian:4 ex-presidentti:4 luiz:1 inacio:4 lula:2 da:1 silva:2 vaalituomioistuimen:8 on:1 määrä:2 tehdä:2 17:1
+syyskuuta:3 mennessä:3 päätöksensä:4 siitä:2 saako:2 lula:2 olla:2 ehdolla:3 vaaleissa:3
+poliisi:3 kertoo:2 marssin:2 sujuneen:3 rauhallisesti:5 ja:1 ketään:2 ei:1 jouduttu:3 pidättämään:4
+työväenpuolueen:6 mukaan:2 lula:2 on:1 oikeusmurhan:5 uhri:2 ja:1 puolue:3 on:1 vannonut:3 palauttavansa:6 hänet:2 virkaan:2
+poliisin:3 mukaan:2 noin:1 10 000:1 kannattajaa:4 osallistui:4 marssiin:2 hänen:2 puolestaan:3
+brasilian:4 entinen:3 presidentti:4 luiz:1 inacio:4 lula:2 da:1 silva:2 on:1 rekisteröitynyt:6 keskiviikkona:5 virallisesti:5 ehdokkaaksi:4 lokakuussa:4 pidettäviin:4 presidentinvaaleihin:7
+lula:2 sai:1 vankeustuomionsa:7 lahjuksen:3 ottamisesta:5
+marssijat:3 huutivat:3 lula:2 vapaaksi:3 ja:1 lula:2 presidentiksi:5
+tuomion:3 mukaan:2 rakennusalan:5 yritys:3 oli:2 lahjoittanut:4 hänelle:3 luksusasunnon:5 meren:2 rannalta:3 saadakseen:3 valtiolta:4 rakennusurakoita:7
+brasiliaa:4 vuosina:3 20032011:1 hallinnut:3 lula:2 on:1 ollut:2 huhtikuusta:4 saakka:2 vangittuna:4 korruptiosta:5
+luiz:1 inacio:4 lula:2 da:1 silva:2 on:1 suosituin:3 ehdokas:3 presidentiksi:5 mielipidemittauksissa:9
+brasilian:4 vangittu:3 ex-presidentti:4 lula:2 rekisteröitiin:5 ehdokkaaksi:4 presidentinvaaleihin:7 ex-presidentti:4 lulan:2 kannattajat:4 marssivat:3 mielenilmauksena:7 hänen:2 puolestaan:3
+useiden:3 mielipidemittausten:8 mukaan:2 lula:2 on:1 suosituin:3 ehdokas:3 seuraavaksi:4 presidentiksi:5
+brasilian:4 vangittu:3 ex-presidentti:4 lula:2 rekisteröitiin:5 ehdokkaaksi:4 presidentinvaaleihin:7 ex-presidentti:4 lulan:2 kannattajat:4 marssivat:3 mielenilmauksena:7 hänen:2 puolestaan:3
+brasilian:4 ex-presidentti:4 luiz:1 inacio:4 lula:2 da:1 silva:2 asiasta:4 kertoi:2 brasilian:4 työväenpuolue:6 verkkosivuillaan:5
+luiz:1 inacio:4 lula:2 da:1 silva:2 on:1 suosituin:3 ehdokas:3 presidentiksi:5 mielipidemittauksissa:9
+brasilian:4 ex-presidentti:4 luiz:1 inacio:4 lula:2 da:1 silva:2 puolue:3 rekisteröi:4 lulan:2 ehdokkaaksi:4 vain:1 muutamia:4 tunteja:3 ennen:2 rekisteröitymisen:7 määräaikaa:4
+alun:2 perin:2 työt:1 oli:2 tarkoitus:3 aloittaa:3 kesän:2 aikana:3 mutta:2 ely-keskuksen:4 projektipäällikkö:6 matti:2 kiljunen:3 arvioi:3 aloituksen:4 siirtyvän:3 syksyyn:2
+loimaan:2 riista-aidan:3 rakentaminen:5 venyy:2 syksyyn:2 työt:1 oli:2 alun:2 perin:2 tarkoitus:3 aloittaa:3 kesän:2 aikana:3
+loimaan:2 riista-aidan:3 rakentaminen:5 venyy:2 syksyyn:2 tiesuunnitelma:5 odottaa:3 edelleen:3 liikenneviraston:6 hyväksymispäätöstä:7
+peuroista:3 varoittava:4 liikennemerkki:5 peuroista:3 varoittava:4 liikennemerkki:5 loimaalle:3 suunnitellun:4 valtatie:3 yhdeksän:3 riista-aidan:3 rakentaminen:5 viivästyy:3
+ysitien:3 varrella:3 on:1 loimaalla:3 entuudestaan:4 yksi:2 riista-aita:3 eikä:2 sen:1 kohdalla:3 ole:2 sattunutta:4 peurakolareita:6
+uutta:2 riista-aitaa:3 on:1 tarkoitus:3 pystyttää:3 yhteensä:3 noin:1 kymmenen:3 kilometrin:4 matkalle:3 neljään:2 eri:2 kohteeseen:3
+työt:1 oli:2 alun:2 perin:2 tarkoitus:3 aloittaa:3 kesän:2 aikana:3
+riista-aita:3 on:1 tehokkain:3 tapa:2 ehkäistä:3 peurakolareita:6
+kustannusarvio:6 on:1 noin:1 miljoona:3 euroa:3
+maaperän:3 koostumusta:4 selvitetään:4 pintakartoituksen:6 kairausten:3 ja:1 koekuoppien:6 avulla:3
+salon:2 ekovoimalaitosalueella:10 pohjatutkimuksia:7 lounavoiman:4 on:1 tarkoitus:3 aloittaa:3 polttokelpoista:5 jätettä:3 käyttävän:3 voimalansa:4 varsinaiset:4 rakennustyöt:4 ensi:2 vuoden:2 maaliskuussa:4
+maanrakennustyöt:5 alkaisivat:4 loppuvuodesta:5
+salon:2 vaakuna:3
+maaperän:3 koostumusta:4 selvitetään:4 muun:1 muassa:3 koekuoppien:6 avulla:3
+salon:2 korvenmäessä:5 tehdään:2 ekovoimalaitoksen:7 rakentamista:5 ennakoivia:5 pohjatutkimuksia:7
+salon:2 ekovoimalaitosalueella:10 pohjatutkimuksia:7 maaperän:3 koostumusta:4 selvitetään:4 muun:1 muassa:3 koekuoppien:6 avulla:3
+salon:2 vaakuna:3
+eläkeikäinen:6 nainen:2 käyttää:2 hymyillen:3 kännykkää:3 kotonaan:3
+ruoditaan:3 mörköä:3 pala:2 kerrallaan:3 kun:1 maksat:2 bonus-:2 tai:1 pankkikortilla:5 siitäkin:3 jää:1 jälki:2
+asiantuntijoiden:7 vinkit:2 pelkojen:3 voittamiseen:4 pankit:2 ja:1 kaupat:2 varoittavat:4 julkisesti:4 niiden:2 nimissä:3 lähetetyistä:5 kalasteluviesteistä:7
+applen:2 laitteissa:3 on:1 ollut:2 yleensä:3 vähemmän:3 viruksia:4 mutta:2 nykyään:3 myös:1 niille:2 suositellaan:4 virusturvaa:4
+suomessakin:4 on:1 herännyt:3 huoli:2 siitä:2 että:2 millainen:3 tietosuoja:4 eri:2 verkkopalveluiden:6 tarjoajilla:5 on:1
+monet:2 seniorit:4 vain:1 katselevat:4 ystävien:4 ja:1 sukulaisten:4 kuvia:3 ja:1 lukevat:3 juttuja:3
+jos:1 kadulla:3 joku:2 kysyisi:3 pankkitunnuksia:6 harva:2 niitä:2 antaisi:3
+näinhän:2 se:1 on:1
+omat:2 yksityisyysasetukset:8 on:1 kuitenkin:3 hyvä:2 tarkistaa:3
+näitä:2 uutisia:4 on:1 hyvä:2 seurata:3 mutta:2 ei:1 niistä:2 tarvitse:3 kauheasti:4 huolestua:4
+teippi:2 kameraan:3 ja:1 ei:1 huolta:2
+identiteettiä:6 ei:1 voi:1 varastaa:3 jos:1 tietoja:3 ei:1 ole:2 antanut:3
+yhtiö:3 on:1 joutunut:3 selittämään:4 toimiaan:3 lainsäätäjille:5 sekä:2 yhdysvalloissa:5 että:2 euroopan:3 unionissa:5
+se:1 että:2 lähettäjän:4 meiliosoite:5 näyttää:2 oikean:3 ihmisen:3 osoitteelta:4 ei:1 vielä:2 takaa:2 mitään:2
+facebookiin:4 kannattaa:3 laittaa:2 itsestään:3 vain:1 tietoa:3 jonka:2 voisi:2 laittaa:2 vaikka:2 kaupan:2 ilmoitustaululle:6
+jos:1 ei:1 ole:2 varma:2 tuleeko:3 pyyntö:2 oikealta:4 taholta:3 tietoja:3 ei:1 kannata:3 antaa:2
+uutisissa:4 kerrotaan:3 toistuvasti:4 erilaisista:5 sosiaalisen:5 median:3 sähköpostin:4 ja:1 ylipäätään:4 verkon:2 käyttöön:2 liittyvistä:4 vaaroista:3
+identiteettivarkaudet:8 esimerkiksi:5 gmailissa:3 roskapostin:4 suodattimet:4 toimivat:3 aika:2 hyvin:2
+yleensä:3 jossain:2 on:1 hyvin:2 pienellä:3 mainittu:3 että:2 tilaus:3 onkin:2 jatkuva:3
+ennen:2 huono:2 suomen:2 kieli:2 oli:2 merkki:2 huijauksesta:5 mutta:2 nykyään:3 viestit:2 saattavat:3 olla:2 aivan:2 hyvää:2 suomea:3
+uskaltaako:4 esimerkiksi:5 pornoa:3 katsoa:3 vai:1 pomppaako:3 sivulta:3 koneelle:3 virus:2
+asiantuntijat:6 neuvovat:3 käyttämään:3 arkijärkeä:5
+jos:1 tuntematon:4 ihminen:3 lupaa:2 jotain:2 liian:2 hyvää:2 älä:2 mene:2 lankaan:2
+eikä:2 tuntemattomilta:6 tarvitse:3 hyväksyä:4 kaveripyyntöjä:6
+etelämäki:5 pääsääntöisesti:5 nämä:2 eivät:2 ole:2 laittomia:4 vaikka:2 myynti:2 on:1 eettisesti:4 väärin:2
+ystäviltä:4 sukulaisilta:5 ja:1 digituen:4 toimijoilta:4 kannattaa:3 tarvittaessa:5 kysyä:3 apua:3
+melkein:2 kaikissa:3 älylaitteissa:5 ja:1 tietokoneissa:5 on:1 nykyään:3 kamera:3 mistä:2 tietää:2 kuka:2 siitä:2 katselee:3
+tiainen:3 apple-koneiden:4 käyttäjillä:4 taas:1 ei:1 usein:2 ole:2 mitään:2 viruksentorjuntaohjelmaa:9
+kun:1 noudattaa:3 näin:1 yksinkertaisia:6 ohjeita:3 kalastelun:4 riski:2 pienenee:3 oleellisesti:5
+tiina:2 etelämäki:5 enter:2 ryn:1 toiminnanjohtaja:6 normaali:3 keskustelu:4 ei:1 tietenkään:3 johda:2 vielä:2 mihinkään:3
+tiainen:3 tietokoneessa:5 ja:1 muissa:2 laitteissa:3 kannattaa:3 pitää:2 automaattiset:5 järjestelmäpäivitykset:8 päällä:2
+tilausansat:5 poikkeuksena:5 ovat:2 applen:2 mobiililaitteet:5 niissä:2 viruksentorjuntaohjelmia:10 ei:1 tarvitse:3
+tiainen:3 moni:2 vaihtaa:2 mielipiteitä:5 keskusteluryhmissä:7
+käytetyimpiä:5 sisältöjä:4 verkossa:3 on:1 porno:2
+nuoremmille:4 esimerkiksi:5 facebookin:4 kirpputoriryhmät:6 ovat:2 jopa:2 taloudellisesti:6 hyödyllisiä:5
+jos:1 ikäihmiselle:6 tarjotaan:3 eurolla:3 tablettia:4 kyseessä:3 on:1 varmasti:3 tilausansa:4
+tietokoneviruksista:8 on:1 puhuttu:3 paljon:2 1990-luvulta:3 lähtien:3
+jos:1 syöttää:2 omat:2 tietonsa:3 vain:1 silloin:2 kun:1 sen:1 on:1 oleellista:4 ja:1 tarpeellista:4 niin:1 on:1 aika:2 hyvin:2 turvassa:3
+henkilötietojen:6 ja:1 verkkokäyttäytymisen:7 koostamiseen:4 liittyy:2 melkein:2 aina:2 kaupallisia:5 intressejä:4
+jos:1 perustelut:4 sijaintitiedon:5 antamisella:5 ovat:2 kuitenkin:3 hyvät:2 harkitsen:3 asiaa:3
+pääseekö:3 joku:2 verkkopankkiini:5
+olemme:3 tehneet:2 enter:2 ryssä:2 tietoturvasuositukset:8 eri:2 laitteille:3
+sama:2 pätee:2 tuntemattomiin:5 romanssin:3 ehdottelijoihin:6
+yhdet:2 seuraavat:3 maailman:3 tapahtumia:5 toisille:3 harrastusryhmät:5 ovat:2 tärkeitä:3
+auttaminen:4 tietenkin:3 jatkuu:2
+virukset:3 en:1 olisi:3 hirveän:3 huolissani:4
+nettiä:3 ikä:2 kaikki:2 -kampanjassa:4 suomalaiset:4 opettivat:4 läheisilleen:4 yli:2 5000:1 digitaitoa:5
+verkkopankissa:5 laskujen:3 takia:3 ei:1 tarvitse:3 jonottaa:3 konttorissa:4
+uskaltaako:4 sinne:2 nettiin:2 mennä:2
+asiaa:3 ei:1 siis:1 kannata:3 hävetä:3 vaan:1 ilmoittaa:3 läheisilleen:4 ja:1 kuluttajaviranomaisille:10
+yksityisyyden:5 katoaminen:5 ja:1 käyttäytymisdata:6 niin:1 kutsutuista:4 nigerialaiskirjeistä:8 on:1 puhuttu:3 pitkään:2
+netistä:3 löytyvät:3 helposti:3 vaikka:2 ruokareseptit:5
+sähköpostissa:5 ei:1 pidä:2 avata:3 liitetiedostoa:6 jos:1 ei:1 tiedä:2 keneltä:3 viesti:2 on:1 tullut:2
+jos:1 kone:2 kuitenkin:3 on:1 päivitetty:4 virusturva:4 on:1 kunnossa:3 ja:1 katsoo:2 millä:2 sivustoilla:4 käy:1 eivät:2 pornosivut:4 ole:2 sen:1 vaarallisempia:6 kuin:1 muutkaan:2 verkkosivut:4
+tarvitseko:4 apua:3 digiasioissa:6
+maalaisjärkeä:5 voi:1 käyttää:2
+se:1 ei:1 ole:2 yksittäisen:4 ihmisen:3 vastuulla:3
+pankki-:2 tai:1 korttitunnusten:5 kalastelu:4 salakatselu:5 kameran:3 kautta:2 henkilökohtaisista:7 tiedoista:3 ja:1 tunnuksista:4 tulee:2 pitää:2 huolta:2
+netin:2 kautta:2 monia:3 asioita:4 voi:1 hoitaa:2 omasta:3 kodista:3 käsin:2
+eläkeikäinen:6 nainen:2 katsoo:2 kiinni:2 olevan:3 pankin:2 ikkunasta:4 paperilasku:5 kädessään:3
+liisa:2 tiainen:3 on:1 vanhustyön:3 keskusliiton:4 seniorsurf-toiminnan:6 vastaava:3 asiantuntija:6 saanko:2 iphonen:3 eurolla:3
+tiainen:3 tiina:2 etelämäki:5 on:1 toiminnanjohtaja:6 ikäihmisten:5 tietotekniikkayhdistys:8 enter:2 ryssä:2 facebookista:5 vuotaa:2 käyttäjätietoja:6 sosiaalisessa:6 mediassa:4 erilaiset:4 kilpailut:3 ja:1 testit:2 on:1 tehty:2 kaupallista:4 tarkoitusta:4 varten:2
+nigerialaiskirjeet:7 etelämäki:5 on:1 siis:1 omalla:3 vastuulla:3 osallistua:5 niihin:2
+opastuksissamme:6 puhutaan:3 verkkokäyttäytymisestä:8 kertyvästä:4 datasta:3
+järeä:3 tietopaketti:5 on:1 myös:1 viranomaisten:5 tekemä:3 kodin:2 kyberopas:4
+enter:2 ryn:1 tiina:2 etelämäki:5 on:1 tarkka:2 sijaintitietojensa:7 jakamisesta:5
+joillakin:3 on:1 kolme:2 virusturvaa:4 kun:1 oikeasti:4 yksi:2 hyvä:2 riittäisi:3
+kannattaa:3 tutustua:4 oman:2 sähköpostiohjelman:7 roskapostin:4 estoon:2
+digitaitoja:5 opiskelevalle:6 ikäihmiselle:6 verkon:2 käyttöön:2 liittyvistä:4 uhkakuvista:5 voi:1 muodostua:4 suhteettomankin:5 suuri:2 mörkö:2
+liity:2 digitreenien:5 facebook-ryhmään:4
+huijausviestit:5 ovat:2 kehittyneet:4
+netin:2 kautta:2 monia:3 asioita:4 voi:1 hoitaa:2 omasta:3 kodista:3 käsin:2
+jotkut:2 suomalaiset:4 ostavat:3 kalliita:3 virusturvaohjelmia:8
+nämä:2 ovat:2 niin:1 taitavasti:4 tehtyjä:3 että:2 fiksutkin:3 ihmiset:3 menevät:3 ansaan:2
+tilausansassa:6 netin:2 käyttäjä:3 luulee:2 saavansa:3 jotain:2 hyvin:2 edullisesti:5 mutta:2 sitoutuukin:4 esimerkiksi:5 määräaikaiseen:5 tilaukseen:4
+liisa:2 tiainen:3 seniorsurf-toiminnan:6 vastaava:3 asiantuntija:6 neuvoo:2 ihmistä:3 porissa:3 ylen:2 teltalla:3 2018:1
+lisäksi:3 tilaaja:3 ei:1 löydä:2 tietoa:3 siitä:2 miten:2 kaupan:2 voi:1 perua:3
+mukavien:4 juttelu:3 on:1 sallittua:4 jopa:2 toivottua:4
+tähänkin:3 pätee:2 se:1 että:2 ei:1 ryhdy:2 verkossa:3 tuntemattomien:6 kanssa:2 liian:2 läheiseksi:4
+uskaltaako:4 sinne:2 nettiin:2 mennä:2
+asiantuntijoiden:7 vinkit:2 pelkojen:3 voittamiseen:4 seniorsurfin:5 liisa:2 tiainen:3 kertoo:2 porin:2 suomi:2 areenassa:4 nettiä:3 ikä:2 kaikki:2 -kiertueesta:4
+huijausviestejä:6 on:1 hyvin:2 erilaisia:5
+viestin:2 lähettäjä:4 kannattaa:3 aina:2 pyrkiä:3 varmistamaan:4 jollain:2 tavalla:3
+etelämäki:5 itse:2 olen:2 tarkka:2 mm:1
+sijainnin:3 kanssa:2 jos:1 verkkosivu:4 kysyy:2 saako:2 se:1 käyttää:2 sijaintiani:5 lähtökohtaisesti:6 kiellän:2 sen:1
+tiainen:3 pin-koodit:2 kannattaa:3 pitää:2 omana:3 tietonaan:3
+mitä:2 tästä:2 pitäisi:3 ajatella:4
+jos:1 joku:2 sinulle:3 tarjoaa:3 torilla:3 eurolla:3 puhelinta:4 ostaisitko:4
+esimerkiksi:5 facebookiin:4 ei:1 ole:2 pakko:2 laittaa:2 oikeata:4 syntymäaikaa:5
+voi:1 laittaa:2 vaikka:2 oikean:3 päivän:2 muttei:2 oikeaa:3 vuotta:2
+facebook:3 on:1 ollut:2 vuonna:2 2018:1 jatkuvasti:4 uutisissa:4 käyttäjätiedon:5 jakamisesta:5 ulkopuolisille:6 tahoille:3
+varmista:3 siis:1 aina:2 ensin:2 mitä:2 olet:2 tilannut:3 ja:1 miten:2 pystyt:2 tilauksen:4 lopettamaan:4
+onko:2 viihdesivulla:5 virus:2
+kyllä:2 nettiin:2 uskaltaa:3 mennä:2 kunhan:2 pitää:2 vanhan:2 kunnon:2 maalaisjärjen:4 käytössä:3 ja:1 jättää:2 turhan:2 hätiköinnin:4 pois:1
+toiminta:3 on:1 usein:2 eettisesti:4 arveluttavaa:5 mutta:2 ei:1 laitonta:3
+huijauksiin:4 on:1 kehitetty:4 nokkela:3 tarina:3 tai:1 tilanne:3 jossa:2 huijauksen:4 kohde:2 yritetään:4 saada:2 lähettämään:4 huijarille:4 rahaa:2 vaikkapa:3 jonkinlaista:4 etumaksua:5 jonkin:2 suuremman:3 hyödyn:2 saavuttamiseksi:6
+moni:2 taho:2 kerää:2 meistä:2 tietoa:3
+esimerkiksi:5 google:2 saa:1 tarkkaa:2 tietoa:3 siitä:2 mitä:2 ihminen:3 etsii:2 verkossa:3 missä:2 hän:1 liikkuu:2 mitä:2 videoita:4 katsoo:2 ja:1 mistä:2 keskustelee:4 viesteissään:3
+on:1 viranomaisten:5 asia:3 valvoa:3 ettei:2 tietoja:3 käytetä:3 väärin:2
+silloin:2 ihminen:3 ei:1 tilatessaan:4 ymmärrä:3 että:2 on:1 sitoutunut:4 jatkuvaan:3 tilaukseen:4
+netin:2 käyttäminen:4 on:1 ylipäätään:4 suhteellisen:4 turvallista:4
+etelämäki:5 identiteettivarkaudet:8 eli:2 nimien:3 tai:1 henkilötunnusten:6 oikeudeton:4 käyttö:2 on:1 yksi:2 uusimmista:4 mediassa:4 toistuvista:4 uhkakuvista:5
+facebookiin:4 ei:1 välttämättä:4 tarvitse:3 itse:2 päivittää:3 tai:1 tuottaa:2 mitään:2 -:1 voi:1 vaikka:2 vain:1 seurata:3
+esimerkiksi:5 neuvomme:3 mistä:2 voi:1 katsoa:3 mitä:2 tietoa:3 itsestä:3 on:1 kertynyt:3 googlen:2 tietokantaan:4
+lisää:2 tietoa:3 löytyy:2 esimerkiksi:5 kuluttajaliiton:6 huijausinfosta:5
+eläkeikäinen:6 nainen:2 käyttää:2 hymyillen:3 kännykkää:3 kotonaan:3
+voinko:2 jutella:3 tuntemattomille:6 verkossa:3
+tässä:2 muutama:3 neuvo:2 ja:1 lohdun:2 sana:2 kahdelta:3 asiantuntijalta:7 jotka:2 opettavat:4 verkkotaitoja:5 senioreille:5
+tiainen:3 jos:1 tulit:2 huijatuksi:4 älä:2 haudo:2 asiaa:3 yksinäsi:4 vaan:1 ota:2 yhteyttä:4 poliisiin:3 tai:1 esimerkiksi:5 rikosuhripäivystykseen:8
+sähköpostilla:5 tai:1 tekstiviestillä:5 voi:1 tulla:2 hyvin:2 aidon:2 näköisiä:4 pyyntöjä:3 joissa:2 jossain:2 vaiheessa:3 vaaditaan:3 luottokortin:4 numeroa:4 tai:1 verkkopankin:4 tunnuslukuja:5
+etelämäki:5 kadulla:3 kulkiessa:4 on:1 suurempi:3 todennäköisyys:5 tulla:2 kuvatuksi:4
+kyllä:2 vai:1 ei:1
+eläkeikäinen:6 nainen:2 näppäilee:3 kännykän:3 pin-koodia:3
+verkkopankkiin:4 mennään:2 aina:2 aina:2 pankin:2 omien:3 sivujen:3 kautta:2 ei:1 sähköpostissa:5 tai:1 tekstiviestissä:5 olevan:3 linkin:2 kautta:2
+facebookin:4 kautta:2 moni:2 iäkäs:3 ihminen:3 on:1 löytänyt:3 jonkun:2 lapsuuden:3 kaverinsa:4 uudelleen:3
+yksityisyyden:5 -:1 ja:1 ehkä:2 tietoturvankin:5 -:1 kannalta:3 pornosivuilla:5 käydessä:3 on:1 hyvä:2 käyttää:2 yksityisen:4 selauksen:4 tilaa:2
+nainen:2 leipoo:2 eli:2 kaataa:2 jauhoja:3 kulhoon:2 katsoen:3 reseptiä:4 tablettitietokoneelta:8
+kolme:2 vinkkiä:3 mikään:2 luotettava:4 taho:2 ei:1 kysy:2 sähköpostitse:5 pankin:2 tunnuslukuja:5
+tiainen:3 etelämäki:5 toukokuussa:4 julkaisemassaan:5 raportissa:4 se:1 kertoi:2 että:2 suomalaiset:4 teknologiayritykset:9 kohtaavat:3 lähivuosina:5 merkittävästi:5 haasteita:3 matemaattisten:5 alojen:3 osaajien:4 rekrytoinnissa:5
+matematiikkaa:5 on:1 kaikkialla:4 vaikka:2 se:1 ei:1 aina:2 ole:2 perinteisessä:5 mielessä:3 näkyvillä:4 hän:1 sanoo:2
+sekä:2 teknologiateollisuus:9 ryn:1 leena:2 pöntynen:3 että:2 professori:4 erno:2 lehtinen:3 turun:2 yliopistosta:6 puhuvat:3 matemaattisesta:6 ajattelusta:5
+olemme:3 pärjänneet:3 aika:2 hyvin:2 sen:1 tyyppisissä:4 tehtävissä:4 joita:2 pisa-tutkimus:4 mittaa:2
+myös:1 kansainvälisessä:6 timss-tutkimuksessa:5 näkyy:2 että:2 taidot:2 matematiikassa:6 ovat:2 heikentyneet:4
+vuoden:2 2015:1 pisa-vertailussa:5 suomi:2 oli:2 matematiikassa:6 sijalla:3 13:1 kun:1 vielä:2 vuonna:2 2006:1 suomi:2 oli:2 sijalla:3 kaksi:2
+asiasta:4 on:1 esittänyt:4 huolensa:3 myös:1 teknologiateollisuus:9 ry:1
+erno:2 lehtinen:3 se:1 on:1 harha:2
+pöntynen:3 muistuttaa:3 että:2 pitkän:2 matematiikan:5 kirjoittaminen:5 ylioppilaskirjoituksissa:10 tuo:1 melkein:2 varmasti:3 opiskelupaikan:6 korkeakoulussa:6
+moni:2 ajattelee:4 että:2 matematiikka:5 on:1 jotain:2 erityistä:4 jota:2 voidaan:2 käyttää:2 vain:1 matematiikan:5 oppitunnilla:5 tai:1 tehtävissä:4
+hän:1 on:1 huolissaan:3 sillä:2 suomalaisten:4 kiinnostus:3 matematiikkaa:5 kohtaan:2 on:1 laskussa:3
+poika:2 katselee:3 taululla:3 olevia:4 matemaattisia:6 kaavoja:3 tulevaisuudessa:6 toimeen:2 tuleminen:4 kansalaisena:5 edellyttää:4 selvästi:3 parempaa:3 matemaattista:5 osaamista:4 kuin:1 mitä:2 ihmisillä:4 tyypillisesti:5 tällä:2 hetkellä:3 on:1 sanoo:2 professori:4 erno:2 lehtinen:3 turun:2 yliopistosta:6
+kouluopetuksessa:7 varhaisista:4 vuosista:3 lähtien:3 voidaan:2 kokea:3 matemaattisen:5 ajattelun:4 joustavaa:3 käyttöä:3 ja:1 sillä:2 tavalla:3 luoda:2 matemaattisen:5 ajattelun:4 pohjaa:2 lehtinen:3 sanoo:2
+siitäkin:3 huolimatta:4 vain:1 noin:1 kolmasosa:4 ylioppilastutkinnon:8 suorittavista:5 kirjoittaa:3 pitkän:2 matematiikan:5
+kaikki:2 tutkimuksetkin:5 viittaavat:3 siihen:2 että:2 yhteiskunta:4 on:1 ikään:2 kuin:1 matematisoitumassa:8
+lehtisen:3 mielestä:3 teknologisoituminen:8 pikemminkin:4 lisää:2 matemaattisten:5 taitojen:3 tärkeyttä:4
+teknologian:5 lisääntyminen:5 vähentää:3 tarvetta:3 mekaaniseen:4 laskemiseen:4 mutta:2 meillä:2 on:1 aina:2 ikään:2 kuin:1 piilotettua:5 matematiikkaa:5
+professori:4 erno:2 lehtisen:3 mukaan:2 vallalla:3 on:1 tällä:2 hetkellä:3 sellainen:3 käsitys:3 ettei:2 nykymaailmassa:6 enää:2 tarvittaisi:4 matematiikkaa:5 ainakaan:3 siinä:2 määrin:2 kuin:1 ennen:2
+moni:2 ajattelee:4 että:2 matematiikka:5 on:1 jotain:2 erityistä:4 jota:2 voidaan:2 käyttää:2 vain:1 matematiikan:5 oppitunnilla:5 tai:1 tehtävissä:4
+syyskuussa:3 opettajille:5 aletaan:3 antaa:2 täydennyskoulutusta:7 jotta:2 koulumatematiikka:7 saataisiin:3 vastaamaan:3 paremmin:3 yhteiskunnan:4 ja:1 työelämän:4 vaatimuksia:5
+tarvitaan:3 matemaattista:5 ajattelua:5 asiaan:3 yritetään:4 nyt:1 saada:2 muutosta:3
+kuitenkin:3 tuloksia:4 suorituskyvyn:5 laskusta:3 on:1 jo:1 aikaisemmin:4 näkynyt:3 sellaisissa:4 tehtävissä:4 joissa:2 mitataan:3 perinteisempää:5 matematiikkaa:5 lehtinen:3 sanoo:2
+kysyntää:3 on:1 korkeakouluosaajille:9 mutta:2 pohja:2 luodaan:2 jo:1 peruskoulussa:5 ja:1 lukiossa:4 sanoo:2 koulutuspolitiikan:7 johtava:3 asiantuntija:6 leena:2 pöntynen:3 teknologiateolisuus:9 rystä:2
+suomalaiset:4 osaavat:3 matematiikkaa:5 yhä:2 huonommin:3 vaikka:2 sitä:2 tarvittaisiin:4 koko:2 ajan:2 enemmän:3 professori:4 teknologinen:5 kehitys:3 lisää:2 matematiikan:5 merkitystä:4 syyskuussa:3 opettajille:5 aletaan:3 antaa:2 täydennyskoulutusta:7 jotta:2 koulumatematiikka:7 saataisiin:3 vastaamaan:3 paremmin:3 yhteiskunnan:4 ja:1 työelämän:4 vaatimuksia:5
+suomalaiset:4 osaavat:3 matematiikkaa:5 yhä:2 huonommin:3 vaikka:2 sitä:2 tarvittaisiin:4 koko:2 ajan:2 enemmän:3 professori:4 teknologinen:5 kehitys:3 lisää:2 matematiikan:5 merkitystä:4 lehtisen:3 mukaan:2 koulumatematiikasta:8 on:1 tullut:2 erillinen:4 saareke:3 muusta:2 elämästä:4
+toistaiseksi:4 koulutukseen:4 on:1 ilmoittautunut:5 noin:1 500:1 opettajaa:4 mutta:2 ilmoittautuminen:6 on:1 vielä:2 auki:2
+mehän:2 olemme:3 pärjänneet:3 kansainvälisissä:6 vertailuissa:4 mutta:2 viime:2 vuosina:3 suoritustaso:5 on:1 mennyt:2 alaspäin:3
+poika:2 katselee:3 taululla:3 olevia:4 matemaattisia:6 kaavoja:3 koulutusta:4 annetaan:3 opettajille:5 aina:2 varhaiskasvatuksesta:7 lukioon:3 asti:2
+professori:4 erno:2 lehtinen:3 on:1 huolissaan:3 matemaattisten:5 taitojen:3 heikentymisestä:6 ja:1 siitä:2 että:2 matematiikasta:6 ei:1 olla:2 kiinnostuneita:5
+on:1 äärimmäisen:4 tärkeää:3 että:2 matemaattinen:5 ajattelu:4 on:1 sillä:2 tasolla:3 ja:1 niin:1 joustavaa:3 että:2 ihmiset:3 pystyvät:3 ymmärtämään:4 mitä:2 erilaiset:4 laitteet:2 ja:1 järjestelmät:4 heidän:2 ympärillään:4 tekevät:3
+apu:2 opettajien:5 lisäkoulutuksella:7
+sen:1 ulkopuolella:5 lapset:2 jo:1 aika:2 varhaisessa:4 vaiheessa:3 käyttävät:3 matemaattista:5 ajattelua:5 mutta:2 sitä:2 ei:1 ole:2 osattu:3 kytkeä:3 siihen:2 miten:2 koulussa:3 matematiikkaa:5 opitaan:3 lehtinen:3 sanoo:2
+erno:2 lehtinen:3 laskut:2 voidaan:2 laskea:3 koneella:3 mutta:2 se:1 ei:1 poista:2 matematiikan:5 tarvetta:3
+syyskuussa:3 käynnistyy:3 opettajille:5 tarkoitettu:4 täydennyskoulutus:6 jossa:2 keskitytään:4 siihen:2 miten:2 koulumatematiikasta:8 saadaan:2 nyky-yhteiskunnan:5 ja:1 työelämän:4 tarpeita:3 vastaavaa:3
+tarvitaan:3 arjen:2 matematiikkaa:5 ja:1 vaikeampia:5 asioita:4 mutta:2 myös:1 ongelmanratkaisukykyä:9 ja:1 ilmiöiden:4 ymmärrystä:4 laaja-alaisempaa:5 osaamista:4 ajattelukyvyssä:7 pöntynen:3 sanoo:2
+samoin:2 ovat:2 myös:1 matemaattiset:5 taidot:2 jotka:2 tietysti:3 kulkevat:3 usein:2 käsi:2 kädessä:3 kiinnostuksen:4 kanssa:2
+opettajien:5 täydennyskoulutuksen:7 järjestävät:4 yhteistyössä:4 turun:2 jyväskylän:4 ja:1 oulun:2 yliopistot:5
+suntin:2 kävelysilta:5 poistettiin:3 uuden:2 tieltä:2
+on:1 pelkästään:3 positiivista:5 että:2 asiasta:4 keskustellaan:4
+keskustelu:4 toimii:2 kuitenkin:3 myös:1 toiseen:2 suuntaan:2
+kaupungin:3 vetovoima:4 on:1 tutkijan:3 mielestä:3 kaikkien:3 asia:3
+usein:2 esiin:2 nouseva:3 sunti:2 on:1 aron:2 mielestä:3 esimerkki:4 konkreettisesta:5 asiasta:4 joka:2 näkyy:2 kaupunkilaisten:5 arjessa:3
+kokkolassa:4 kannetaan:3 huolta:2 myös:1 väkiluvun:4 kasvun:2 pysähtymisestä:6
+muutostrendit:4 ovat:2 pitkän:2 aikavälin:4 asia:3 eikä:2 lyhyisiin:3 poikkeamiin:4 kannata:3 aron:2 mielestä:3 kiinnittää:3 kovin:2 paljon:2 huomiota:4
+kanna:2 kortesi:3 kekoon:2 ja:1 kerro:2 mitä:2 pitäisi:3 tehdä:2
+kielteisyyden:4 kulttuuria:4 on:1 vaikea:3 kääntää:2 jos:1 se:1 pääsee:2 pitkälle:3
+kanna:2 kortesi:3 kekoon:2 ja:1 kerro:2 mitä:2 pitäisi:3 tehdä:2
+siksi:2 he:1 ovat:2 kiinnostuneita:5 ja:1 huolestuneita:5 asiasta:4
+sunti:2 ilman:2 kaupungintalon:5 kohdalla:3 olevaa:3 kävelysiltaa:5
+kokkolassa:4 pohditaan:3 tänään:2 kaupungin:3 elinvoimaa:4
+keskuskunnat:4 ovat:2 voittajia:4 ja:1 reuna-alueet:4 häviäjiä:5
+näen:2 kokkolan:3 vahvana:3 ja:1 pikemminkin:4 kasvavana:4 kuin:1 supistuvana:5 ynnää:2 aro:2
+paikkavetovoima:6 taas:1 pitää:2 sisällään:3 houkuttelevat:5 kohteet:2 olivat:3 ne:1 sitten:2 merta:2 museoita:4 tai:1 tapahtumia:5
+vetovoima:4 pohjaa:2 ulkopuolisten:5 näkemyksiin:4 ja:1 sitä:2 voi:1 tutkia:3 tilastojen:4 ja:1 selvitysten:4 avulla:3
+sunti:2 ilman:2 kaupungintalon:5 kohdalla:3 olevaa:3 kävelysiltaa:5
+kokkolan:3 puolesta:3 puhuvat:3 aron:2 mukaan:2 sekä:2 sijainti:3 että:2 koulutustarjonta:6 elinkeinoelämän:7 panostukset:4 ja:1 yrityskanta:5
+muuttovoittoa:5 kirjasi:3 54:1 kuntaa:2 eli:2 joka:2 kuudes:2
+kaupungin:3 vetovoima:4 on:1 tutkijan:3 mielestä:3 kaikkien:3 asia:3
+kokkolassa:4 pohditaan:3 tänään:2 kaupungin:3 elinvoimaa:4
+kun:1 kaikki:2 on:1 hyvin:2 myönteinen:3 retoriikka:4 vahvistaa:3 aluetta:4
+kokkolan:3 vetovoimatekijät:7 ovat:2 kohdallaan:3 mutta:2 mitä:2 vielä:2 tarvitaan:3
+alue-:3 ja:1 väestökehityksen:7 asiantuntija:6 timo:2 aro:2 kehottaa:3 muistamaan:3 että:2 suomessa:3 ollaan:2 ensi:2 kertaa:2 kymmeniin:3 vuosiin:2 tilanteessa:4 jossa:2 vain:1 harva:2 kunta:2 saa:1 muuttovoittoa:5 tai:1 väestönlisäystä:7
+kokkolan:3 vetovoimatekijät:7 ovat:2 kohdallaan:3 mutta:2 mitä:2 vielä:2 tarvitaan:3
+aro:2 muistuttaa:3 että:2 vähintään:3 yhtä:2 tärkeää:3 on:1 kysyä:3 miten:2 tyytyväisiä:5 ovat:2 alueella:4 asuvat:3 ja:1 toimivat:3
+80:1 kunnassa:3 311stä:1 taas:1 syntyvyys:3 oli:2 suurempi:3 kuin:1 kuolleisuus:3
+sijaintivetovoimaa:7 määrittävät:4 sijainnin:3 lisäksi:3 liikenneyhteydet:6 etäisyys:3 suurempii:3 paikkoihin:3 ja:1 infra:2
+kokkolan:3 elinvoimaa:4 pohditaan:3 tänään:2 seminaarissa:5 joka:2 on:1 osa:2 kaupungin:3 elinvoimasuunnittelua:9
+keväällä:3 julkistetun:4 tuoreimman:3 selvityksen:4 mukaan:2 asukastyytyväisyys:7 on:1 laskenut:3 kokkolassa:4 neljän:2 viime:2 vuoden:2 ajan:2 hiljalleen:3
+julkinen:3 keskustelu:4 voi:1 vahvistaa:3 sävyjä:3 kokkolan:3 vetovoima:4 näyttää:2 asiantuntijan:6 silmiin:2 hyvältä:3
+pitkällä:3 aikavälillä:5 on:1 selvää:2 että:2 kaupungistuminen:6 ja:1 keskittyminen:5 on:1 kiihtynyt:3 ja:1 alueiden:4 väliset:3 erot:2 ovat:2 kasvaneet:3
+poliitikot:4 eivät:2 myöskään:2 ole:2 yksin:2 vastuussa:3 kaupungin:3 veto-:2 tai:1 elinvoimasta:5 vaan:1 kyseessä:3 on:1 kaikkien:3 yritysten:4 ja:1 kuntalaisten:4 asia:3
+toisaalta:3 julkinen:3 keskustelu:4 voi:1 luoda:2 tai:1 ruokkia:3 tunteita:3 molempiin:3 suuntiin:2
+suntin:2 kävelysilta:5 poistettiin:3 uuden:2 tieltä:2
+alue-:3 ja:1 väestökehityksen:7 asiantuntija:6 timo:2 aro:2 pitää:2 kokkolan:3 tilannetta:4 hyvänä:3 kyseessä:3 on:1 alueensa:4 keskuskaupunki:5 jonka:2 kasvutekijät:5 ovat:2 olleet:2 melko:2 myönteisellä:4 uralla:3 jo:1 pidempään:3
+aiheesta:3 on:1 kuitenkin:3 käyty:2 viime:2 kuukausina:4 myös:1 toisen:2 suuntaista:3 julkisuudessa:5 ja:1 mielipidepalstoilla:7
+pitovoima:4 on:1 hankalampi:4 se:1 vaatii:2 keskustelua:5
+ensimmäinen:4 kuvaa:2 sitä:2 miten:2 houkuttelevana:6 mahdolliset:4 liikkujat:3 kokevat:3 paikan:2
+voittokuntia:5 on:1 vain:1 vähän:2 hän:1 muistuttaa:3 että:2 vetovoimasta:5 puhuttaessa:5 pitää:2 erottaa:3 kolme:2 asiaa:3 muutto-:2 sijainti-:3 ja:1 paikkavetovoima:6
+niklas:2 bäckström:2 näpäytti:4 heti:2 tapparan:3 maalilla:3 nollasi:3 hifkn:1 ja:1 lähti:2 nelikymppisenä:6 kohti:2 tulokasiltaa:5 varmaan:2 pitäisi:3 jossain:2 ikämiessarjassa:6 tämän:2 joukkueen:3 pelata:3 tommy:2 salo:2 kypärä:3 päässä:2
+kaikki:2 alkoi:2 siitä:2 valko-venäjä-ottelusta:7
+arkistokuva:5 hän:1 työskentelee:4 liikunnanopettajana:8 borlängessa:4 ja:1 hän:1 on:1 löytänyt:3 myös:1 rakkauden:3
+huonoimpina:4 aikoina:3 tunsin:2 etten:2 voi:1 enää:2 elää:2 salo:2 kertoi:2 aftonbladetille:6
+valko-venäjän:4 voittomaali:4 syntyi:2 halvasti:3 kun:1 puolesta:3 kentästä:3 lähtenyt:3 laukaus:3 pompahti:3 salon:2 taakse:2 verkkoon:2
+ruotsalaismaalivahti:7 tommy:2 salo:2 masentui:3 kuuluisasta:4 mokastaan:3 -:1 tuntui:2 etten:2 voi:1 elää:2 salosta:3 tehtiin:2 syntipukki:4 vuoden:2 2002:1 salt:1 laken:2 cityn:2 olympialaisissa:7 jonka:2 puolivälierissä:7 ruotsi:2 kompastui:3 yllättäen:4 valko-venäjälle:5
+tommy:2 salo:2 47:1 voitti:2 urallaan:3 olympiakultaa:6 vuonna:2 1994:1 ja:1 maailmanmestaruuden:7 1998:1
+arkistokuva:5 tommy:2 salo:2 kypärä:3 päässä:2
+virheestä:3 tuli:2 jääkiekkomaailmassa:7 kuuluisa:3 ja:1 monet:2 pilkkasivat:4 saloa:3 tapauksesta:5
+tommy:2 salo:2
+ruotsalaismaalivahti:7 tommy:2 salo:2 masentui:3 kuuluisasta:4 mokastaan:3 -:1 tuntui:2 etten:2 voi:1 elää:2 salo:2 päätti:2 uransa:3 kauden:2 2006-2007:1 päätteeksi:3
+se:1 on:1 seurannut:3 minua:3 koko:2 elämäni:4 ja:1 ollut:2 syynä:2 siihen:2 miksi:2 olen:2 voinut:2 niin:1 huonosti:3
+tommy:2 salo:2 47:1 voitti:2 urallaan:3 olympiakultaa:6 vuonna:2 1994:1 ja:1 maailmanmestaruuden:7 1998:1
+lue:2 myös:1 salon:2 elämää:3 vaikeuttivat:5 myös:1 avioero:5 sekä:2 pieleen:2 mennyt:2 pesti:2 jääkiekkoseura:5 leksands:2 ifn:1 urheilujohtajana:7
+salo:2 47:1 voitti:2 urallaan:3 olympiakultaa:6 vuonna:2 1994:1 ja:1 maailmanmestaruuden:7 1998:1
+tommy:2 salo:2
+ruotsalaisen:4 jääkiekkomaalivahdin:7 tommy:2 salon:2 päästämä:3 helppo:2 osuma:3 johti:2 vakavaan:3 masennukseen:4
+nhlssä:1 hän:1 pelasi:3 yli:2 500:1 ottelua:4
+salo:2 kertoo:2 pystyvänsä:4 käsittelemään:5 menneitä:3 asioita:4 nyt:1 paremmin:3
+koivisto:3 valmistui:3 mediajohtamisen:7 maisteriksi:4 vuonna:2 2011:1
+jos:1 hän:1 nyt:1 saisi:2 tehdä:2 jotakin:3 toisin:2 hän:1 verkostoituisi:5 paremmin:3 jo:1 opiskeluaikoina:7
+se:1 on:1 paljon:2 rahaa:2 ihmiseltä:4 joka:2 asuu:2 tällä:2 hetkellä:3 vanhempiensa:5 luona:2
+hän:1 kokee:2 ettei:2 niistä:2 olisi:3 juuri:2 ollut:2 hänelle:3 hyötyä:3
+viime:2 viikolla:3 jaakko:2 koivisto:3 löysi:2 täydellisen:4 työpaikan:3 itselleen:3
+tämä:2 taas:1 maksaa:2 todella:3 paljon:2 ja:1 resurssit:3 ovat:2 niukat:2
+koiviston:3 viesti:2 jossa:2 hän:1 siis:1 lupasi:3 tonnin:2 työtä:2 vinkanneelle:4 henkilölle:4 nousi:2 twitterissä:4 viraali-ilmiöksi:7
+hän:1 uskoo:2 että:2 ongelma:3 on:1 sirpaleisessa:5 työhistoriassa:6 koivisto:3 on:1 ollut:2 töissä:2 niin:1 radiossa:4 maakuntalehdessä:6 tiedottajana:5 kuin:1 sosiaalisen:5 median:3 asiantuntijana:7
+nyt:1 takana:3 on:1 kesän:2 jatkunut:3 työttömyysjakso:5 joka:2 ei:1 ole:2 ainoa:3 koiviston:3 uralla:3
+ajattelen:4 että:2 jos:1 päivänkin:3 saan:1 olla:2 yrityksessä:5 töissä:2 niin:1 he:1 haluavat:4 minut:2 pitää:2
+koivisto:3 oli:2 varma:2 että:2 nyt:1 tärppää:2
+hän:1 on:1 lähettänyt:4 tukun:2 hakemuksia:5 ja:1 odottaa:3 kutsua:3 haastatteluihin:5
+se:1 on:1 osittain:3 oma:2 valinta:3 suomessa:3 on:1 niin:1 hyvä:2 järjestelmä:4 että:2 olisihan:4 minulla:3 mahdollisuus:4 asua:3 tukien:3 varassa:3
+jaakko:2 koivisto:3 ilman:2 perusasteen:4 jälkeistä:3 tutkintoa:4 olevista:4 työssä:2 on:1 noin:1 40:1 prosenttia:4
+pitäisi:3 pystyä:3 tarttumaan:3 yksilön:3 työllistymisen:5 esteisiin:3 se:1 voi:1 olla:2 koulutus:3 asenteet:3 kyvyttömyys:4 sanoittaa:3 oma:2 osaaminen:4
+twiitin:2 jälkeen:2 koivistolle:4 on:1 vinkattu:3 muutamista:4 kymmenistä:4 työpaikoista:4
+viime:2 vuonna:2 koivisto:3 muutti:2 vanhempiensa:5 luokse:2 lahteen:2 hän:1 päätti:2 säästää:2 määräaikaisen:5 työsuhteen:3 aikana:3 rahaa:2 omaan:2 asuntoon:3
+jos:1 ei:1 töitä:2 normaaleilla:4 keinoilla:3 saa:1 hankin:2 itseni:3 rahalla:3 töihin:2 kyynisesti:4 sanottuna:4 tyypillinen:4 tilanne:3 on:1 se:1 että:2 laitan:2 hakemuksen:4 enkä:2 kuule:2 asiasta:4 sen:1 jälkeen:2
+korkeasti:4 koulutettu:4 vanhempiensa:5 luona:2 asuva:3 jaakko:2 koivisto:3 36:1 kyllästyi:3 työnhakurumbaan:5 lupasi:3 kuukauden:3 palkan:2 sille:2 joka:2 löytää:2 hänelle:3 työn:1 tosi:2 usein:2 tuntuu:2 että:2 työnantajat:4 ovat:2 jo:1 päättäneet:3 millaisen:3 ihmisen:3 he:1 haluavat:4 että:2 täytyy:2 olla:2 x-määrä:2 kokemusta:4 siitä:2 työstä:2
+jaakko:2 koivisto:3 on:1 ottanut:3 poikkeukselliset:5 keinot:2 käyttöön:2
+minusta:3 tuntuu:2 että:2 käytän:2 enemmän:3 aikaa:2 töiden:2 hakemiseen:4 ja:1 työnäytteiden:4 tekemiseen:4 kuin:1 töiden:2 tekemiseen:4 36-vuotias:3 koivisto:3 sanoo:2
+jaakko:2 koivisto:3 ja:1 kun:1 se:1 on:1 päätetty:3 on:1 todella:3 vaikea:3 pystyä:3 perustelemaan:5 miksi:2 minä:2 olisin:3 parempi:3 hän:1 sanoo:2
+koivisto:3 etsii:2 pidempiaikaista:6 työtä:2 mutta:2 on:1 jo:1 lupautunut:4 lähtemään:3 kuopioon:3 jos:1 muita:2 paikkoja:3 ei:1 löydy:2
+hakemusrumba:5 on:1 uuvuttava:4
+räätälöidyistä:5 palveluista:4 hän:1 voisi:2 omien:3 sanojensa:4 mukaan:2 hyötyä:3
+huolellisesti:5 tehtyjä:3 hakemuksia:5 hän:1 on:1 lähettänyt:4 kolminumeroisen:6 määrän:2
+koivisto:3 unelmoi:3 jos:1 ei:1 nyt:1 vakituisesta:5 niin:1 ainakin:3 pitkäaikaisesta:6 pestistä:3 ja:1 on:1 varma:2 että:2 sen:1 vielä:2 joskus:2 löytää:2
+vaatimustaso:5 oli:2 hänelle:3 sopiva:3 hän:1 tunsi:2 rekrytoijan:4 työ:1 oli:2 kuin:1 hänelle:3 tehty:2
+jaakko:2 koivisto:3 kuinka:2 pitkälle:3 työnhakijan:4 pitää:2 olla:2 valmis:2 menemään:3
+sitten:2 koivisto:3 viestinnän:3 ammattilainen:5 avasi:3 twitterin:3 ja:1 lupasi:3 tonnin:2 sille:2 joka:2 vinkkaa:2 hänelle:3 työpaikasta:4 jonka:2 koivisto:3 sitten:2 saa:1
+korkeakoulutettujen:8 työttömien:4 määrä:2 on:1 ollut:2 laskussa:3 muutaman:3 vuoden:2 ja:1 tällä:2 hetkellä:3 yli:2 80:1 prosenttia:4 korkeakoulutetuista:8 on:1 työllistetty:4
+eniten:3 korkeakoulutettujen:8 keskuudessa:4 on:1 työttömiä:4 taiteen:2 ja:1 humanististen:5 tieteiden:3 aloilla:3
+koivisto:3 on:1 ilmoittautunut:5 työttömäksi:4 työnhakijaksi:5 muttei:2 ole:2 juuri:2 muuten:2 ollut:2 työvoimatoimiston:6 asiakkaana:5
+korkeasti:4 koulutettu:4 vanhempiensa:5 luona:2 asuva:3 jaakko:2 koivisto:3 36:1 kyllästyi:3 työnhakurumbaan:5 lupasi:3 kuukauden:3 palkan:2 sille:2 joka:2 löytää:2 hänelle:3 työn:1 jaakko:2 koivisto:3 tiedän:2 että:2 vanhempien:4 luona:2 asumisesta:5 pitäisi:3 olla:2 järkyttynyt:4 mutta:2 en:1 ole:2
+ensin:2 häntä:2 harmitti:3
+hänelle:3 on:1 tarjottu:3 muutaman:3 kuukauden:3 määräaikaisuutta:6 kuopiosta:4
+minulla:3 oli:2 jo:1 työpaikka:3 odottamassa:5 opintojen:4 loppuvaiheessa:5 mutta:2 kun:1 lopulta:3 sain:1 gradun:2 tehtyä:3 yritys:3 ajautuikin:4 talousvaikeuksiin:7
+korkeakoulutetuille:8 työttömille:4 suurin:2 apu:2 saataisiin:3 juuri:2 yksilöllisestä:6 ohjauksesta:5 uskoo:2 myös:1 korkeakoulutettujen:8 työmarkkinajärjestö:7 akavan:3 työelämäyksikön:7 päällikkö:3 lotta:2 savinko:3
+onhan:2 se:1 aika:2 karua:3 että:2 täytyy:2 saada:2 somekampanja:5 aikaan:2 jotta:2 saa:1 töitä:2
+se:1 on:1 kuin:1 lumipalloefekti:7 jota:2 on:1 todella:3 vaikea:3 katkaista:3
+jaakko:2 koivisto:3 ei:1 ole:2 katkera:3 hän:1 ei:1 syytä:2 työttömyydestään:5 ulkoisia:4 tekijöitä:4
+kuinka:2 pitkälle:3 työnhakijan:4 pitää:2 olla:2 valmis:2 menemään:3
+seuraavana:4 päivänä:3 koivisto:3 kovensi:3 panoksia:4 hän:1 lupasi:3 ensimmäisen:4 kuukauden:3 palkkansa:3 työstä:2 vinkkaavalle:4 henkilölle:4
+jaakko:2 koivisto:3 jos:1 ei:1 töitä:2 normaaleilla:4 keinoilla:3 saa:1 hankin:2 itseni:3 rahalla:3 töihin:2
+nyt:1 oman:2 asunnon:3 osto:2 -projekti:3 on:1 jäissä:2
+minulla:3 on:1 aika:2 korkea:3 kynnys:2 lähteä:3 hakemaan:3 sellaisia:4 tukia:3
+puhelin:3 ei:1 koskaan:2 soinut:2
+en:1 tarvitse:3 apua:3 hakemuksen:4 kirjoittamiseen:5 mutta:2 näyttöpaikkoja:5 toivoisin:3 enemmän:3
+miten:2 tähän:2 päädyttiin:3
+elämä:3 tuntuu:2 etenevän:4 niin:1 että:2 asiat:3 lähtevät:3 menemään:3 johonkin:3 suuntaan:2 ja:1 niiden:2 vaikutukset:4 kasaantuvat:4
+koivisto:3 on:1 valmis:2 muuttamaan:3 työn:1 perässä:3 vaikka:2 ulkomaille:4
+jaakko:2 koivisto:3 on:1 ottanut:3 poikkeukselliset:5 keinot:2 käyttöön:2
+one:2 size:2 fits:1 all:1 -ajattelu:4 ei:1 toimi:2 vaan:1 parhaiten:3 toimisi:3 yksilöllinen:5 ohjaus:3
+pystyisin:3 näyttämään:3 työpaikoilla:4 etten:2 ole:2 mikään:2 turha:2 kaveri:3 koivistoa:4 ei:1 kutsuttu:3 edes:2 haastatteluun:4
+sen:1 jälkeen:2 on:1 tullut:2 tehtyä:3 pätkätöitä:4 projekteja:4 määräaikaisia:6 töitä:2 ja:1 omia:3 bisnesideioita:6 luettelee:4 koivisto:3
+siten:2 pystyisin:3 näyttämään:3 työpaikoilla:4 etten:2 ole:2 mikään:2 turha:2 kaveri:3 hän:1 sanoo:2
+sen:1 verran:2 on:1 pakko:2 olla:2 itseluottamusta:6
+trump:1 yrittää:3 hiljentää:3 äänekästä:4 kriitikkoa:4 poisti:2 cian:2 ex-johtajan:3 turvaluokituksen:6 päivä:2 on:1 pääosin:3 poutainen:3 mutta:2 lapissa:3 voi:1 sataa:2 paikoin:2 vettä:2
+lännessä:3 tuuli:2 voimistuu:3
+kun:1 indonesian:5 lombokissa:4 maa:1 järisi:3 pari:2 viikkoa:3 sitten:2 350 000:1 ihmistä:3 menetti:3 kotinsa:3 ja:1 yli:2 400:1 kuoli:2
+john:1 brennan:2 herätys:3 koulumatikka:5 menee:2 uusiksi:3 tepsiikö:3 kova:2 palkkio:3 työnhakuun:3 koko:2 maa:1 lämpenee:3 lue:2 tästä:2 päivän:2 puheenaiheet:4 lyhyesti:4
+viesti:2 jossa:2 koivisto:3 lupasi:3 muhkean:3 rahallisen:4 korvauksen:4 sille:2 joka:2 vinkkaa:2 hänelle:3 työpaikasta:4 on:1 noussut:2 twitterissä:4 viraali-ilmiöksi:7
+korkeasti:4 koulutettu:4 jaakko:2 koivisto:3 kyllästyi:3 työnhakuun:3 lupasi:3 kuukauden:3 palkan:2 sille:2 joka:2 löytää:2 hänelle:3 työn:1 floridan:3 lounaisrannikolle:6 on:1 rantautunut:4 jo:1 yli:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6
+kolme:2 yliopistoa:6 alkavat:3 nyt:1 yhteistyössä:4 järjestää:3 opettajien:5 täydennyskoulutusta:7 jotta:2 koulumatematiikka:7 saataisiin:3 vastaamaan:3 yhteiskunnan:4 ja:1 työelämän:4 tarpeita:3
+tarvetta:3 olisi:3 erityisesti:5 luovalle:3 matemaattiselle:6 ajattelulle:5 jota:2 ei:1 kouluissa:3 opeteta:4 riittävästi:4
+voimakkaan:3 mädäntyneen:4 kalan:2 hajun:2 arvioidaan:4 vaikuttavan:4 jopa:2 talouteen:3 sillä:2 kalastus:3 ja:1 turismi:3 ovat:2 floridassa:4 tärkeitä:3
+haastattelimme:5 paikalla:3 olevaa:3 suomalaista:4 avustustyöntekijää:7
+floridassa:4 julistettiin:4 hätätila:4 punaisen:3 vuorovesi:4 -ilmiön:3 vuoksi:2 rannoilta:3 löydetty:3 jopa:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6 matematiikka:5 muuttuu:2 opettajia:5 koulutettaan:4 jotta:2 opetus:3 vastaisi:3 työelämän:4 tarpeita:3 ensimmäinen:4 kiire:2 on:1 rakentaa:3 kotinsa:3 menettäneille:5 pressusuojia:5 ennen:2 syyskuun:2 sadekautta:4
+lue:2 tästä:2 päivän:2 puheenaiheet:4 lyhyesti:4
+voit:1 säätää:2 uutisvahdissa:5 herätys-ilmoituksia:7 asetuksista:5
+suomalaiset:4 osaavat:3 matematiikkaa:5 yhä:2 huonommin:3 vaikka:2 sitä:2 tarvittaisiin:4 koko:2 ajan:2 enemmän:3
+torstain:2 sääkartta:3 punaisen:3 ristin:2 työntekijöitä:5 raunioiden:4 keskellä:3
+etelästä:4 virtaa:2 lämmintä:3 maanjäristyksen:5 pitkät:2 jäljet:2 indonesian:5 lombokissa:4 osa:2 kylistä:3 yhä:2 eristyksissä:5 torstaina:3 lounaasta:3 virtaa:2 lämpimämpää:4 ilmaa:2 koko:2 maahan:2 kertoo:2 ylen:2 meteorologi:6 toni:2 hellinen:3
+voit:1 säätää:2 uutisvahdissa:5 herätys-ilmoituksia:7 asetuksista:5
+brennan:2 on:1 arvostellut:4 trumpia:3 julkisesti:4 useita:3 kertoja:3
+floridassa:4 rannoilta:3 on:1 löytynyt:3 jopa:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6
+vastaisuudessa:5 brennan:2 ei:1 enää:2 pääse:2 käsiksi:3 salaisiksi:4 luokiteltuihin:5 tietoihin:3
+nuori:2 laskee:2 matematiikan:5 tehtäviä:4 funktiolaskimella:7
+jaakko:2 koivisto:3 on:1 valmistunut:4 maisteriksi:4 mutta:2 työpaikkaa:3 ei:1 ole:2 löytynyt:3 kymmenistä:4 työhakemuksista:6 huolimatta:4
+nuori:2 laskee:2 matematiikan:5 tehtäviä:4 funktiolaskimella:7
+yhdysvaltain:4 presidentti:4 donald:2 trump:1 on:1 poistanut:3 turvallisuusluokituksen:8 keskustiedustelupalvelu:10 cian:2 entiseltä:4 johtajalta:4 john:1 brennanilta:4
+jos:1 ei:1 töitä:2 normaaleilla:4 keinoilla:3 saa:1 hankin:2 itseni:3 rahalla:3 töihin:2 sanoo:2 koivisto:3
+punainen:3 risti:2 valmistautuu:4 auttamaan:3 puolitoista:4 vuotta:2
+john:1 brennan:2 yhdysvaltojen:5 floridassa:4 haitallisen:4 levän:2 runsas:2 kukinta:3 on:1 surmannut:3 suuret:2 määrät:2 delfiinejä:4 kilpikonnia:5 ja:1 kaloja:3
+lue:2 lisää:2 ylen:2 sääsivuilta:4
+herätys:3 koulumatikka:5 menee:2 uusiksi:3 tepsiikö:3 kova:2 palkkio:3 työnhakuun:3 koko:2 maa:1 lämpenee:3 jaakko:2 koivisto:3 antti:2 latikka:3 oli:2 viides:2 ja:1 meri-maari:3 mäkinen:3 seitsemäs:3 parauinnin:3 em-kisoissa:3 keskiviikkona:5
+uimari:3 antti:2 latikka:3 rion:2 paralympialaisissa:8 finaaleissa:5 uivat:2 antti:2 latikka:3 meri-maari:3 mäkinen:3 ja:1 william:3 söderling:3
+mäkinen:3 sijoittui:3 s7-luokassa:3 100:1 metrin:2 rintauinnissa:4 seitsemänneksi:5 ajalla:3 2.0047:2
+kultamitalin:5 vei:1 ukrainan:3 oksana:3 khrul:1 ajalla:3 1.3893:2
+latikka:3 oli:2 s13-luokan:2 200:1 metrin:2 sekauinnissa:4 viides:2 ajalla:3 2.2208:2
+söderling:3 ui:1 kahdeksanneksi:5 sb6-luokan:2 100:1 metrin:2 rintauinnissa:4 ajalla:3 2.0296:2
+latikka:3 viides:2 mäkinen:3 seitsemäs:3 parauinnin:3 em-kisoissa:3 kultaa:2 otti:2 valko-venäjän:4 ihar:2 boki:2 ajalla:3 2.0419:2
+antti:2 latikka:3 oli:2 viides:2 ja:1 meri-maari:3 mäkinen:3 seitsemäs:3 parauinnin:3 em-kisoissa:3 keskiviikkona:5
+suomi:2 ei:1 saanut:2 mitaleja:4 parauinnin:3 em-kisoissa:3 dublinin:3 keskiviikkona:5
+uimari:3 antti:2 latikka:3 rion:2 paralympialaisissa:8 suomen:2 mitalitili:5 auki:2 parauinnin:3 em-kisoissa:3 mäkinen:3 ui:1 hopealle:4 mäkinen:3 on:1 uinut:2 suomen:2 toistaiseksi:4 ainoan:3 mitalin:3 200:1 metrin:2 sekauinnissa:4 jossa:2 hän:1 otti:2 hopeaa:3
+lue:2 myös:1 latikka:3 viides:2 mäkinen:3 seitsemäs:3 parauinnin:3 em-kisoissa:3 metsähallitus:5 laittaa:2 autiotupia:6 kuntoon:2 pallas-yllästunturin:6 kansallispuistossa:6 remontit:3 tehdään:2 eduskunnan:4 myöntämällä:4 rahoituksella:5
+eduskunta:4 myönsi:2 metsähallituksen:6 luontopalvelujen:6 hoitamien:4 autiotupien:6 kunnostukseen:4 tälle:2 vuodelle:3 100 000:1 euroa:3
+eduskunnan:4 myöntämällä:4 rahalla:3 kunnostetaan:4 lapissa:3 myös:1 karhunjuomalampea:7 pyhä-luoston:3 kansallispuistossa:6 ja:1 rumakurun:4 vanhaa:2 tupaa:2 urho:2 kekkosen:3 kansallispuistossa:6
+metsähallitus:5 laittaa:2 autiotupia:6 kuntoon:2 pallas-yllästunturin:6 kansallispuistossa:6 remontoitavat:5 tuvat:2 ovat:2 jo:1 vanhoja:3
+kittilässä:4 pyhäjärven:4 rannan:2 autiotupa:5 ja:1 enontekiön:5 pyhäkeron:4 autiotupa:5 peruskorjataan:5
+remontit:3 tehdään:2 eduskunnan:4 myöntämällä:4 rahoituksella:5
+summasta:3 osa:2 käytetään:3 pallas-yllästunturin:6 kansallispuistossa:6
+pyhäkeron:4 autiotupa:5 enontekiöllä:6 pallas-yllästunturin:6 kansallispuistossa:6
+pyhäjärven:4 autiotuvalla:6 uusitaan:3 lattiaa:3 kattoa:3 sekä:2 kalusteita:4 ja:1 seinien:3 vierestä:3 poistetaan:3 alahirsiä:5 lahottavaa:4 maa-ainesta:3
+tuvat:2 ovat:2 kunnostuksen:4 takia:3 lyhyen:3 aikaa:2 pois:1 käytöstä:3
+pyhäkeron:4 autiotupa:5 enontekiöllä:6 pallas-yllästunturin:6 kansallispuistossa:6
+metsähallitus:5 kehottaa:3 retkeilijöitä:5 varautumaan:4 telttamajoitukseen:6 tai:1 suuntaamaan:3 muille:2 tuville:3
+pyhäkeron:4 tuvan:2 lattia:3 hiotaan:3 ja:1 siellä:2 uusitaan:3 kalusteita:4 ja:1 korjataan:3 terassia:4
+remonttien:4 takia:3 pyhäjärven:4 autiotupa:5 on:1 pois:1 käytöstä:3 22.8-7.9:3
+ja:1 pyhäkeron:4 autiotupa:5 10.-23.9:3 ..:3 metsähallitus:5 kunnostaa:3 pallas-yllästunturin:6 kansallispuistossa:6 pyhäjärven:4 ja:1 pyhäkeron:4 autiotupia:6
+pyhäjärven:4 autiotupa:5 on:1 melkein:2 80:1 ja:1 pyhäkeron:4 tupa:2 yli:2 60:1 vuotta:2
+mutta:2 nämä:2 ovat:2 kirjoituksia:5 grillon:2 blogissa:3 eivät:2 nykyhallituksen:6 virallinen:4 linja:2 sanoo:2 viiden:2 tähden:2 liikkeen:2 kansanedustaja:6 michele:3 dellorco:3 la:1 stampa:2 -sanomalehden:5 haastattelussa:5
+sisäministeri:6 salvini:3 vieritti:3 eulle:2 syytä:2 italian:4 siltojen:3 rappiosta:4 eu:1 kertoo:2 antaneensa:4 niihin:2 25:1 miljardia:4 euroa:3 italian:4 populistisen:5 viiden:2 tähden:2 liikeen:2 perustaja:4 beppe:2 grillo:2 myönnän:2 että:2 aiemmin:3 aliarvioimme:6 sillan:2 sortumisvaaran:5
+italian:4 populistinen:5 päähallituspuolue:7 joutui:2 puolustelemaan:5 aiempia:4 lausuntojaan:4 tuhoisan:3 siltaonnettomuuden:7 jälkeen:2
+viiden:2 tähden:2 liike:2 väitti:2 aiemmin:3 varoituksia:5 morandi-sillan:4 kunnosta:3 saduksi:3 silta:2 kestää:2 vielä:2 sata:2 vuotta:2 moottoritiellä:5 korvattaisiin:4 tieosuus:3 jolla:2 nyt:1 sortunut:3 morandi-silta:4 sijaitsee:3
+italiassa:5 päähallituspuolue:7 viiden:2 tähden:2 liike:2 on:1 joutunut:3 puolustelemaan:5 aikaisempia:5 kannanottojaan:5 genovassa:4 sortuneen:3 ja:1 39:1 kuolonuhria:5 vaatineen:3 morandi-sillan:4 tilasta:3
+samassa:3 kannanotossaan:5 puolue:3 sanoo:2 että:2 morandi-silta:4 pysyy:2 pystyssä:3 vielä:2 sata:2 vuotta:2
+miksi:2 silta:2 romahti:3 genovassa:4
+hän:1 toimii:2 myös:1 italian:4 liikenne-:3 ja:1 infrastruktuuriministeriön:10 osastopäällikkönä:7
+viiden:2 tähden:2 liike:2 on:1 kampanjoinut:4 ligurian:4 alueelle:4 suunnitellun:4 uuden:2 moottoritien:4 rakentamista:5 vastaan:2
+lue:2 myös:1 italian:4 populistisen:5 viiden:2 tähden:2 liikeen:2 perustaja:4 beppe:2 grillo:2 italian:4 populistisen:5 viiden:2 tähden:2 liikeen:2 perustaja:4 beppe:2 grillo:2 italiassa:5 on:1 syytetty:3 huonoa:3 rakennustekniikkaa:6 myrskysäätä:4 vilkasta:3 liikennettä:4 ja:1 jopa:2 euroopan:3 unionia:5 italian:4 populistisen:5 viiden:2 tähden:2 liikeen:2 perustaja:4 beppe:2 grillo:2 kirjoitus:3 poistettiin:3 tänään:2 viiden:2 tähden:2 liikkeen:2 sivuilta:3 mutta:2 kuvakaappauksen:6 siitä:2 voi:1 nähdä:2 täällä:2
+viiden:2 tähden:2 liike:2 väitti:2 aiemmin:3 varoituksia:5 morandi-sillan:4 kunnosta:3 saduksi:3 silta:2 kestää:2 vielä:2 sata:2 vuotta:2 italian:4 populistinen:5 päähallituspuolue:7 joutui:2 puolustelemaan:5 aiempia:4 lausuntojaan:4 tuhoisan:3 siltaonnettomuuden:7 jälkeen:2
+viisi:2 vuotta:2 sitten:2 puolueen:3 sivuilla:3 väitettiin:3 varoituksia:5 vuonna:2 1967:1 rakennetun:4 sillan:2 sortumisvaarasta:6 saduiksi:3
+vielä:2 vuonna:2 2014:1 viiden:2 tähden:2 liikkeen:2 perustaja:4 ja:1 silloinen:3 johtaja:3 beppe:2 grillo:2 kirjoitti:3 blogissaan:3 että:2 uuden:2 moottoritien:4 rakentaminen:5 pitää:2 pysäyttää:4 vaikka:2 armeijan:3 avustuksella:5
+uusi:2 palvelujen:4 tuottaja:3 on:1 määrä:2 valita:3 vuodenvaihteeseen:5 mennessä:3
+uusi:2 palveluntuottaja:6 selvillä:3 vuoden:2 loppuun:2 mennessä:3
+neuvotteluihin:5 kutsutaan:3 kaikki:2 kelpoisuus-:3 ja:1 vähimmäisvaatimukset:7 täyttävät:3 ehdokkaat:3
+uusi:2 palveluntuottaja:6 selvillä:3 vuoden:2 loppuun:2 mennessä:3
+osallistumishakemuksen:9 lähettivät:4 pihlajalinna:5 attendo:3 terveystalo:5 sekä:2 mehiläinen:4
+kouvola:3 joutui:2 kilpailuttamaan:5 työterveyspalvelut:7 sen:1 jälkeen:2 kun:1 pihlajalinna:5 osti:2 kymijoen:4 työterveys:4 -yhtiön:3 kotkan:2 kaupungilta:4 alkuvuodesta:5
+kaupunki:3 aloittaa:3 seuraavaksi:4 neuvottelut:4 ehdokkaiden:4 kanssa:2
+kouvola:3 kilpailutti:4 työterveyspalvelunsa:8 kouvolan:3 kaupungin:3 työterveyspalveluiden:8 kilpailutukseen:5 ilmoittautui:4 mukaan:2 neljä:2 palvelujen:4 tuottajaa:3
+14.8:2
+työntekijä:4 jonottaa:3 työterveyshuollossa:7
+työntekijä:4 jonottaa:3 työterveyshuollossa:7
+haku:2 päättyi:2 tiistaina:3
+kouvola:3 kilpailutti:4 työterveyspalvelunsa:8 atletico:4 madrid:2 juhli:2 keskiviikkona:5 jalkapallon:4 uefan:3 super:2 cupin:2 voittoa:3 tallinnassa:4
+atletico:4 madridin:3 leirissä:3 oltiin:2 tyytyväisiä:5 kun:1 paikallisvastustaja:7 real:2 madrid:2 kaatui:2
+realin:3 kaato:2 maistui:2 makealta:4 atleticon:4 leirissä:3 pokaalin:3 voittaminen:4 on:1 hienoa:3 mutta:2 vielä:2 parempaa:3 on:1 tehdä:2 se:1 ikuista:3 kilpailijaamme:5 vastaan:2 uefan:3 super:2 cupissa:3 kohtasivat:4 viime:2 kauden:2 mestarien:4 liigan:2 voittaja:3 ja:1 eurooppa-liigan:4 voittaja:3
+viime:2 kaudella:3 atletico:4 madrid:2 voitti:2 eurooppa-liigan:4 ja:1 sijoittui:3 espanjan:3 liigassa:3 toiseksi:3
+kolmena:3 edellisenä:5 kautena:3 mestarien:4 liigan:2 voittoa:3 juhlinut:3 real:2 madrid:2 kaatui:2 jatkoajan:4 jälkeen:2 atleticolle:5 maalein:2 2-4:1
+atletico:4 madridin:3 antoine:3 griezmann:2 thomas:2 lemar:2 ja:1 lucas:2 hernandez:3 juhlivat:3 super:2 cupin:2 voittoa:3 pokaalin:3 kanssa:2
+atleticon:4 ranskalaistähti:5 antoine:3 griezmannia:4 kosiskeltiin:4 kesällä:3 muun:1 muassa:3 barcelonaan:4 mutta:2 hyökkääjä:3 päätti:2 jatkaa:2 uraansa:3 madridilaisjoukkueessa:8
+päätin:2 jatkaa:2 atleticossa:5 koska:2 tuleva:3 kausi:2 näyttää:2 valoisalta:4
+jatkoajalla:5 atleticon:4 ratkaisijoiksi:5 nousivat:3 upeat:3 maalit:2 tehneet:2 saul:1 niguez:3 ja:1 koke:2
+minä:2 uskon:2 tähän:2 seuraan:2 ja:1 päävalmentaja:5 diego:2 simeoneen:4
+atletico:4 madridin:3 antoine:3 griezmann:2 thomas:2 lemar:2 ja:1 lucas:2 hernandez:3 juhlivat:3 super:2 cupin:2 voittoa:3 pokaalin:3 kanssa:2
+atletico:4 otti:2 makean:3 voiton:2 realista:4 super:2 cupissa:3 upeita:3 maaleja:3 jatkoajalla:5 uefan:3 super:2 cupissa:3 kohtasivat:4 viime:2 kauden:2 mestarien:4 liigan:2 voittaja:3 ja:1 eurooppa-liigan:4 voittaja:3
+atletico:4 madridin:3 antoine:3 griezmann:2 thomas:2 lemar:2 ja:1 lucas:2 hernandez:3 juhlivat:3 super:2 cupin:2 voittoa:3 pokaalin:3 kanssa:2
+tämä:2 ilta:2 osoitti:3 että:2 en:1 ole:2 väärässä:3 griezmann:2 iloitsi:3
+kisaopas:4 la:1 liga:2 2018-2019:1 atletico:4 madridin:3 leirissä:3 oltiin:2 tyytyväisiä:5 kun:1 paikallisvastustaja:7 real:2 madrid:2 kaatui:2
+lue:2 myös:1 tämän:2 pokaalin:3 voittaminen:4 on:1 hienoa:3 mutta:2 vielä:2 parempaa:3 on:1 tehdä:2 se:1 ikuista:3 kilpailijaamme:5 vastaan:2 atleticon:4 puolustaja:4 lucas:2 hernandez:3 hehkutti:3
+atletico:4 madridin:3 antoine:3 griezmann:2 thomas:2 lemar:2 ja:1 lucas:2 hernandez:3 juhlivat:3 super:2 cupin:2 voittoa:3 pokaalin:3 kanssa:2
+realin:3 kaato:2 maistui:2 makealta:4 atleticon:4 leirissä:3 pokaalin:3 voittaminen:4 on:1 hienoa:3 mutta:2 vielä:2 parempaa:3 on:1 tehdä:2 se:1 ikuista:3 kilpailijaamme:5 vastaan:2 uusi:2 passi:2 aina:2 syytä:2 tarkistaa:3 huolellisesti:5 laiva:2 viipyy:2 viipurissa:4 noin:1 kolme:2 tuntia:3
+poliisihallitus:6 ei:1 vielä:2 tiedä:2 onko:2 kyse:2 yksittäistapauksista:8 vai:1 onko:2 ongelma:3 laajempi:3
+selvitämme:4 toimittajan:4 kanssa:2 mistä:2 tämmöinen:3 on:1 voinut:2 johtua:3
+vialliset:4 passit:2 on:1 myönnetty:3 vuosina:3 2014:1 ja:1 2015:1
+lupahallintopäällikkö:8 hanna:2 piipposen:3 mukaan:2 käytännössä:4 koko:2 sivuarkki:4 on:1 ollut:2 passissa:3 väärin:2 päin:1
+viallisen:4 passin:2 omistavat:4 matkustajat:4 ovat:2 joutuneet:3 viettämään:3 aikaansa:3 laivassa:3 sen:1 aikaa:2 kunnes:2 laiva:2 on:1 palannut:3 lappeenrantaan:4
+ensimmäiset:4 tapaukset:4 tulivat:3 ilmi:2 kesäkuun:3 loppupuolella:5 kertoo:2 risteilyjä:4 järjestävän:4 saimaa:2 travelin:3 toimitusjohtaja:6 kirsti:2 laine:2
+ongelmaan:3 törmättiin:3 lappeenrannasta:5 viipuriin:3 suuntautuvilla:5 risteilyillä:4 tänä:2 kesänä:3
+ms:1 carelia:4 viipuri:3 satama:3 risteilyt:3 saimaan:2 kanava:3 passin:2 sivulla:3 olevan:3 vesileiman:4 näkee:2 kun:1 sivun:2 laittaa:2 valoa:3 vasten:2
+passien:3 toimittaja:4 vaihtui:2 vuoden:2 2017:1 alussa:3 normaalin:3 kilpailutuksen:5 kautta:2
+poliisihallitus:6 ei:1 ainakaan:3 vielä:2 anna:2 erikseen:3 ohjeistusta:4 nimenomaan:4 passien:3 vesileimojen:5 tarkistamisesta:6 vaan:1 selvittää:3 ensin:2 ongelman:3 laajuudeen:3
+suomen:2 passi:2
+poliisihallituksen:7 tietoon:2 on:1 tähän:2 mennessä:3 tullut:2 kolme:2 suomalaispassia:6 joissa:2 vesileimoja:5 on:1 väärin:2 päin:1
+suomen:2 passi:2
+sen:1 perusteella:4 arvioimme:4 kuinka:2 montaa:2 passia:3 tämä:2 mahdollisesti:5 voisi:2 koskea:3 piipponen:3 kertoo:2
+suomalaisilla:5 havaittu:3 viallisia:5 passeja:3 venäjän-matka:4 tyssäsi:3 väärin:2 päin:1 oleviin:3 vesileimoihin:5 virheellinen:4 passi:2 on:1 syytä:2 viedä:2 poliisille:4 jotta:2 tilalle:3 voidaan:2 myöntää:2 uusi:2 passi:2
+vialliset:4 passit:2 on:1 havaittu:3 venäläisten:4 rajaviranomaisten:7 tarkastuksissa:5 viipurissa:4
+ms:1 carelia:4 viipurin:3 matkustajasatamassa:8 suomalaisissa:5 passeissa:3 on:1 havaittu:3 viallisia:5 vesileimoja:5
+yleinen:3 neuvo:2 on:1 että:2 uusi:2 passi:2 on:1 syytä:2 tarkistaa:3 huolellisesti:5 lupahallintopäällikkö:8 hanna:2 piipponen:3 sanoo:2
+suomalaisilla:5 havaittu:3 viallisia:5 passeja:3 venäjän-matka:4 tyssäsi:3 väärin:2 päin:1 oleviin:3 vesileimoihin:5 viallisista:5 passeista:3 kertoi:2 ensin:2 etelä-saimaa:4 juttu:2 on:1 maksumuurin:4 takana:3
+viisi:2 suomalaista:4 ei:1 ole:2 päässyt:2 nousemaan:3 maihin:2 viipurissa:4 sillä:2 heidän:2 passiensa:4 sivuilla:3 on:1 ollut:2 väärin:2 päin:1 olevia:4 vesileimoja:5
+ikäväähän:4 se:1 tietysti:3 on:1 kun:1 on:1 matkaan:2 lähtenyt:3 ja:1 ei:1 pääse:2 maihin:2 laine:2 sanoo:2
+poliisihallitus:6 selvittää:3 ongelman:3 laajuutta:3
+poliisihallitus:6 selvittää:3 ongelman:3 laajuutta:3 poliisihallitus:6 selvittää:3 ongelman:3 laajuutta:3
+passi:2 on:1 ihan:2 aito:2 mutta:2 muutamalla:4 sivulla:3 arkki:2 on:1 väärin:2 päin:1 piipponen:3 kertoo:2
+viimeksi:3 porista:3 on:1 lentänyt:3 nextjet:2 joka:2 meni:2 konkurssiin:3 keväällä:3
+säännölliset:4 reittilennot:4 porista:3 päättyivät:3 loppukeväällä:5 kun:1 reittiä:3 lentänyt:3 yhtiö:3 ajautui:3 konkurssiin:3
+kauppakamari:5 kiirehtii:3 uutta:2 alkua:3 porin:2 lennoille:3 tärkeää:3 elinkeinoelämälle:8 kokeilut:3 ovat:2 jääneet:2 lyhytaikaisiksi:6
+mutta:2 toki:2 yritykset:4 ovat:2 vakavasti:4 huolissaan:3 koska:2 tämä:2 lentoyhteyden:5 puuttuminen:4 merkitsee:3 jo:1 liiketoiminnallekin:7 jotakin:3
+porin:2 ja:1 helsingin:3 sekä:2 porin:2 ja:1 tukholman:3 väliset:3 reittilennot:4 loppuivat:3 yllättäen:4 toukokuussa:4 lehtoyhtiö:5 nextjetin:3 konkurssin:3 takia:3
+vaikea:3 yhteysväli:5 porin:2 kaupunki:3 hoitaa:2 asiaa:3 ja:1 luotamme:3 heihin:2
+porin:2 kaupunki:3 on:1 ollut:2 valmis:2 tukemaan:3 lentoreitin:4 markkinointia:5 koska:2 säännöllisen:4 kotimaisen:4 lentoreittiliikenteen:7 puuttuminen:4 uhkaa:2 porin:2 lentoaseman:5 ylläpitoa:5
+esillä:3 on:1 ollut:2 muun:1 muassa:3 oman:2 lentokoneen:4 ostaminen:4 kaupungille:4 ja:1 porissa:3 toimivan:3 suomen:2 ilmailuopiston:6 ryhtyminen:4 lentoreitin:4 ylläpitäjäksi:6
+nore:2 toteaa:3 että:2 lippujen:3 hintojakin:4 tärkempää:3 on:1 saada:2 poriin:2 luotettava:4 lentoyhtiö:5 jonka:2 aikataulut:4 pitävät:3
+yrityselämä:6 kaipaa:2 lentoja:3 nämä:2 ideat:3 eivät:2 ainakaan:3 toistaiseksi:4 ole:2 edenneet:3 toteutusvaiheeseen:6
+porissa:3 on:1 väläytelty:4 myös:1 muita:2 vaihtoehtoja:5 lentoyhteyden:5 varmistamiseksi:6
+satakunnan:4 kauppakamarin:5 toimitusjohtaja:6 minna:2 nore:2 sanoo:2 että:2 yrityselämä:6 toivoo:2 uuden:2 yhteyden:3 avaamista:4 jo:1 lähikuukausina:6
+nextjetin:3 lentokone:4 porin:2 lentokentällä:5
+satakunnan:4 kauppakamari:5 hoputtaa:3 lentoliikenteen:5 avaamista:4 uudelleen:3 porin:2 lentokentältä:5
+viimeksi:3 porista:3 on:1 lentänyt:3 nextjet:2 joka:2 meni:2 konkurssiin:3 keväällä:3
+kauppakamari:5 kiirehtii:3 uutta:2 alkua:3 porin:2 lennoille:3 tärkeää:3 elinkeinoelämälle:8 ennen:2 nextjetin:3 noin:1 vuoden:2 kestänyttä:4 lentoliikennettä:6 porin:2 lentokenttää:4 on:1 käyttänyt:3 useita:3 eri:2 lentoyhtiöitä:6
+nextjetin:3 lentokone:4 porin:2 lentokentällä:5
+erityisesti:5 helsinkiin:3 suuntaavat:3 lennot:2 ovat:2 tärkeitä:3 porin:2 seudun:2 elinkeinoelämälle:8
+säännölliset:4 reittilennot:4 porista:3 päättyivät:3 loppukeväällä:5 kun:1 reittiä:3 lentänyt:3 yhtiö:3 ajautui:3 konkurssiin:3
+varsinkin:3 viime:2 vuoden:2 sateilla:3 monet:2 nokian:3 ja:1 sastamalan:4 rajan:2 tiet:1 eivät:2 kestäneet:3 enää:2 liikennettä:4 vaan:1 jauhautuivat:4 kuravelliksi:5
+nokian:3 ja:1 sastamalan:4 huonokuntoisille:6 sorateille:4 tiedossa:3 ainakin:3 pintaremonttia:6 tänä:2 kesänä:3 säät:1 ovat:2 olleet:2 toiset:2 mutta:2 jossain:2 vaiheessa:3 on:1 taas:1 sateiden:3 ja:1 roudan:2 vuoro:2
+valtion:3 rahaa:2 on:1 käytettävissä:5 runsaat:2 800 000:1 euroa:3
+ely-keskus:3 on:1 etsinyt:3 työn:1 tekijää:3 tarjouskilpailulla:7
+esimerkiksi:5 nokian:3 sorvantie:3 oli:2 kehnossa:3 kunnossa:3 viime:2 syksyn:2 sateilla:3
+sillä:2 saadaan:2 parempaan:3 kuntoon:2 arvion:3 mukaan:2 30-50:1 kilometriä:5 soratietä:5
+listan:2 huonokuntoisimpien:7 reittien:3 joukossa:3 ovat:2 esimerkiksi:5 nokian:3 sorvantie:3 pinsiöntie:4 ja:1 suoniementie:4
+esimerkiksi:5 nokian:3 sorvantie:3 oli:2 kehnossa:3 kunnossa:3 viime:2 syksyn:2 sateilla:3
+kutalantie:4
+nokian:3 ja:1 sastamalan:4 huonokuntoisimpia:7 sorateitä:4 parannetaan:4 tulevana:4 syksynä:3
+nokian:3 ja:1 sastamalan:4 huonokuntoisille:6 sorateille:4 tiedossa:3 ainakin:3 pintaremonttia:6 töihin:2 kuuluu:2 pintakerroksen:5 vaihto:2 ja:1 ojien:3 perkaus:3
+syksyn:2 kelirikkoa:5 nokian:3 sorvantiellä:4 syksyn:2 kelirikkoa:5 nokian:3 sorvantiellä:4 sastamalan:4 puolelta:3 mukana:3 on:1 mm:1
+kortti:2 myönnetään:3 liikuntatoimesta:6 niille:2 lapsille:3 ja:1 nuorille:3 joiden:2 painoindeksi:5 on:1 vähintään:3 30:1 tai:1 vyötärönympäryksen:7 mitta:2 on:1 yli:2 puolet:2 lapsen:2 pituudesta:4
+lappeenranta:4 lisäämässä:4 ylipainoisille:6 myönnettävää:4 liikuntatukea:6 myös:1 lapset:2 mukaan:2 yli:2 15-vuotias:3 ylipainoinen:5 nuori:2 voi:1 lunastaa:3 itselleen:3 vuosikortin:4 uimaan:2 ja:1 kuntosalille:5 neljänkymmenen:5 euron:2 hintaan:2
+lappeenranta:4 lisäämässä:4 ylipainoisille:6 myönnettävää:4 liikuntatukea:6 myös:1 lapset:2 mukaan:2 lappeenrannan:4 kaupunki:3 aikoo:2 lisätä:3 taloudellista:5 tukea:3 ylipainoisten:5 lasten:2 ja:1 lapsiperheiden:5 liikkumiseen:4
+vastaava:3 kortti:2 on:1 ollut:2 lappeenrannassa:5 jo:1 käytössä:3 ylipainoisille:6 aikuisille:4
+liikuntatunti:5 ylipainoisille:6 aikuisille:4 suunnattu:3 liikuntakortti:5 on:1 toiminut:3 niin:1 hyvin:2 että:2 liikuntatoimi:5 suosittelee:4 sen:1 laajentamista:5 lapsille:3 ja:1 nuorille:3
+liikuntatunti:5 lappeenranta:4 on:1 saanut:2 hyviä:3 kokemuksia:5 ylipainoisten:5 aikuisten:3 liikuntatuesta:6 joten:2 tukea:3 kaavaillaan:3 seuraavaksi:4 ylipainoisille:6 lapsille:3 ja:1 nuorille:3
+ylipainoisille:6 aikuisille:4 suunnattu:3 liikuntakortti:5 on:1 toiminut:3 niin:1 hyvin:2 että:2 liikuntatoimi:5 suosittelee:4 sen:1 laajentamista:5 lapsille:3 ja:1 nuorille:3
+lappeenranta:4 on:1 saanut:2 hyviä:3 kokemuksia:5 ylipainoisten:5 aikuisten:3 liikuntatuesta:6 joten:2 tukea:3 kaavaillaan:3 seuraavaksi:4 ylipainoisille:6 lapsille:3 ja:1 nuorille:3
+ylipainoinen:5 lapsi:2 ja:1 hänen:2 perheensä:3 saisivat:3 jatkossa:3 liikuntatoimesta:6 kolmenkymmenen:5 euron:2 hintaisen:3 vuosikortin:4 lappeenrannan:4 uimahalleihin:5
+pelastakaa:4 lapset:2 ryn:1 vapaaehtoistyöntekijä:8 istuu:2 lapsen:2 kanssa:2 lattialla:4
+alkuvaiheessa:5 järjestö:3 hakee:2 adoptiotyöhön:6 ja:1 perhehoitoon:4 keskittyvää:4 sosiaalityöntekijää:8 ja:1 loppuvuonna:4 etsitään:3 työntekijää:4 tukiperhetyöhön:6 ja:1 lasten:2 yhteisölliseen:5 ryhmätoimintaan:5
+pelastakaa:4 lapset:2 -järjestö:3 on:1 perustamassa:5 etelä-pohjanmaalle:6 omaa:2 toimipistettä:5
+henkilökuntaa:5 rekrytoidaan:4 palvelujen:4 kysynnän:3 mukaan:2
+sille:2 haetaan:3 toimitiloja:5 seinäjoelta:5
+järjestö:3 työllistää:3 suomessa:3 lähes:2 300:1 henkilöä:4
+uusi:2 seinäjoen:4 toimipiste:4 kuuluu:2 keski-suomen:3 aluetoimiston:6 alaisuuteen:4
+pelastakaa:4 lapset:2 ryllä:2 on:1 viisi:2 aluetoimistoa:7 ja:1 tähän:2 mennessä:3 vain:1 etelä-suomen:4 aluetoimistolla:7 on:1 erillinen:4 turun:2 toimipiste:4
+pohjalaiskunnat:5 samaan:2 aluetoimistoon:6 pelastakaa:4 lapset:2 rylle:2 toimipiste:4 seinäjoelle:5 järjestö:3 rekrytoi:3 toimipisteeseen:5 parhaillaan:3 henkilökuntaa:5
+pelastakaa:4 lapset:2 ryn:1 vapaaehtoistyöntekijä:8 istuu:2 lapsen:2 kanssa:2 lattialla:4
+pelastakaa:4 lapset:2 ry:1 on:1 poliittisesti:5 ja:1 uskonnollisesti:6 sitoutumaton:5 kansalaisjärjestö:6 joka:2 edistää:3 lapsen:2 oikeuksien:5 toteutumista:5 suomessa:3 ja:1 maailmalla:4
+järjestö:3 rekrytoi:3 toimipisteeseen:5 parhaillaan:3 henkilökuntaa:5
+pelastakaa:4 lapset:2 rylle:2 toimipiste:4 seinäjoelle:5 kunnat:2 tekevät:3 luonnollisesti:5 itsekin:3 adoptiotyötä:6 mutta:2 pelastakaa:4 lapset:2 ry:1 on:1 suomessa:3 ainut:2 yksityinen:4 toimija:3 jolla:2 on:1 valviran:3 lupa:2 tehdä:2 adoptiotyötä:6 selvittää:3 keski-suomen:3 aluejohtaja:6 anu:2 huovinen:3
+he:1 työskentelevät:5 keskustoimiston:5 ja:1 aluetoimistojen:7 lisäksi:3 lastenkodeissa:5 ja:1 perhekuntoutusyksiköissä:9
+painetta:3 uuden:2 toimipisteen:4 perustamiselle:6 seinäjoelle:5 tuo:1 osaltaan:3 se:1 että:2 rannikkoseudun:5 ruotsinkieliset:5 kunnat:2 kristiinankaupungista:7 kokkolaan:3 siirtyvät:3 vuodenvaihteessa:5 länsi-suomen:3 aluetoimistosta:7 keski-suomen:3 aluetoimiston:6 alaisuuteen:4
+ensimmäiseksi:5 haetaan:3 sosiaalityöntekijää:8 adoptiotyöhön:6 ja:1 lastensuojelun:5 perhehoitoon:4
+kunnat:2 ostavat:3 pelastakaa:4 lapset:2 ryltä:2 muun:1 muassa:3 adoptiotyöhön:6 liittyviä:4 palveluja:4
+ensimmäiseksi:5 haetaan:3 sosiaalityöntekijää:8 adoptiotyöhön:6 ja:1 lastensuojelun:5 perhehoitoon:4
+maasturi:3 tuhoutui:3 palossa:3 iisalmessa:4 poliisi:3 tutkii:2 asiaa:3 kukaan:2 ei:1 loukkaantunut:4 palossa:3
+palo:2 saatettiin:3 sytyttää:3 tahallaan:3 sanoo:2 päivystävä:4 palomestari:5
+poliisin:3 mukaan:2 mahdollisesta:5 palon:2 sytyttäjästä:5 ei:1 ole:2 vielä:2 tietoa:3
+kuopion:3 hätäkeskus:4 sai:1 tiedon:2 palosta:3 kolmen:2 maissa:2 torstaiyönä:4
+maasturi:3 tuhoutui:3 palossa:3 iisalmessa:4 poliisi:3 tutkii:2 asiaa:3 päivystävän:4 palomestarin:5 risto-matti:3 raatikaisen:4 mukaan:2 ajoneuvo:4 saatettiin:3 sytyttää:3 tahallaan:3 palamaan:3
+hänen:2 mukaansa:3 poliisi:3 tutkii:2 palon:2 syytä:2
+paloauto:4 tallissa:3 itä-suomen:3 poliisin:3 tilannekeskus:5 vahvistaa:3 että:2 poliisi:3 tutkii:2 paloa:3
+paloauto:4 tallissa:3 palokunta:4 sammutti:3 maasturin:3 eikä:2 palosta:3 aiheutunut:4 muita:2 vahinkoja:4
+maasturi:3 tuhoutui:3 palossa:3 iisalmessa:4 kerrostalon:4 pihassa:3 keskiviikon:4 ja:1 torstain:2 välisenä:4 yönä:2
+palo:2 saatettiin:3 sytyttää:3 tahallaan:3 sanoo:2 päivystävä:4 palomestari:5
+tänä:2 vuonna:2 tapahtumien:5 ja:1 toimijoiden:4 määrä:2 on:1 kasvanut:3 vielä:2 entisestään:4 viime:2 vuosista:3
+taiteiden:3 yö:1 on:1 koko:2 taidekentän:4 kaikkien:3 toimijoiden:4 ja:1 yleisön:3 yhteinen:3 tapahtuma:4
+torstaina:3 vietetään:3 jälleen:2 perinteistä:4 turun:2 taiteiden:3 yö:1 -tapahtumaa:4
+kulttuuritarjontaa:6 on:1 näkyvästi:4 esillä:3 myös:1 katukuvassa:5
+tänä:2 vuonna:2 tapahtumien:5 ja:1 toimijoiden:4 määrä:2 on:1 kasvanut:3 vielä:2 entisestään:4 viime:2 vuosista:3
+perinteikäs:4 taiteiden:3 yö:1 elävöittää:4 jälleen:2 turun:2 katukuvaa:4 taiteiden:3 yönä:2 muun:1 muassa:3 galleriat:4 museot:3 ja:1 kirjakaupat:4 ovat:2 auki:2
+dj:1 taiteiden:3 yö:1 perinteikäs:4 taiteiden:3 yö:1 elävöittää:4 jälleen:2 turun:2 katukuvaa:4 dj:1 taiteiden:3 yö:1 ondrej:2 kase:2 hymyilee:3
+22-vuotias:3 ondrej:2 kase:2 jatkaa:2 ducksin:2 vahvuudessa:4
+kase:2 on:1 pelannut:3 nhl-uransa:3 aikana:3 119:1 peliä:3 tehosaldolla:5 252853:1 17:1
+25-vuotiaalle:4 gibsonille:4 huima:2 8:1 vuoden:2 jatkosopimus:5 anaheimiin:4 lue:2 myös:1 anaheim:3 ducksissa:3 läpimurron:4 tehneelle:3 tshekkihyökkääjälle:6 rustattiin:3 78:1 miljoonan:3 dollarin:3 sopimus:3 ondrej:2 kase:2
+ondrej:2 kase:2
+22-vuotias:3 ondrej:2 kase:2 jatkaa:2 ducksin:2 vahvuudessa:4
+koko:2 ura:2 samassa:3 nhl-seurassa:3
+uuden:2 sopimuksen:4 arvo:2 on:1 78:1 miljoonaa:3 dollaria:4
+ondrej:2 kase:2 hymyilee:3
+hän:1 pystyy:2 tekemään:3 maaleja:3 ja:1 luistelemaan:4
+blackhawksin:3 seuralegenda:5 stan:1 mikita:3 menehtyi:3 78-vuotiaana:4 hän:1 tulee:2 varmasti:3 kehittymään:4 lisää:2 kun:1 hän:1 saa:1 kokemusta:4 anaheimin:4 toimitusjohtaja:6 kehui:2 laitahyökkääjää:5
+ondrej:2 on:1 taitava:3 pelaaja:3 hänellä:3 on:1 edessään:3 valoisa:3 tulevaisuus:4 tässä:2 liigassa:3
+anaheim:3 ducks:1 ja:1 tshekkihyökkääjä:5 ondrej:2 kase:2 ovat:2 solmineet:3 kolmivuotisen:5 jatkosopimuksen:6
+anaheim:3 ducksissa:3 läpimurron:4 tehneelle:3 tshekkihyökkääjälle:6 rustattiin:3 78:1 miljoonan:3 dollarin:3 sopimus:3 ruotsalaismaalivahti:7 tommy:2 salo:2 masentui:3 kuuluisasta:4 mokastaan:3 -:1 tuntui:2 etten:2 voi:1 elää:2 22-vuotias:3 kase:2 pelasi:3 viime:2 vuonna:2 läpimurtokauden:6 ducks-paidassa:3 kun:1 hän:1 kirjasi:3 66:1 ottelussa:4 38:1 2018:1 tehopistettä:5
+sotilasvalan:5 ja:1 -vakuutuksen:4 ottaa:2 vastaan:2 maasotakoulun:5 johtaja:3 eversti:3 kari:2 pietiläinen:4
+valatilaisuudet:6 aiheuttavat:5 poikkeusjärjestelyjä:8 liikenteessä:4 kotkansaarella:5
+tilaisuus:3 alkaa:2 jo:1 aamulla:3 seppeltenlaskuilla:6 kymin:2 ja:1 kotkan:2 kirkon:2 hautausmailla:5 ja:1 jatkuu:2 sotilasvakuutuksella:8 keskuskoulussa:5
+maasotakoulu:5 lappeenrannassa:5 puolustusvoimien:6 maasotakoulun:5 alokkaiden:4 sotilasvala:5 ja:1 -vakuutustilaisuus:6 järjestetään:4 kotkassa:3 tänään:2
+sotilasvalan:5 alokkaat:3 vannovat:3 kello:2 10:1 arto:2 tolsa:2 -areenan:3 pääkentällä:4 ja:1 valatilaisuuden:6 jälkeen:2 sotilasjoukot:5 suorittavat:4 ohimarssin:4 puistotiellä:4
+arto:2 tolsan:2 -areenan:3 ympäristössä:5 esitellään:4 puolustusvoimien:6 kalustoa:4 ja:1 toimintaa:3
+maasotakoulu:5 lappeenrannassa:5 maasotakoulun:5 sotilasvala:5 ja:1 -vakuutus:3 kotkassa:3 tänään:2 maasotakoulun:5 sotilasvala:5 ja:1 -vakuutus:3 kotkassa:3 tänään:2 päivän:2 tilaisuuksiin:4 on:1 yleisöllä:4 vapaa:2 pääsy:2
+valatilaisuudet:6 aiheuttavat:5 poikkeusjärjestelyjä:8 liikenteessä:4 kotkansaarella:5
+tienkäyttäjille:5 harmaita:3 hiuksia:3 tuottanut:3 aitojen:3 ja:1 liikennemerkkien:6 sekamelska:4 on:1 kuitenkin:3 purettu:3 keskiviikon:4 ja:1 torstain:2 välisenä:4 yönä:2
+hervannan:3 valtaväylän:4 ja:1 sammonkadun:4 vaikea:3 väliaikainen:5 kiertoliittymä:5 on:1 poissa:2 -:1 tilalla:3 uudet:2 liikennevalot:5 työ:1 valmistui:3 suunnitellun:4 aikataulun:4 puitteissa:3
+tilalla:3 on:1 jälleen:2 valo-ohjattu:4 risteys:3
+väliaikainen:5 kiertoliittymä:5 on:1 ollut:2 monelle:3 hankala:3 mutta:2 varmasti:3 helpompi:3 kuin:1 x-risteys:3 ilman:2 valo-ohjausta:5
+hervannan:3 valtaväylän:4 ja:1 sammonkadun:4 vaikea:3 väliaikainen:5 kiertoliittymä:5 on:1 poissa:2 -:1 tilalla:3 uudet:2 liikennevalot:5 tampereella:4 kalevan:3 prisman:2 kulman:2 risteys:3 toimii:2 taas:1 normaaliin:3 tapaan:2
+väliaikainen:5 kiertoliittymä:5 on:1 ollut:2 monelle:3 hankala:3 mutta:2 varmasti:3 helpompi:3 kuin:1 x-risteys:3 ilman:2 valo-ohjausta:5
+sammonkadun:4 ja:1 hervannan:3 valtaväylän:4 risteyksessä:5 on:1 uusittu:3 liikennevaloja:6 tänä:2 kesänä:3 ja:1 sen:1 takia:3 paikalla:3 on:1 ollut:2 väliaikainen:5 kiertoliittymä:5
+suomen:2 eri:2 maakuntien:4 välillä:3 on:1 isot:2 erot:2 siinä:2 kuinka:2 suuri:2 osa:2 ikäluokasta:5 saa:1 vapautuksen:4 asepalveluksesta:7 kertoo:2 lännen:2 media:3
+vuoden:2 2012:1 päivityksen:4 jälkeen:2 terveystarkastuksessa:8 on:1 kiinnitetty:4 aiempaa:3 enemmän:3 huomiota:4 motivaatioon:5 ja:1 ylipainoisten:5 kutsuttujen:4 fyysiseen:3 toimintakykyyn:5
+2000-luvun:2 alkupuoliskolla:6 asepalveluksen:6 keskeytti:4 vuosi:2 vuodelta:3 useampi:4
+vuoden:2 2006:1 jälkeen:2 lääkärit:3 ovat:2 arvioineet:4 palveluksesta:5 selviytymisen:5 sijaan:2 sitä:2 onko:2 palvelukseen:4 kutsutun:3 terveydentila:5 riittävän:3 hyvä:2 reservin:3 tarpeisiin:3
+vapautettuja:5 on:1 huomattavasti:5 enemmän:3 kuin:1 siviilipalveluksen:7 suorittavia:5 joita:2 oli:2 vuonna:2 2017:1 noin:1 14:1 prosenttia:4 ikäluokasta:5
+asiasta:4 on:1 keskusteltu:4 mutta:2 sitä:2 ei:1 ole:2 ainakaan:3 vielä:2 tutkittu:3
+lännen:2 media:3 vapautuksia:5 asepalveluksesta:7 eniten:3 pohjois-savossa:4 ja:1 pirkanmaalla:4 vuonna:2 2017:1 asepalveluksesta:7 vapautettiin:4 pohjois-savossa:4 ja:1 pirkanmaalla:4 yli:2 20:1 prosenttia:4 palvelukseen:4 kutsutuista:4 kun:1 taas:1 lapissa:3 ja:1 kaakkois-suomessa:4 alle:2 15:1 prosenttia:4 kutsutuista:4
+2000-luvun:2 alkupuoliskolla:6 asepalveluksen:6 keskeytti:4 vuosi:2 vuodelta:3 useampi:4
+pääesikunnassa:6 pidetään:3 mahdollisena:5 että:2 yhteisestä:4 ohjeistuksesta:5 huolimatta:4 eri:2 maakunnissa:4 saatetaan:3 tulkita:3 eri:2 tavoin:2 sitä:2 kuinka:2 herkästi:3 vapautuksia:5 on:1 syytä:2 myöntää:2
+vapautuksen:4 saavien:3 määrä:2 kasvoi:2 vuonna:2 2006:1 kun:1 terveystarkastusohjetta:9 päivitettiin:4
+varusmiehen:4 kädet:2
+terveystarkastusohjeen:8 muutokset:3 ovat:2 vaikuttaneet:4 vapautettavien:6 määrään:2
+varusmiehen:4 kädet:2
+terveystarkastusohjeen:8 päivityksen:4 jälkeen:2 keskeyttävien:6 määrä:2 vakiintui:3 14-15:1 prosenttiin:3
+2000-luvun:2 alkupuoliskolla:6 asepalveluksen:6 keskeytti:4 vuosi:2 vuodelta:3 useampi:4
+ennen:2 vuotta:2 2006:1 palvelukseen:4 astui:2 yli:2 80:1 prosenttia:4 ikäluokasta:5 kun:1 taas:1 viiden:2 viime:2 vuoden:2 aikana:3 määrä:2 on:1 vakiintunut:4 noin:1 76:1 prosenttiin:3
+asevelvollisuusalan:8 toimialajohtajan:7 everstiluutnantti:6 vesa:2 tohkasen:3 mukaan:2 ennen:2 vuotta:2 2006:1 vapautuksen:4 saivat:2 vain:1 ne:1 joiden:2 ei:1 arveltu:3 terveydentilansa:6 puolesta:3 selviävän:4 palveluksesta:5
+huomio:3 reservin:3 tarpeissa:3 terveystarkastusohjeen:8 muutokset:3 ovat:2 vaikuttaneet:4 vapautettavien:6 määrään:2
+lännen:2 media:3 vapautuksia:5 asepalveluksesta:7 eniten:3 pohjois-savossa:4 ja:1 pirkanmaalla:4 ohjeeseen:3 tehtiin:2 uusia:3 päivityksiä:5 vuosina:3 2008:1 ja:1 2012:1
+tähän:2 saakka:2 neuvonnassa:4 on:1 käyty:2 jyväskylässä:5 saakka:2
+adoptioprosessi:7 alkaa:2 aina:2 adoptioneuvonnalla:8 jolla:2 pyritään:3 varmistamaan:4 lapsen:2 edun:2 toteutuminen:5
+apu:2 tulee:2 aiempaa:3 lähemmäksi:4
+viime:2 vuonna:2 järjestöllä:4 oli:2 pohjalaiskunnissa:6 neljäkymmentä:5 asiakasta:5
+lapsi:2 leikkii:2 apu:2 tulee:2 aiempaa:3 lähemmäksi:4
+keskipohjalaisperheiden:8 adoptioneuvonta:7 helpottuu:3 kun:1 pelastakaa:4 lapset:2 -järjestö:3 avaa:2 uuden:2 toimipisteen:4 seinäjoelle:5
+lapsi:2 leikkii:2 keskipohjalaisten:6 adoptioneuvonta:7 helpottuu:3 keskipohjalaisten:6 adoptioneuvonta:7 helpottuu:3 järjestön:3 keski-suomen:3 aluejohtaja:6 anu:2 huovinen:3 kertoo:2 että:2 adoptioneuvonnassa:8 käyvien:3 perheiden:3 määrä:2 on:1 lisääntynyt:4
+viranomaiset:5 epäilevät:4 yliannostusten:6 syyksi:2 synteettisiä:5 kannabioideja:6 esimerkiksi:5 k2-:1 tai:1 spice-nimillä:4 tunnettuja:4 valmisteita:4
+kukaan:2 ei:1 ole:2 kuollut:2 mutta:2 moni:2 on:1 kriittisessä:4 tilassa:3
+poliisi:3 auttamassa:4 kadulla:3 makaavaa:3 ihmistä:3 osa:2 oli:2 tajuttomia:5 toiset:2 oksensivat:4 ja:1 kärsivät:3 muista:2 oireista:3
+poliisi:3 on:1 pidättänyt:4 kolme:2 ihmistä:3 epäiltyinä:4 yhteyksistä:5 yliannostuksen:6 aiheuttaneeseen:6 huumeeseen:3
+joukkoyliannostus:7 puistossa:3 new:1 havenissa:4 yli:2 70:1 joutui:2 sairaalaan:3 yli:2 70:1 ihmistä:3 on:1 joutunut:3 sairaalahoitoon:5 huumeyliannostuksen:8 takia:3 new:1 havenin:3 kaupungissa:4 yhdysvaltain:4 itärannikolla:6
+ensimmäiset:4 yliannostuksesta:7 kärsivät:3 löytyivät:3 puistosta:3 tiistai-iltana:4
+joukkoyliannostus:7 puistossa:3 new:1 havenissa:4 yli:2 70:1 joutui:2 sairaalaan:3 keskiviikon:4 kuluessa:4 ilmaantui:3 kymmeniä:4 lisää:2
+poliisi:3 auttamassa:4 kadulla:3 makaavaa:3 ihmistä:3 poliisin:3 mukaan:2 71:1 ihmistä:3 on:1 kuljetettu:4 sairaalaan:3 viisi:2 kieltäytyi:3 hoidosta:3
+yhdysvalloissa:5 ennätykselliset:6 72 000:1 ihmistä:3 kuoli:2 huumeiden:3 yliannostukseen:6 vuonna:2 2017:1
+kukaan:2 ei:1 ole:2 kuollut:2 mutta:2 moni:2 on:1 kriittisessä:4 tilassa:3
+kukaan:2 ei:1 ole:2 kuollut:2 mutta:2 useiden:3 kerrotaan:3 olevan:3 kriittisessä:4 tilassa:3
+opioidikriisi:6 näkyy:2 katukuvassa:5 new:1 havenin:3 kaupungissa:4 connecticutissa:6
+tapaukset:4 ovat:2 sattuneet:3 alle:2 vuorokauden:4 sisällä:3 puistossa:3 joka:2 sijaitsee:3 lähellä:3 maineikasta:4 yalen:3 yliopistoa:6
+opioidikriisi:6 näkyy:2 katukuvassa:5 new:1 havenin:3 kaupungissa:4 connecticutissa:6
+simon:2 kiri:2 avasi:3 pesäpallon:4 suomensarjan:4 välierät:4 voitolla:3 kun:1 se:1 keskiviikkona:5 kaatoi:2 kotonaan:3 ylivieskan:4 kuulan:2
+lohkofinaalin:5 voittaja:3 kohtaa:2 itälohkon:4 voittajan:3
+simon:2 kiri:2 otti:2 ensimmäisen:4 askeleen:3 kohti:2 sarjanousua:5 joukkue:3 kaatoi:2 keskiviikkona:5 kotipelissään:5 ylivieskan:4 kuulan:2 lukemin:3 2:1 -0:1
+simon:2 kiri:2 pelaa:2 tänä:2 syksynä:3 noususta:3 maan:1 toiseksi:3 korkeimmalle:4 sarjatasolle:5 ykköspesikseen:5
+pesäpallojoukkue:7 simon:2 kiri:2 harjoittelee:4
+simon:2 kiri:2 avasi:3 pesäpallon:4 suomensarjan:4 välierät:4 voitolla:3
+simon:2 kiri:2 pelaa:2 tänä:2 syksynä:3 noususta:3 maan:1 toiseksi:3 korkeimmalle:4 sarjatasolle:5 ykköspesikseen:5
+seuraavan:3 kerran:2 joukkueet:3 kohtaavat:3 ylivieskassa:5 lauantaina:4
+otteluparista:6 pääsee:2 lohkofinaaliin:5 jossa:2 vastaan:2 tulee:2 joko:2 oulu:2 tai:1 sotkamo:3
+tämän:2 otteluparin:5 edukseen:3 selvittänyt:4 joukkue:3 nousee:2 ensi:2 kaudeksi:3 maan:1 toiseksi:3 korkeimmalle:4 sarjatasolle:5 ykköspesikseen:5
+simon:2 kiri:2 otti:2 ensimmäisen:4 askeleen:3 kohti:2 sarjanousua:5 simon:2 kiri:2 avasi:3 pesäpallon:4 suomensarjan:4 välierät:4 voitolla:3 kun:1 se:1 keskiviikkona:5 kaatoi:2 kotonaan:3 ylivieskan:4 kuulan:2
+pesäpallojoukkue:7 simon:2 kiri:2 harjoittelee:4
+kaikissa:3 pudotusottelusarjoissa:9 jatkoon:2 pääsee:2 kahdella:3 otteluvoitolla:6
+ei:1 meidän:2 tarvitse:3 kolmea:3 maalia:3 ensimmäisellä:5 puoliajalla:5 tehdä:2
+sellaisia:4 hetkiä:3 ei:1 saa:1 tulla:2
+riihilahti:4 luonnehti:3 klubin:2 esitystä:4 sloveniassa:5 pettymykseksi:5 helsingin:3 sanomien:4 haastattelussa:5
+kaikki:2 tietävät:3 että:2 olemme:3 kolmen:2 maalin:2 tappioasemassa:7 kun:1 peli:2 alkaa:2
+hjk:1 on:1 kovan:2 paikan:2 edessä:3 illan:2 europelissä:5
+toisen:2 osan:2 panokset:3 ovat:2 selvät:2 ilman:2 suurinumeroista:6 voittoa:3 hjkn:1 tämän:2 kesän:2 europelit:4 ovat:2 ohi:2
+hjk:1 on:1 kovan:2 paikan:2 edessä:3 illan:2 europelissä:5
+kaikki:2 tietävät:3 että:2 sloveniassa:5 oli:2 ehkä:2 enemmän:3 yksilötasolla:6 ongelmia:4
+helsingin:3 jalkapalloklubi:6 lähtee:2 tukalasta:4 tilanteesta:4 torstai-iltana:4 pelattavaan:4 kotiotteluun:5 olimpija:4 ljubljanaa:3 vastaan:2
+toivottavasti:5 tulee:2 paljon:2 yleisöä:4 ja:1 saadaan:2 pieni:2 mylly:2 pystyyn:2
+hjkn:1 toimitusjohtaja:6 aki:2 riihilahti:4
+lehkosuon:3 mukaan:2 maaleja:3 ei:1 lähdetä:3 hakemaan:3 liian:2 kovalla:3 riskillä:3 vaikka:2 kirittävää:4 riittää:2
+kuten:2 usein:2 ennenkin:3 töölön:2 stadionin:4 tekonurmi:4 voi:1 tuntua:3 luonnonnurmella:5 kotiottelunsa:6 pelaavalle:4 vastustajalle:5 oudolta:3
+koitetaan:3 saada:2 palloa:3 paljon:2 boksiin:2 ja:1 juostaan:2 heidän:2 puolustuslinjansa:6 taakse:2
+hjkn:1 seuraava:3 eurovastustaja:6 selvillä:3 jos:1 ljubljana:3 kaatuu:2 murjottu:3 hjk:1 hakee:2 alkurynnistystä:6 muttei:2 liian:2 kovalla:3 riskillä:3 ei:1 meidän:2 tarvitse:3 kolmea:3 maalia:3 ensimmäisellä:5 puoliajalla:5 tehdä:2 lehkosuon:3 mukaan:2 tämän:2 takia:3 sumusalon:4 mainitsema:4 alkurynnistys:5 on:1 tärkeä:3
+hjkn:1 ja:1 olimpija:4 ljubljanan:3 välinen:3 kamppailu:3 alkaa:2 kello:2 19:1
+klubi:2 hävisi:3 eurooppa-liigan:4 kolmannen:3 karsintakierroksen:6 avausosan:5 ljubljanassa:4 03:1
+jos:1 saamme:2 heitä:2 vähän:2 haavoitettua:5 pelin:2 alussa:3 totta:2 kai:1 se:1 antaa:2 meille:2 mahdollisuuden:5 repiä:3 haavaa:2 isommaksi:4 ja:1 panna:2 heidät:2 vuotamaan:3 oikein:2 kunnolla:3
+yksilöillä:4 oli:2 huonoja:3 päiviä:3 eikä:2 saatu:2 moottorista:4 kaikkea:3 irti:2 sumusalo:4 kommentoi:3
+totta:2 kai:1 meidän:2 pitää:2 osittain:3 ottaa:2 riskiä:3 ja:1 olla:2 hyökkäysvoimaisia:7 mutta:2 hallitummin:4
+haemme:3 pienen:2 alkurynnistyksen:6
+murjottu:3 hjk:1 hakee:2 alkurynnistystä:6 muttei:2 liian:2 kovalla:3 riskillä:3 ei:1 meidän:2 tarvitse:3 kolmea:3 maalia:3 ensimmäisellä:5 puoliajalla:5 tehdä:2 lue:2 myös:1 päävalmentaja:5 mika:2 lehkosuo:3 kertoo:2 valaneensa:4 pelaajiinsa:4 uskoa:3 hjkn:1 mahdollisuuksista:6
+tällainen:3 on:1 jatkuvassa:4 kriisissä:3 oleva:3 vastustaja:4 olimpija:4 ljubljana:3 saavat:2 jatkuvasta:4 muutoksesta:4 energiaa:4 mika:2 lehkosuo:3
+se:1 on:1 selvä:2 lehkosuo:3 painottaa:3
+mika:2 lehkosuo:3 katsotaan:3 miten:2 ljubljana:3 pystyy:2 vastaamaan:3 siihen:2 ennakoi:3 puolustaja:4 mikko:2 sumusalo:4
+klubin:2 slovenialaisvieraat:7 voittivat:3 viime:2 viikon:2 kohtaamisen:4 30:1
+se:1 ei:1 kaatunut:3 mihinkään:3 joukkueen:3 heikkoon:2 kokonaisuuteen:5
+hjkn:1 toimitusjohtaja:6 aki:2 riihilahti:4 antoi:2 ljubljanassa:4 kärsityn:3 tappion:3 jälkeen:2 tiukkoja:3 kommentteja:4 helsinkiläisten:5 otteista:3 eurokentillä:5
+bate:2 borisov:3 pääsi:2 mestarien:4 liigan:2 karsinnassa:4 välillä:3 hyökkäämään:3 kahdella:3 yhtä:2 vastaan:2 melkein:2 puolesta:3 kentästä:3 asti:2
+minulle:3 riittää:2 ihan:2 hyvin:2 10:1
+klubin:2 slovenialaisvieraat:7 voittivat:3 viime:2 viikon:2 kohtaamisen:4 30:1
+mika:2 lehkosuo:3 mika:2 lehkosuo:3
+sitä:2 kautta:2 aiheutamme:4 enemmän:3 painetta:3 heidän:2 puolustukselleen:5
+yritetään:4 pelata:3 vähän:2 suoraviivaisemmin:6
+hjkn:1 toimitusjohtaja:6 aki:2 riihilahti:4
+samaan:2 aikaan:2 valtava:3 joukko:2 nuoria:3 miehiä:3 syrjäytyy:3 ja:1 me:1 ihmettelemme:5 mihin:2 rintamaan:3 he:1 mahtavat:3 liittyä:3
+olemme:3 yhdessä:3 estäneet:3 syrjäytymistä:5 lahjoittaneet:4 hyvinvointivaltiolle:8 lisää:2 rahaa:2 ja:1 siinä:2 sivussa:3 luoneet:2 ehkä:2 maailman:3 suurimman:3 keskustelevan:5 elokuvakerhon:6
+riku:2 rantala:3 amp:1 tunna:2 milonoff:3 maailmassa:4 on:1 trump:1 isis:2 ja:1 metoo:2 siksi:2 docventures:4 palaa:2 syksyllä:3 tämä:2 ei:1 ole:2 pelkkää:2 televisiota:6
+katso:2 enemmän:3 luule:2 vähemmän:3
+ja:1 siksi:2 docventures:4 palaa:2
+kaupalliset:4 intressit:3 tunkevat:3 verkkokalvoillemme:6 tuhansin:3 kuvin:2 ja:1 viestein:2 kaupallinenyhteistyö:7 ja:1 influensserit:5 ohjaavat:3 meitä:2 klikkaamaan:3 tyrmistymään:4 ihastumaan:4 koska:2 olemme:3 sen:1 arvoisia:4
+tuntuuko:3 sinusta:3 siltä:2 että:2 joka:2 puolella:3 maailmaa:3 taistellaan:3 nyt:1 verisesti:4 vallasta:3
+dokumenttielokuvat:8 tiedon:2 valaisevina:5 soihtuina:3 ovat:2 ensiarvoisen:5 tärkeitä:3 ajassa:3 jossa:2 tunne:2 näyttää:2 liian:2 usein:2 selättävän:4 tiedon:2
+docventures:4 takaa:2 syksyllä:3 2018:1 että:2 sinulla:3 on:1 myös:1 valtaa:2 sillä:2 tieto:2 on:1 valtaa:2
+valtataistelua:6 käydään:2 myös:1 aivan:2 meidän:2 silmiemme:4 alla:2
+luvassa:3 on:1 kuusi:2 kivenkovaa:4 dokumenttielokuvaa:8 ja:1 keskustelua:5 vallasta:3
+viime:2 aikoina:3 paljastuneet:4 virkavallan:4 väärinkäytöt:4 romuttavat:4 luottamusta:4 perinteisiin:4 instituutioihin:6 ja:1 koska:2 hyvinvointivaltion:7 jykevin:3 perusta:3 on:1 juuri:2 tämä:2 luottamus:3 ryhdytään:3 sen:1 puutteessa:3 jakamaan:3 valtiovaltaakin:6 uusiksi:3
+onko:2 ilmastonmuutos:5 vain:1 luonnon:2 keino:2 hävittää:3 tuholaislaji:5 homo:2 sapiens:3 planeetaltaan:4
+riku:2 rantala:3 ja:1 tunna:2 milonoff:3 filminauhat:5 käsissään:3
+ymmärrämmekö:5 liian:2 myöhään:2 ettemme:3 ole:2 luonnon:2 yläpuolella:5 vaan:1 osa:2 sitä:2
+myös:1 päämajamme:4 yytsimö:3 on:1 havainnut:3 tutkassaan:3 poikkeuksellista:6 liikehdintää:4
+tuhannet:3 ihmiset:3 lähtevät:3 kotisohviltaan:5 katsomaan:3 elokuvia:5 kisastudioihin:6 ja:1 verkossa:3 meitä:2 on:1 jo:1 miljoona:3
+toisaalla:3 metoo-liike:3 repii:2 alas:2 rakenteita:4 ja:1 näyttää:2 vihdoin:2 muuttavan:3 sotien:3 jälkeisen:3 ajan:2 setien:3 jälkeiseksi:4 ajaksi:3
+tieto:2 on:1 valtaa:2 ja:1 siksi:2 docventures:4 takaa:2 tänä:2 syksynä:3 että:2 myös:1 sinulla:3 on:1 valtaa:2
+whataboutismi:5 vihapuhe:4 ja:1 besserwisseröinti:6 eivät:2 vie:1 meitä:2 muualle:3 kuin:1 toistemme:3 kurkuille:3
+mikään:2 ei:1 kuitenkaan:3 muutu:2 jos:1 emme:2 aloita:3 itsestämme:4
+oletko:3 ihmetellyt:4 miten:2 pitkän:2 uinumisen:4 ja:1 liberaalin:4 globalisaatiovaiheen:8 jälkeen:2 taas:1 yhtäkkiä:4 tapahtuu:3 ja:1 paljon:2
+riku:2 rantala:3 amp:1 tunna:2 milonoff:3 maailmassa:4 on:1 trump:1 isis:2 ja:1 metoo:2 siksi:2 docventures:4 palaa:2 syksyllä:3 docventures:4 kysyykin:3 onko:2 maailmassa:4 huomaamattamme:5 käynnistynyt:4 historian:4 suurin:2 vallan:2 uudelleenjako:5
+vaikka:2 maailma:3 tuntuu:2 joskus:2 pelottavalta:5 ja:1 sekavalta:4 kehotamme:4 kaikkia:3 pysymään:3 rauhallisina:5 televisiovastaanottimien:11 äärellä:3 ja:1 viettämään:3 kanssamme:3 jokaisen:3 tiistain:2 11.9:2
+alkaen:3
+valta:2 nousee:2 keskiöön:3 docventuresin:5 6:1
+kaudella:3
+suurvaltapolitiikka:7 on:1 alkanut:3 muistuttaa:3 populistien:5 fundamentalistien:7 ja:1 hirmuvaltiaiden:6 käymää:2 vapaapainiottelua:8
+katso:2 enemmän:3 luule:2 vähemmän:3
+mikään:2 ei:1 kuitenkaan:3 muutu:2 jos:1 emme:2 aloita:3 itsestämme:4
+docventures-yhteisön:6 taistelu:3 apatiaa:4 vastaan:2 on:1 johtanut:3 konkreettisiin:4 tekoihin:3 kymmenet:3 tuhannet:3 ihmiset:3 ovat:2 muuttaneet:3 ruokavaliotaan:6 tuhannet:3 luovuttaneet:4 vertaan:2 tai:1 ryhtyneet:3 ystäväksi:4 yksinäiselle:5
+valtataistelua:6 käydään:2 myös:1 aivan:2 meidän:2 silmiemme:4 alla:2
+ihmisen:3 ylivalta:4 luontoon:2 on:1 suistamassa:4 meitä:2 kiihtyvällä:4 tahdilla:3 kohti:2 omaa:2 tuhoamme:4
+tämä:2 on:1 docventures:4
+katso:2 uuden:2 kauden:2 leffaesittelyt:6 niin:1 näet:2 mitä:2 on:1 tulossa:3
+docventures:4 suorat:2 lähetykset:4 11.9:2
+alkaen:3 tiistaisin:3 klo:1 21:1 yle:2 areena:3 amp:1 yle:2 tv2:1 ja:1 keskiviikkoisin:5 klo:1 15:1 yle:2 puhe:2 kaikkein:2 konkreettisinta:5 valtataistelua:6 käydään:2 kuitenkin:3 tällä:2 hetkellä:3 ihmisen:3 ja:1 luonnon:2 kesken:2
+riku:2 amp:1 tunna:2 et:1 ole:2 yksin:2
+siksi:2 tiedon:2 lisäksi:3 tarvitaan:3 myötätuntoa:5 ja:1 viisaita:3 tekoja:3
+yhdessä:3 pystymme:3 suuriin:2 tekoihin:3
+riku:2 rantala:3 ja:1 tunna:2 milonoff:3 filminauhat:5 käsissään:3
+et:1 ole:2 yksin:2
+tuntuuko:3 siltä:2 että:2 joka:2 puolella:3 maailmaa:3 taistellaan:3 nyt:1 verisesti:4 vallasta:3
+docventures:4 6:1 on:1 vallan:2 uusjaon:3 tiedonvälittäjä:6 ajatusten:4 ja:1 keskustelun:4 herättäjä:4
+oletko:3 ihmetellyt:4 miten:2 pitkän:2 uinumisen:4 ja:1 liberaalin:4 globalisaatiovaiheen:8 jälkeen:2 taas:1 yhtäkkiä:4 tapahtuu:3 ja:1 paljon:2
+päivitys:3 16.8.2018:3 klo:1 8.02:2 tapauksessa:5 tehtiin:2 poliisille:4 rikosilmoitus:5 tiistaina:3 14.8.2018:3
+pidin:2 tärkeänä:4 varoittaa:3 ihmisiä:4 tällaisesta:4 ja:1 uskon:2 edelleen:3 että:2 tapaus:3 on:1 totta:2 torssonen:3 sanoi:2 torstaina:3 puolenpäivän:4 jälkeen:2
+torssonen:3 mainitsi:3 sittemmin:3 ryhmästä:3 ylläpitäjien:6 toimesta:3 poistetussa:4 kirjoituksessaan:5 ryöstäjän:3 tuntomerkeiksi:5 hupparin:3 ja:1 tumman:2 ihon:2
+netissä:3 leviää:3 väite:2 ulkomaalaisen:5 tekemästä:4 aseellisesta:5 ryöstöstä:3 jyväskylässä:5 poliisille:4 tapauksesta:5 ei:1 ole:2 ilmoitettu:4 jutun:2 mukaan:2 ryöstö:2 on:1 tapahtunut:4 touruntornin:4 pankkiautomaatilla:7
+tämä:2 oli:2 puhunut:3 asiasta:4 puhelimessa:5 väitetyn:3 ryöstön:2 kohteeksi:3 joutuneen:3 henkilön:3 läheisen:3 kanssa:2
+torssonen:3 kertoo:2 yrittäneensä:5 varmistaa:3 asiaa:3 poliisilta:4 siinä:2 onnistumatta:5
+jyväskyläläisvaltuutettu:9 sanoo:2 tarkistavansa:5 vielä:2 tapauksen:4 todenperäisyyden:6 ja:1 lupaa:2 julkaista:3 netissä:3 oikaisun:3 jos:1 juttu:2 osoittautuu:4 virheelliseksi:5
+hän:1 kiistää:2 että:2 jutun:2 taustalla:3 olisi:3 tarkoitushakuista:6 ulkomaalaisten:5 mustamaalaamista:6
+facebookin:4 jyväskylä:4 -:1 puskaradio:5 -ryhmässä:3 kerrottiin:3 eilen:2 että:2 nuori:2 mies:1 olisi:3 ryöstetty:3 tourulassa:4
+facebookin:4 jyväskylä:4 -:1 puskaradio:5 -ryhmässä:3 kerrottiin:3 eilen:2 että:2 nuori:2 mies:1 olisi:3 ryöstetty:3 tourulassa:4
+tänä:2 keväänä:3 toimintansa:4 aloittanut:4 nettisivusto:5 oli:2 julkaissut:3 eilen:2 tourulan:3 ryöstöstä:3 jutun:2 jonka:2 lähteeksi:3 se:1 mainitsee:3 soldiers:3 of:1 odin:2 ry:1 jyväskylä:4 support:2 -ryhmän:2
+teemu:2 torssonen:3 kertoo:2 kuulleensa:3 ryöstöstä:3 luotettavalta:5 kaverilta:4 joka:2 puolestaan:3 oli:2 kuullut:2 asiasta:4 työkaveriltaan:5
+netissä:3 leviää:3 väite:2 ulkomaalaisen:5 tekemästä:4 aseellisesta:5 ryöstöstä:3 jyväskylässä:5 poliisille:4 tapauksesta:5 ei:1 ole:2 ilmoitettu:4 tourulassa:4 ei:1 ole:2 pankkiautomaattia:7 touruntornissa:5 vaan:1 sitä:2 lähellä:3 sijaitsevassa:5 tourukeskuksessa:6
+jyväskylän:4 poliisille:4 ryöstöstä:3 ei:1 ole:2 tehty:2 rikosilmoitusta:6 eikä:2 poliisin:3 tietoon:2 ole:2 tullut:2 tämänkaltaista:5 tapausta:4
+tarkennettu:4 10.8.2018:3 klo:1 12.40:2 vaihdettu:3 otsikkoon:3 sana:2 väite:2 aiemmin:3 siinä:2 luki:2 tieto:2
+jutun:2 voit:1 lukea:3 tästä:2
+facebookin:4 jyväskylä:4 -:1 puskaradio:5 -ryhmässä:3 perussuomalaisten:6 kaupunginvaltuutettu:7 ja:1 kaupunginhallituksen:7 jäsen:2 teemu:2 torssonen:3 kertoi:2 eilen:2 keskiviikkona:5 kuulleensa:3 että:2 ulkomaalaistaustainen:7 henkilö:3 oli:2 ryöstänyt:3 nuoren:2 miehen:2 puukolla:3 uhaten:3 jyväskylän:4 tourulassa:4
+tunnen:2 tämän:2 ihmisen:3 joten:2 en:1 nähnyt:2 mitään:2 syytä:2 että:2 hän:1 olisi:3 keksinyt:3 omasta:3 päästään:2 tämän:2 jutun:2 torssonen:3 toteaa:3
+myös:1 facebook-ryhmän:4 toisessa:3 kirjoituksessa:5 kerrottiin:3 ryöstöstä:3 ja:1 liitettiin:3 mukaan:2 linkki:2 netissä:3 toimivaan:3 extrauutiset-sivustoon:7
+harjoittelun:4 ohjaamiseen:4 on:1 lisätty:3 myös:1 resursseja:4
+pula:2 harjoittelupaikoista:7 aiheuttaa:4 ongelmia:4 metsäkonealalla:7
+esimerkiksi:5 jämsässä:3 ammattiopisto:6 gradia:3 on:1 aloittamassa:5 yhteistyökokeilun:6 hämeenlinnalaisen:6 metsäkonealan:6 yrityksen:4 kanssa:2
+oppilaitokset:5 ja:1 alan:2 yritykset:4 etsivät:3 nyt:1 keinoja:3 tilanteen:3 ratkaisemiseksi:6
+metsä-multia:4 työllistää:3 noin:1 90:1 henkilöä:4
+oppilasmäärät:5 alan:2 oppilaitoksissa:6 ovat:2 kasvaneet:3 metsäteollisuuden:7 investointipäätösten:7 jälkeen:2
+metsäkone:4 hakkuutyömaalla:5
+tämän:2 vuoksi:2 esimerkiksi:5 keskisuomalainen:6 metsäkoneyritys:7 metsä-multia:4 on:1 päättänyt:3 aloittaa:3 syksyllä:3 oman:2 koulutusohjelman:6
+yritys:3 aloittaa:3 syksyllä:3 metsäkoneenkuljettajien:9 koulutusohjelman:6 jossa:2 on:1 kuusi:2 koulutuspaikkaa:5
+metsäkone:4 hakkuutyömaalla:5
+oppilaitokset:5 ja:1 alan:2 yritykset:4 etsivät:3 nyt:1 keinoja:3 tilanteen:3 ratkaisemiseksi:6
+pula:2 harjoittelupaikoista:7 aiheuttaa:4 ongelmia:4 metsäkonealalla:7
+metsäkonealalla:7 pulaa:2 harjoittelupaikoista:7 keskisuomalainen:6 metsäkoneyritys:7 aloittaa:3 oman:2 koulutusohjelman:6 pula:2 harjoittelupaikoista:7 aiheuttaa:4 ongelmia:4 metsäkonealalla:7
+se:1 on:1 ihan:2 puhtaasti:3 siitä:2 kiinni:2 että:2 yrittäjien:5 aika:2 ei:1 riitä:2 sen:1 työvoiman:3 kouluttamiseen:5 eikä:2 voida:2 myöskään:2 sysätä:3 vastuuta:3 pelkästään:3 sinne:2 työtovereille:5
+harjoittelupaikkatilannetta:10 vaikeuttaa:4 myös:1 se:1 että:2 käytännössä:4 metsäkoneyrityksillä:9 ei:1 aina:2 ole:2 aikaa:2 rahaa:2 ja:1 työvoimaa:3 ohjata:3 opiskelijoita:6 kädestä:3 pitäen:3
+samalla:3 kilpailu:3 työssä-oppimispaikoista:7 on:1 kiristynyt:4
+oppilaitokset:5 ja:1 alan:2 yritykset:4 etsivät:3 nyt:1 keinoja:3 tilanteen:3 ratkaisemiseksi:6
+pääsääntösesti:5 se:1 työssä:2 oppiminen:4 on:1 siellä:2 koulutuksen:4 loppuvaiheessa:5 koska:2 varsinkin:3 nuorilla:3 tulee:2 se:1 ikä:2 vastaan:2 että:2 he:1 pääsee:2 kulkemaan:3 sinne:2 maastoon:2
+tuolla:2 metsässä:3 kun:1 koneessa:3 on:1 vain:1 yksi:2 jakkara:3 niin:1 siinä:2 ei:1 oikeen:2 pysty:2 rinnalla:3 niitä:2 töitä:2 tekemään:3 toteaa:3 metsä-multian:4 toimitusjohtaja:6 aki:2 laaja:2
+metsäkonealalla:7 pulaa:2 harjoittelupaikoista:7 keskisuomalainen:6 metsäkoneyritys:7 aloittaa:3 oman:2 koulutusohjelman:6 se:1 viimenen:3 vuosi:2 on:1 sillä:2 vastuuopettajalla:7 resurssoitu:4 hyvin:2 pitkälle:3 siihen:2 työssäoppimiseen:6 kertoo:2 koulutuspäällikkö:6 jarmo:2 nikkanen:3
+itä-hämeen:3 opisto:3 saa:1 valtionosuutta:6 vajaat:2 14 000:1 euroa:3 opiskelijaa:5 kohden:2 vuonna:2 2018:1
+opistoa:4 ylläpitävän:5 itä-hämeen:3 kansansivistystyön:6 säätiön:3 puheenjohtaja:5 maija-liisa:3 mamian:3 mukaan:2 suurin:2 osa:2 lukiokoulutuksen:7 saadaan:2 katettua:4 valtionosuuksilla:7
+kiia:2 syrjäläinen:4 muutti:2 hartolaan:3 naapurikunnasta:6 pertunmaalta:4
+ilmainen:3 asuminen:4 ratkaisi:3 nyyrikki:3 kylmänen:3 minullakin:4 on:1 ollut:2 opiskelijoita:6 jotka:2 ovat:2 saaneet:2 nostettua:4 esimerkiksi:5 englannin:3 numeronsa:4 vitosesta:4 kasiin:2 kun:1 ovat:2 saaneet:2 täältä:2 sellaista:3 tukea:3 mitä:2 tarvitsevat:4
+yhteensä:3 itä-hämeen:3 kansansivistystyön:6 säätiölle:4 on:1 lukiokoulutusta:7 varten:2 myönnetty:3 tänä:2 vuonna:2 noin:1 puoli:2 miljoonaa:3 euroa:3
+toisenlainen:4 houkutin:3 on:1 tarjota:3 opiskelijoille:6 ilmaiset:3 oppimateriaalit:7
+miten:2 itä-hämeen:3 opiston:3 rahat:2 riittävät:3 ilmaisten:3 materiaalien:6 ja:1 välineiden:4 tarjoamiseen:5
+valtaosa:4 opiskelijoista:6 tulee:2 pitkien:3 matkojen:3 päästä:2
+asuminen:4 ateriat:4 oppikirjat:4 läppäri:3 ja:1 pienet:2 ryhmäkoot:3 maalaislukion:5 ilmainen:3 paketti:3 houkuttelee:4 opiskelijoita:6 pääkaupunkiseudulta:7 asti:2 takana:3 on:1 parin:2 tunnin:2 infotulva:4 jonka:2 aikana:3 on:1 pitänyt:3 opetella:4 uusien:3 opiskelukavereiden:8 ja:1 opettajien:5 nimiä:3 ottaa:2 haltuun:2 koulun:2 sääntöjä:3 ja:1 painaa:2 mieleen:2 mistä:2 löytyvät:3 luokat:2 ja:1 mistä:2 vessa:2
+ensimmäinen:4 lukiopäivä:5 lienee:2 jännittävä:4 kaikille:3 mutta:2 kylmäselle:4 ja:1 muille:2 itä-hämeen:3 opiston:3 ekaluokkalaisille:7 päivä:2 tarkoittaa:3 astetta:3 suurempaa:3 muutosta:3
+itä-hämeeseen:4 nuurtomaa:3 on:1 kotiutunut:4 hyvin:2
+kilpailu:3 opiskelijoista:6 on:1 kovaa:2 valtaosa:4 opiskelijoista:6 tulee:2 pitkien:3 matkojen:3 päästä:2
+niinikään:3 naapurikunnasta:6 tuleva:3 kiia:2 syrjäläinen:4 myöntää:2 myös:1 jännittäneensä:5 muuttoa:3
+itä-hämeen:3 opisto:3 toimii:2 vanhassa:3 kartanossa:4 vajaan:2 3 000:1 asukkaan:3 hartolassa:4
+tuli:2 aika:2 itsenäinen:4 olo:2 hän:1 kertoo:2
+abivuottaan:4 aloitteleva:5 raumalainen:4 laura:2 nuurtomaa:3 päätyi:2 aikanaan:3 itä-hämeen:3 opistoon:3 koska:2 myöhästyi:3 yhteishausta:4 eikä:2 halunnut:3 hukata:3 peruskoulun:4 ja:1 lukion:3 välistä:3 vuotta:2
+kiia:2 syrjäläinenkin:5 päätti:2 hakea:3 hartolaan:3 kun:1 opiskelupaikkaa:6 ei:1 etusijalla:5 hakutoiveissa:5 olleista:3 lukioista:4 irronnut:3
+näillä:2 keinoilla:3 koulun:2 50stä:1 oppilaspaikasta:6 on:1 onnistuttu:4 täyttämään:3 yli:2 80:1 prosenttia:4
+pikkulukio:5 hartolassa:4 itä-hämeen:3 sydämessä:4 on:1 onnistunut:4 täyttämään:3 aloituspaikoistaan:6 yli:2 puolet:2
+eka:2 yö:1 on:1 aina:2 se:1 jännin:2 kun:1 pitää:2 vähän:2 totutella:4 kylmänen:3 sanoo:2
+keskimäärin:4 valtio:3 maksaa:2 tänä:2 vuonna:2 yhden:2 opiskelijan:5 lukiovuodesta:6 runsaat:2 6000:1 euroa:3
+syrjäläinen:4 aikoo:2 ottaa:2 tulevista:4 opiskeluvuosista:7 kaiken:2 irti:2
+loput:2 katetaan:3 säätiön:3 omalla:3 rahoituksella:5 joka:2 koostuu:2 muiden:2 muassa:3 lyhytkurssimaksuista:7
+ylpeydenaiheena:6 pienet:2 ryhmät:2 pienet:2 maaseutulukiot:6 joutuvat:3 käymään:2 kovaa:2 kamppailua:4 saadakseen:3 vuosikurssinsa:5 täyteen:2 tai:1 edes:2 puolilleen:3
+ilmainen:3 ruoka:2 oli:2 hyvä:2 bonus:2 mutta:2 tärkein:2 oli:2 ilmainen:3 asuminen:4
+viime:2 vuonna:2 valtionosuudet:6 riittivät:3 kattamaan:3 keskimäärin:4 87:1 prosenttia:4 lukioiden:4 toteutuneista:6 kustannuksista:5
+15-vuotias:3 nyyrikki:3 kylmänen:3 istahtaa:3 sängylleen:3 hieman:2 pöllämystyneenä:6
+nyyrikki:3 kylmänen:3 edustaa:3 vähemmistöä:5 sikäli:3 että:2 hän:1 muutti:2 opistolle:4 lähempää:3 naapurikunnasta:6 sysmästä:3
+itä-hämeen:3 opiston:3 lukiossa:4 oppitunnit:4 pidetään:3 vanhan:2 kartanon:3 päärakennuksessa:6
+valtaosa:4 heistä:2 on:1 muuttanut:3 edellisenä:5 iltana:3 koulun:2 asuntolaan:4 satojen:3 kilometrien:5 päähän:2 lapsuudenkodistaan:6 ja:1 vanhemmistaan:4
+ilmaisen:3 asumisen:4 ja:1 oppimateriaalien:8 lisäksi:3 apulaisrehtori:6 teittinen:3 pitää:2 pieniä:3 opetusryhmiä:6 itä-hämeen:3 opiston:3 valttina:3 jonka:2 vuoksi:2 lukioon:3 tullaa:2 pitkienkin:4 matkojen:3 päästä:2
+hänen:2 mukaansa:3 itä-hämeen:3 opiston:3 lukiossa:4 on:1 keskivertoa:5 enemmän:3 sellaisia:4 opiskelijoita:6 jotka:2 hyötyvät:3 selvästi:3 pienryhmäopetuksesta:8
+itä-hämeen:3 opiston:3 päärakennus:4 hartolaan:3 hän:1 päätyi:2 opiston:3 tarjoaman:4 ilmaisen:3 asuntolapaikan:6 vuoksi:2
+kaikille:3 lukiokoulutuksen:7 järjestäjille:5 maksetaan:3 valtionosuutta:6 joka:2 vaihtelee:3 muun:1 muassa:3 oppilaitoksen:5 sijainnin:3 ja:1 opiskelijamäärän:7 mukaan:2
+kiia:2 syrjäläinen:4 on:1 esimerkiksi:5 ratsastuslukio:6 ja:1 ilmailulukio:6 sanoo:2 opetusneuvos:5 kimmo:2 koskinen:3 opetushallituksesta:8
+hartolan:3 kunnalta:3 emme:2 saa:1 mitään:2 mamia:3 sanoo:2
+lukion:3 oppikirjat:4 ja:1 muut:1 oppimateriaalit:7 ja:1 välineet:3 tulevat:3 maksamaan:3 lukiolaiselle:6 eri:2 selvitysten:4 mukaan:2 noin:1 2 000:1 euroa:3
+tällainen:3 profiloituminen:6 on:1 aika:2 tyypillistä:4
+ei:1 minulla:3 olisi:3 mitenkään:3 ollut:2 varaa:2 maksaa:2 vuokraa:2
+eniten:3 meille:2 tulee:2 opiskelijoita:6 pääkaupunkiseudulta:7 kertoo:2 itä-hämeen:3 opiston:3 apulaisrehtori:6 taija:2 teittinen:3
+oppimateriaalit:7 maksetaan:3 valtionosuuksista:7 asuminen:4 ateriat:4 oppikirjat:4 läppäri:3 ja:1 pienet:2 ryhmäkoot:3 maalaislukion:5 ilmainen:3 paketti:3 houkuttelee:4 opiskelijoita:6 pääkaupunkiseudulta:7 asti:2 sekin:2 on:1 aika:2 yleistä:3 muttei:2 mitenkään:3 huolestuttavalla:6 tasolla:3 koskinen:3 toteaa:3
+esimerkiksi:5 naapurikunta:5 sysmässä:3 lukio-opetuksen:6 valtionosuus:5 on:1 opiskelijaa:5 kohti:2 runsaat:2 11 000:1 euroa:3
+ajattelin:4 ruveta:3 ihan:2 kunnolla:3 opiskelemaan:5 ettei:2 mene:2 niin:1 kuin:1 ysiluokka:4 meni:2 hän:1 kertoo:2
+kiia:2 syrjäläinen:4 lukio:3 ei:1 ole:2 mukana:3 yhteishaussa:4 ja:1 markkinointia:5 kohdistetaankin:5 erityisesti:5 niille:2 jotka:2 ovat:2 jääneet:2 yhteishaussa:4 ilman:2 toisen:2 asteen:2 opiskelupaikkaa:6
+nyyrikki:3 kylmänen:3 halusi:3 opiskelemaan:5 sisäoppilaitokseen:7 koska:2 oli:2 kuullut:2 niistä:2 hyvää:2 siskoiltaan:4
+itä-hämeen:3 opisto:3 tarjoaa:3 lukiolaisilleen:6 paitsi:2 ilmaiset:3 oppimateriaalit:7 kirjoineen:3 ja:1 kannettavine:5 tietokoneineen:5 myös:1 ilmaisen:3 asumisen:4 ja:1 ruokailut:3 koulupäivinä:5
+keinovalikoimiin:6 kuuluu:2 esimerkiksi:5 erikoistuminen:6 joihinkin:3 tiettyihin:3 oppiaineisiin:5 tai:1 vaikkapa:3 urheiluun:3
+pikkulukio:5 hartolassa:4 itä-hämeen:3 sydämessä:4 on:1 onnistunut:4 täyttämään:3 aloituspaikoistaan:6 yli:2 puolet:2
+kiia:2 syrjäläinen:4 muutti:2 hartolaan:3 naapurikunnasta:6 pertunmaalta:4
+minulla:3 ei:1 ole:2 sisaruksia:5 joten:2 suurin:2 ero:2 elämään:3 kotona:3 satakunnassa:5 on:1 se:1 että:2 täällä:2 elän:2 suunnilleen:3 oman:2 ikäisten:3 ihmisten:3 kanssa:2
+lasten:2 kerhojen:3 kysyntä:3 vähentynyt:4 jyväskylän:4 kaupunki:3 on:1 lakkauttanut:5 tusinan:3 verran:2 kerhoryhmiä:5 lasten:2 kerhojen:3 kysyntä:3 on:1 pienentynyt:4 jyväskylässä:5
+vuoden:2 aikana:3 kaupunki:3 on:1 lakkauttanut:5 tusinan:3 verran:2 kerhoryhmiä:5
+samaan:2 aikaan:2 lapsimäärä:4 päiväkodeissa:5 on:1 kasvanut:3 noin:1 kymmenen:3 prosenttia:4
+sen:1 lisäksi:3 on:1 lisätty:3 liikunta:3 ja:1 luontokerhoja:5 jotka:2 on:1 jo:1 saavuttanu:4 suosiota:4 kertoo:2 palvelujohtaja:6 tarja:2 alhqvist:2 jyväskylän:4 varhaispalveluista:6
+meillä:2 on:1 vielä:2 jäänyt:2 muutamiin:3 päiväkoteihin:5 kerhoryhmiä:5 alueille:4 missä:2 ei:1 ole:2 perhepuistoja:5
+työntekijöitä:5 ja:1 tiloja:3 on:1 siirretty:3 kerhotoiminnasta:6 päivähoidon:4 käyttöön:2
+varhaiskasvatuksen:6 kerhoryhmiä:5 on:1 lopetettu:4 muun:1 muassa:3 säynätsalossa:5 mannilassa:4 kuokkalassa:4 ja:1 kortepohjassa:5
+tällä:2 hetkellä:3 jyväksylässä:5 toimii:2 varhaiskasvatuksessa:7 45:1 kerhoryhmää:4
+lasten:2 määrä:2 kerhoryhmissä:5 on:1 laskenut:3 lähes:2 viidenneksen:4 viime:2 vuoden:2 vastaavaan:3 aikaan:2 verrattuna:4
+kerhoja:3 on:1 ohjattu:3 yhä:2 enemmän:3 perhe-puistoihin:4 ja:1 niistä:2 on:1 tehty:2 liikunnallisempia:7
+iltapäivätoiminnassa:8 lapsi:2 voi:1 esimerkiksi:5 piirtää:2
+iltapäivätoiminnassa:8 lapsi:2 voi:1 esimerkiksi:5 piirtää:2
+tällä:2 hetkellä:3 jyväksylässä:5 toimii:2 varhaiskasvatuksessa:7 45:1 kerhoryhmää:4
+syynä:2 on:1 se:1 että:2 yhä:2 useampi:4 perhe:2 vie:1 lapsensa:3 päivähoitoon:4 ja:1 lasten:2 hoitaminen:4 kotona:3 on:1 vähentynyt:4
+tällä:2 hetkellä:3 jyväksylässä:5 toimii:2 varhaiskasvatuksessa:7 45:1 kerhoryhmää:4
+lasten:2 kerhojen:3 kysyntä:3 vähentynyt:4 jyväskylän:4 kaupunki:3 on:1 lakkauttanut:5 tusinan:3 verran:2 kerhoryhmiä:5 kaupunki:3 on:1 keskittänyt:4 kerhotoimintaa:5 muun:1 muassa:3 mäki-matin:3 perhepuistoon:4 ja:1 keljonkankaan:4 päiväkotiin:4
+kunnostusten:4 toivotaan:3 elvyttävän:4 kiskonjoen-perniönjoen:8 vesistön:3 alkuperäisiä:6 taimenkantoja:5
+kunnostusten:4 toivotaan:3 elvyttävän:4 kiskonjoen-perniönjoen:8 vesistön:3 alkuperäisiä:6 taimenkantoja:5 jotka:2 ovat:2 taantumassa:4 tai:1 jopa:2 häviämässä:5 alueelta:4 kokonaan:3
+järvitaimen:4 kunnostusten:4 toivotaan:3 elvyttävän:4 kiskonjoen-perniönjoen:8 vesistön:3 alkuperäisiä:6 taimenkantoja:5
+toistakymmentä:5 talkoolaista:4 osallistuu:4 parhaillaan:3 kansainvälisen:5 ympäristöjärjestö:7 wwfn:1 vetämälle:4 talkooleirille:5 kiskonjoella:5 salon:2 perniössä:4
+wwfn:1 talkooleiri:4 kiskonjoella:5 kunnostaa:3 uhanalaiselle:6 taimenelle:4 uusia:3 lisääntymis-:4 ja:1 poikasalueita:6 talkooväki:4 kunnostaa:3 uhanalaiselle:6 taimenelle:4 uusia:3 lisääntymis-:4 ja:1 poikasalueita:6
+järvitaimen:4 wwfn:1 talkooleiri:4 kiskonjoella:5 kunnostaa:3 uhanalaiselle:6 taimenelle:4 uusia:3 lisääntymis-:4 ja:1 poikasalueita:6 punainen:3 vuorovesi:4 on:1 piinannut:3 floridassa:4 jo:1 koko:2 kevään:2 ja:1 kesän:2 ajan:2 mutta:2 nyt:1 leväpitoisuus:5 on:1 noussut:2 erittäin:3 runsaaksi:3
+esimerkiksi:5 kuolleita:3 delfiinejä:4 on:1 löydetty:3 sarasotan:4 piirikunnan:4 rannoilta:3 viime:2 viikon:2 aikana:3 12:1 kappaletta:4
+punainen:3 vuorovesi:4 -ilmiö:3 on:1 haitallinen:4 myös:1 ihmisille:4
+tämä:2 vahingoittaa:4 liiketoimintaamme:6 noin:1 40:1 prosenttia:4 toteaa:3 paikallinen:4 venevuokraamon:5 yrittäjä:4 omar:2 botana:3
+ilmiötä:4 kutsutaan:3 punaiseksi:4 vuorovedeksi:5 koska:2 haitallisen:4 levän:2 runsas:2 kukinta:3 voi:1 muuttaa:2 veden:2 punaisen:3 väriseksi:4
+yhdysvaltain:4 floridassa:4 on:1 julistettu:4 hätätila:4 sillä:2 niin:1 sanottu:3 punainen:3 vuorovesi:4 -ilmiö:3 eli:2 haitallisen:4 levän:2 runsas:2 kukinta:3 on:1 surmannut:3 suuret:2 määrät:2 delfiinejä:4 kilpikonnia:5 ja:1 kaloja:3
+levä:2 voi:1 aiheuttaa:4 ihmisille:4 muun:1 muassa:3 ihoärsytystä:6 ja:1 silmien:3 kirvelyä:4
+punainen:3 vuorovesi:4 -ilmiö:3 on:1 haitallinen:4 myös:1 ihmisille:4
+floridan:3 lounaisrannikolle:6 on:1 rantautunut:4 jo:1 yli:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6 kertoo:2 uutistoimisto:5 afp:1
+floridassa:4 julistettiin:4 hätätila:4 punainen:3 vuorovesi:4 -ilmiön:3 vuoksi:2 rannoilta:3 löydetty:3 jopa:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6 voimakkaan:3 mädäntyneen:4 kalan:2 hajun:2 arvioidaan:4 vaikuttavan:4 jopa:2 talouteen:3 sillä:2 kalastus:3 ja:1 turismi:3 ovat:2 vahvassa:3 osassa:3 floridan:3 taloutta:4
+muun:1 muassa:3 useita:3 rantoja:3 on:1 suljettu:3 ihmisiltä:4 usa:2 today:2 kertoo:2
+yhteystiedot:5 punaisen:3 vuorovesi:4 -ilmiön:3 raportoimiseen:5
+floridassa:4 julistettiin:4 hätätila:4 punainen:3 vuorovesi:4 -ilmiön:3 vuoksi:2 rannoilta:3 löydetty:3 jopa:2 100:1 tonnia:3 kuolleita:3 mereneläviä:6 tykistörykmentin:6 alokkaat:3 vannovat:3 sotilasvalan:5 merikarvialla:6 valan:2 vannovat:3 tai:1 sotilasvakuutuksen:7 antavat:3 heinäkuussa:4 palvelukseen:4 astuneet:3 varusmiehet:4
+satakunnan:4 tykistörykmentin:6 alokkaat:3 vannovat:3 valan:2 tai:1 antavat:3 sotilasvakuutuksen:7 torstaina:3 aamupäivällä:5 merikarvialla:6
+alokkaat:3 vannovat:3 sotilasvalansa:6
+suurin:2 osa:2 niinisalon:4 varuskunnan:4 alokkaista:4 matkaa:2 valatilaisuuteen:6 isojoelle:5 etelä-pohjanmaalle:6
+säkylän:3 varuskunnan:4 valatilaisuudet:6 puolestaan:3 pidetään:3 perjantaina:4 varsinais-suomessa:5 liedossa:3 ja:1 paimiossa:4
+porin:2 prikaatissa:4 on:1 torstaina:3 ja:1 perjantaina:4 valapäivä:4
+valan:2 vannovat:3 tai:1 sotilasvakuutuksen:7 antavat:3 heinäkuussa:4 palvelukseen:4 astuneet:3 varusmiehet:4
+tykistörykmentin:6 alokkaat:3 vannovat:3 sotilasvalan:5 merikarvialla:6 alokkaat:3 vannovat:3 sotilasvalansa:6
+säkylässä:4 ja:1 niinisalossa:5 astui:2 heinäkuussa:4 palvelukseen:4 pari:2 tuhatta:3 varusmiestä:4
+turun:2 kauppatorin:4 arkeologiset:6 kaivaukset:4 on:1 tarkoitus:3 saada:2 valmiiksi:3 vuoden:2 loppuun:2 mennessä:3
+se:1 täytettiin:3 vaahtolasilla:5
+kaivausten:4 johtaja:3 kari:2 uotila:3 toteaa:3 että:2 toisin:2 kuin:1 katedralskolanin:6 tapauksessa:5 tätä:2 aluetta:4 ei:1 säästetä:3
+meidän:2 jälkeen:2 tässä:2 on:1 vain:1 syvä:2 kuoppa:2 kertoo:2 kaivausten:4 johtaja:3 kari:2 uotila:3
+tässä:2 kohtaa:2 kun:1 tähän:2 tilalle:3 tulee:2 toriparkki:4 niin:1 tämän:2 jälkeen:2 tätä:2 kohdetta:3 ei:1 kyllä:2 enää:2 pysty:2 tutkimaan:3
+1700-luvulta:3 peräisin:3 oleva:3 turun:2 torikatu:4 tuhoutuu:3 pian:2 toriparkin:4 alle:2 meidän:2 jälkeen:2 tässä:2 on:1 vain:1 syvä:2 kuoppa:2 myös:1 esiin:2 kaivetut:3 talojen:3 perustukset:4 tuhoutuvat:4
+katu:2 ja:1 myös:1 esiin:2 kaivetut:3 talojen:3 perustukset:4 tuhoutuvat:4 toriparkin:4 alle:2 tämän:2 viikon:2 jälkeen:2
+nyt:1 on:1 ajateltu:4 että:2 katedralskolanin:6 rauniot:3 katoavat:4 vain:1 meidän:2 sukupolveltamme:6
+turun:2 kauppatorin:4 kaivaukset:4 kesä:2 2018:1 veronica:4 lee:1 ja:1 sesilia:4 niehaus:2 arkeologian:6 opiskelijat:5 turun:2 kauppatorin:4 kaivaukset:4 arkeologisia:7 kaivauksia:5 johtava:3 uotila:3 sanoo:2 yllättyneensä:5 siitä:2 kuinka:2 leveät:3 kadut:2 turun:2 kauppatorin:4 pinnan:2 alta:2 paljastuivat:4
+1700-luvulta:3 peräisin:3 oleva:3 turun:2 torikatu:4 tuhoutuu:3 pian:2 toriparkin:4 alle:2 meidän:2 jälkeen:2 tässä:2 on:1 vain:1 syvä:2 kuoppa:2 vielä:2 tämän:2 viikon:2 ajan:2 voi:1 aivan:2 turun:2 ydinkeskustassa:6 ihailla:3 ilmeisesti:4 1700-luvulla:3 kivettyä:4 katua:3
+myös:1 esiin:2 kaivetut:3 talojen:3 perustukset:4 tuhoutuvat:4
+katu:2 tuhotaan:3 sillä:2 sen:1 tilalle:3 rakentuu:3 toriparkki:4
+ne:1 voidaan:2 kyllä:2 kaivaa:2 sadan:2 tai:1 kahdensadan:4 vuoden:2 päästä:2 uudestaan:3 esille:3
+löytöjä:3 on:1 tuhansia:4 kun:1 kaivaukset:4 saadaan:2 loppuun:2
+kaivaukset:4 alkoivat:3 toukokuun:3 alkupuolella:5
+syksyllä:3 arkeologisten:6 kaivausten:4 kanssa:2 samaan:2 aikaan:2 aloitetaan:4 kauppatorin:4 alle:2 rakennettavan:5 parkkiluolan:4 rakentaminen:5
+katedralskolanin:6 liikuntasalin:5 peruskorjauksessa:7 paljastui:3 1300-luvun:2 turku:2
+turun:2 kauppatorin:4 arkeologisissa:7 kaivauksissa:5 on:1 löydetty:3 talojen:3 kaivojen:3 ja:1 katujen:3 lisäksi:3 runsaasti:3 esineistöä:5
+turun:2 kauppatorin:4 kaivaukset:4 kesä:2 2018:1 kokonaisuudessaan:6 tarvittavat:4 sisäilmakorjaukset:8 tai:1 uudisrakennukset:6 on:1 määrä:2 toteuttaa:4 vuosien:3 20182025:1 välillä:3
+myös:1 suininlahden:4 koulun:2 liikuntasalissa:6 on:1 havaittu:3 sisäilmaongelmia:8
+ne:1 soveltuvat:4 todella:3 hyvin:2 opetukseen:4 tänä:2 päivänä:3
+siellä:2 väistötiloja:5 tarvitaan:3 siihen:2 asti:2 kunnes:2 uusi:2 päiväkoti:4 valmistuu:3 vuoden:2 2022:1 aikana:3
+myös:1 kunnan:2 päiväkodeissa:5 on:1 jouduttu:3 turvautumaan:4 väistötiloihin:5 sisäilmaongelmien:8 vuoksi:2
+me:1 pidämme:3 erittäin:3 tärkeänä:4 sitä:2 että:2 aikataulut:4 pystytään:3 pitämään:3 ja:1 väliajaksi:5 saadaan:2 riittävä:3 määrä:2 turvallisia:5 väistötiloja:5 jokikokko:4 muotoilee:3
+parakeista:4 elementtiluokkiin:6 elementtirakenteiset:8 luokat:2 ovat:2 varsin:2 viihtyisiä:4 valoisia:4 ja:1 toimivia:4
+yhteensä:3 siilinjärven:4 kouluissa:3 opiskelee:4 2 780:1 lasta:2 ja:1 nuorta:2
+esimerkiksi:5 vuorelassa:4 opettajat:4 olivat:3 sitä:2 mieltä:2 että:2 ne:1 vastaavat:3 lähestulkoon:4 rakennettua:5 uutta:2 koulua:3
+siinä:2 mielessä:3 tämä:2 ei:1 ole:2 poikkeuksellista:6 että:2 melkeinpä:3 kunnasta:3 kuin:1 kunnasta:3 löytyy:2 koulu-:2 ja:1 päiväkotikiinteistöjä:8 jotka:2 kärsivät:3 sisäilmaongelmista:8
+juttuun:2 lisätty:3 vielä:2 sisäilmaongelmista:8 kärsiviä:4 kouluja:3 kello:2 840:1 sisäilmaongelmista:8 huolimatta:4 kuuslahden:3 koululla:3 opiskellaan:4 edelleen:3 koska:2 terveystarkastaja:7 on:1 antanut:3 koululle:3 käyttöaikaa:4 vielä:2 vuoden:2
+ongelmia:4 on:1 vuorelan:3 siilinlahden:4 kuuslahden:3 kasurilan:4 ja:1 ahmon:2 kouluissa:3
+myös:1 päiväkodeissa:5 joudutaan:3 turvautumaan:4 väistötiloihin:5 sisäilmaongelmien:8 vuoksi:2
+jokikokon:4 mukaan:2 opettajakuntakin:7 on:1 ollut:2 tyytyväinen:4 väistötiloihin:5
+kengät:2 käytävällä:4
+siilinjärvellä:5 on:1 näitä:2 ehkä:2 määrällisesti:5 enemmän:3 kuin:1 monessa:3 muussa:2 kunnassa:3
+kengät:2 käytävällä:4
+toivalassa:4 puskutraktorit:5 ovat:2 jo:1 jyränneet:3 vanhan:2 päiväkodin:4 maan:1 tasalle:3 ja:1 uusi:2 avautuu:3 ensi:2 vuoden:2 aikana:3 jokikokko:4 kertoo:2
+kunnassa:3 on:1 useita:3 koulu-:2 ja:1 päiväkotikiinteistöjä:8 joissa:2 on:1 vakavia:4 sisäilmaongelmia:8
+suunnitelmien:5 mukaan:2 päivärinteelle:5 rakennetaan:4 yksi:2 iso:2 päiväkoti:4 johon:2 mahtuvat:3 kaikki:2 lapset:2 sisäilmaongelmaisista:9 päiväkodeista:5
+pohjois-siilinjärvellä:6 leppäkaarteen:4 alueella:4 sisäilmaongelmia:8 on:1 ollut:2 useassa:4 päiväkodissa:5
+jokikokon:4 mukaan:2 nykyään:3 väistötilat:4 eivät:2 ole:2 enää:2 parakkeja:4 vaan:1 elementtirakenteisia:9 luokkia:3
+vuorelan:3 uuden:2 koulun:2 pitäisi:3 valmistua:4 viimeistään:3 vuonna:2 2020:1
+ne:1 ovat:2 juuri:2 sitä:2 riskiryhmää:4 joissa:2 sisäilmaongelmia:8 yleensä:3 esiintyy:3
+tällä:2 hetkellä:3 kunnan:2 oppilaista:4 570:1 käy:1 koulua:3 osittain:3 tai:1 kokonaan:3 väistötiloissa:5 ensi:2 kevääseen:3 mennessä:3 luku:2 on:1 noussut:2 840:1 oppilaaseen:4
+riskiryhmän:4 kiinteistöjä:4 paljon:2 ensimmäisenä:5 tilanne:3 korjaantuu:3 kuuslahden:3 kylällä:3 jossa:2 opiskelun:4 uudessa:3 koulussa:3 pitäisi:3 alkaa:2 ensi:2 vuoden:2 syksynä:3
+sivistyslautakunta:7 toivoo:2 että:2 sovitusta:4 aikataulusta:5 pidetään:3 kiinni:2
+joka:2 kolmas:2 koululainen:4 opiskelee:4 pian:2 väistötiloissa:5 siilinjärvellä:5 ne:1 ovat:2 varsin:2 viihtyisiä:4 valoisia:4 ja:1 toimivia:4 siilinjärvellä:5 kolmannes:3 kunnan:2 koululaisista:5 opiskelee:4 ensi:2 kevääseen:3 mennessä:3 väistötiloissa:5
+myös:1 kunnan:2 päiväkodeissa:5 on:1 jouduttu:3 turvautumaan:4 väistötiloihin:5 sisäilmaongelmien:8 vuoksi:2
+siilinjärvellä:5 tämä:2 määrä:2 on:1 tietysti:3 iso:2 ikävä:3 kyllä:2 erittäin:3 monissa:3 koulukiinteistöissä:6 on:1 sisäilmaongelmia:8 pahoittelee:4 siilinjärven:4 kunnan:2 sivistysjohtaja:6 antti:2 jokikokko:4
+jokikokon:4 mukaan:2 sisäilmaongelmien:8 laajuus:2 johtuu:2 siitä:2 että:2 siilinjärvellä:5 on:1 paljon:2 70-:1 ja:1 80-luvuilla:3 rakennettuja:5 päiväkoti-:4 ja:1 koulukiinteistöjä:6
+joka:2 kolmas:2 koululainen:4 opiskelee:4 pian:2 väistötiloissa:5 siilinjärvellä:5 ne:1 ovat:2 varsin:2 viihtyisiä:4 valoisia:4 ja:1 toimivia:4 sietämättömän:5 tilanteen:3 johdosta:3 jyväskylän:4 sosiaalityöntekijät:8 päätyivät:3 esittämään:4 laitapuolen:4 kulkijoille:4 sopivampaa:4 ajanviettokeidasta:7
+tikkakoskella:5 päihdeongelmaiset:6 siivottiin:3 pois:1 silmistä:3 puuhamaahan:4 haastatteluun:4 saadaan:2 lisäksi:3 edustajia:5 päihdeongelmaisten:6 joukosta:3 jotka:2 rehdisti:3 myöntävät:3 aiemman:3 häiriökäytöksen:6
+sosiaalityöntekijä:8 päivi:2 soikkeli-jakoaho:6 kotimaan:3 katsaus:3 kiirehti:3 paikalle:3 raportoimaan:4 juuri:2 parahultaisesti:6 tämän:2 uuden:2 puuhamaan:3 avajaisiin:4
+vain:1 pieni:2 huoli:2 heräsi:3 siitä:2 että:2 uusi:2 paikka:2 oli:2 aiempaa:3 lähempänä:4 kirkkoa:3
+paikalliset:4 alkoholistit:5 siivottiin:3 pois:1 silmistä:3
+eihän:2 päihdeongelmaisten:6 asia:3 ole:2 ratkaistu:3 tällä:2 että:2 he:1 ovat:2 nyt:1 tässä:2
+sietämättömän:5 tilanteen:3 johdosta:3 jyväskylän:4 sosiaalityöntekijät:8 päätyivät:3 esittämään:4 laitapuolen:4 kulkijoille:4 sopivampaa:4 ajanviettokeidasta:7
+paikkakunnan:4 päihdeongelmaisille:7 oli:2 muodostunut:4 tavaksi:3 viettää:2 aikaansa:3 turhan:2 lähellä:3 asuinaluetta:6
+uusi:2 viihtyisämpi:4 ajanviettopaikka:6 oli:2 heidänkin:3 mielestään:3 kerrassaan:3 mainio:3 ajatus:3
+sosiaalityöntekijät:8 kertovat:3 lähteneensä:4 ratkomaan:3 harmillista:4 tilannetta:4 ajatuksella:5 että:2 joukolle:3 löydettäisiin:4 syrjäisempi:4 paikka:2 jossa:2 elämöinti:4 ei:1 häiritsisi:4 kunnon:2 kyläläisiä:5
+jyväskylän:4 tikkakosken:4 puuhamaassa:4 kunnan:2 työntekijät:4 paikallispoliisi:6 ja:1 päihdeongelmaisten:6 edustaja:4 istuvat:3 penkillä:3
+haastatteluiden:5 lisäksi:3 raportissa:4 seurataan:3 yhteistä:3 talkoopäivää:4 jossa:2 rinta:2 rinnan:2 hääräilevät:4 päihdeongelmaiset:6 sosiaalityöntekijät:8 sekä:2 kylän:2 asukkaat:3
+päihdeongelmaiset:6 lupautuivat:4 itse:2 vastaamaan:3 uuden:2 paikkansa:3 siivoamisesta:6 ja:1 huolenpidosta:5
+mutta:2 kokeillaan:3 tällaista:3
+kotimaan:3 katsaus:3 kiirehti:3 paikalle:3 raportoimaan:4 juuri:2 parahultaisesti:6 tämän:2 uuden:2 puuhamaan:3 avajaisiin:4
+tikkakosken:4 kyläläisille:5 ratkaisu:3 pääasiassa:5 kelpasi:3
+läheisen:3 lammen:2 rannalle:3 päätettiin:3 kantaa:2 penkkejä:3 rakentaa:3 tulisija:4 sekä:2 hankkia:3 roskakoreja:5 jotta:2 paikan:2 viihtyvyys:3 olisi:3 myös:1 jatkossa:3 taattu:2
+ajanviettokeidas:6 kastetaan:3 leikkisästi:4 puuhamaaksi:4
+humalaiset:4 pelottivat:4 paikallisia:5 asukkaita:4 metelöinnillään:5 ja:1 huuteluillaan:4
+jyväskylän:4 tikkakoskella:5 koettiin:3 vuonna:2 1997:1 pelkoa:3 ja:1 inhoa:3
+vastaavia:4 kokeiluja:4 oli:2 sosiaalityöntekijöiden:9 mukaan:2 tehty:2 onnistuneesti:5 ainakin:3 vaasassa:3 ja:1 tampereen:3 hervannassa:4
+päivä:2 päättyy:2 perinteisiin:4 harjannostajaisiin:6 joihin:2 poliisimies:4 savolainen:4 pulitti:3 tarjoilut:3 omasta:3 pussistaan:3
+paikkakunnan:4 päihdeongelmaisille:7 oli:2 muodostunut:4 tavaksi:3 viettää:2 aikaansa:3 turhan:2 lähellä:3 asuinaluetta:6
+tikkakoskella:5 päihdeongelmaiset:6 siivottiin:3 pois:1 silmistä:3 puuhamaahan:4 jyväskylän:4 tikkakoskella:5 koettiin:3 vuonna:2 1997:1 pelkoa:3 ja:1 inhoa:3
+raportissa:4 aluepoliisi:6 erkki:2 savolainen:4 kuvailee:3 pahennusta:4 herättänyttä:5 käytöstä:3 astetta:3 kevyemmin:4 mutta:2 myöntää:2 ettei:2 esimerkiksi:5 keskellä:3 kylää:2 tapahtunut:4 rakastelu:4 ollut:2 täysin:2 hyväksyttävää:5 käytöstä:3
+kirjat:2 kirjastoa:4 pääsee:2 käyttämään:3 päivittäin:3 omatoimisesti:6 syyskuussa:3
+aineistoltaan:4 lapsiin:2 ja:1 nuoriin:2 painottuva:4 kirjasto:3 on:1 aluksi:3 avoinna:3 torstaisin:3 neljän:2 tunnin:2 ajan:2
+sinetän:3 kirjastoa:4 pääsee:2 käyttämään:3 päivittäin:3 omatoimisesti:6 syyskuun:2 alkupuolella:5 kun:1 omatoimikirjaston:7 vaatimat:3 asennustyöt:4 ovat:2 valmiita:3
+vuosia:3 suljettuna:4 ollut:2 kirjasto:3 aukeaa:3 sinetässä:4 vuosia:3 suljettuna:4 ollut:2 kirjasto:3 aukeaa:3 sinetässä:4 kirjastoa:4 pääsee:2 käyttämään:3 päivittäin:3 omatoimisesti:6 syyskuussa:3
+kirjasto:3 sijaitsee:3 ounasjoen:4 monitoimitalossa:7 peruskoulun:4 äidinkielen:4 luokan:2 perällä:3
+rovaniemen:4 sinetän:3 kirjasto:3 avataan:3 uusissa:3 tiloissa:3 torstaina:3
+useamman:4 vuoden:2 suljettuna:4 olleen:2 kirjaston:3 tilalla:3 on:1 palvellut:3 kirjastoauto:5
+kirjat:2 vatsavaivat:4 haittasivat:4 serbialaisen:5 djokovicin:4 peliä:3 ottelun:3 alussa:3
+djokovic:3 sairastui:3 edellisyönä:5 vatsatautiin:4 ja:1 joutui:2 turvautumaan:4 lääkärin:3 apuun:2 ottelun:3 aikana:3
+vatsavaivat:4 haittasivat:4 novak:2 djokovicin:4 peliä:3 ottelun:3 alussa:3
+novak:2 djokovic:3 lyö:1 palloa:3
+lonkkaleikkauksesta:7 vertyvälle:4 murraylle:3 tappio:3 avauskierroksella:7 cincinnation:5 naisten:2 turnauksen:4 viime:2 vuonna:2 voittanut:3 garbine:3 muguruza:4 pullahti:3 tällä:2 kertaa:2 turnauksesta:5 jo:1 toisella:3 kierroksella:4
+djokovic:3 ei:1 ole:2 urallaan:3 voittanut:3 cincinnatin:4 turnausta:4
+muguruza:4 oli:2 sijoitettu:4 turnauksessa:5 seitsemänneksi:5
+novak:2 djokovic:3
+novak:2 djokovic:3 lyö:1 palloa:3
+yö:1 oli:2 jo:1 hankala:3 enkä:2 voinut:2 kovin:2 hyvin:2 ottelun:3 alussa:3 djokovic:3 kertoi:2
+ukrainan:3 lesia:3 tsurenko:3 kukisti:3 espanjalaisen:5 muguruzan:4 26:1 64:1 64:1
+hän:1 hävisi:3 ensimmäisen:4 erän:2 ranskalaiselle:5 vastustajalleen:5 46:1 mutta:2 voitti:2 seuraavat:3 62:1 61:1
+novak:2 djokovicilla:5 oli:2 ylimääräistä:5 ongelmaa:3 cincinnatin:4 tennisturnauksen:6 toisen:2 kierroksen:3 ottelussa:4 adrian:3 mannarinoa:5 vastaan:2 keskiviikkona:5
+mannarino:4 aloitti:3 pelin:2 hyvin:2 mutta:2 samalla:3 täytyy:2 sanoa:3 etten:2 alussa:3 kyennyt:3 pelaamaan:3 tasollani:4
+toisen:2 erän:2 aikana:3 oloni:3 alkoi:2 kohentua:4 ja:1 onneksi:3 selvisin:3 kunnialla:4 hankalasta:4 tilanteesta:4
+djokovic:3 selätti:3 vatsavaivat:4 ja:1 mannarinon:4 yö:1 oli:2 jo:1 hankala:3 lue:2 myös:1 djokovic:3 selätti:3 vatsavaivat:4 ja:1 mannarinon:4 yö:1 oli:2 jo:1 hankala:3 novak:2 djokovic:3
+vatsavaivat:4 haittasivat:4 novak:2 djokovicin:4 peliä:3 ottelun:3 alussa:3
+svtn:1 aho:2 sanoo:2 että:2 ajoneuvon:4 käyttöarvo:4 ja:1 tunnearvo:4 ovat:2 omistajalleen:5 usein:2 suurempia:4 kuin:1 käypä:2 arvo:2
+ajoneuvon:4 käypä:2 arvo:2 määritellään:4 ajoneuvokohtaisesti:8 tilastojen:4 ja:1 myynti-ilmoitusten:5 avulla:3
+svtn:1 toimitusjohtaja:6 janne:2 ahon:2 mukaan:2 asiakasneuvottelut:8 auton:2 lunastamisesta:6 käydään:2 yleensä:3 hyvässä:3 hengessä:3
+nämä:2 cabassit:3 ovat:2 vakuutusyhtiön:6 käytössä:3
+näitä:2 tarkastajia:5 on:1 vakuutusyhtiöillä:7 itsellään:3 mutta:2 yhtiöillä:4 on:1 yleensä:3 myös:1 sopimus:3 esimerkiksi:5 vahinkotarkastuksia:8 tekevän:3 suomen:2 vahinkotarkastus:6 svtn:1 kanssa:2
+htt-tavarantarkastajien:8 toimintaa:3 valvoo:2 keskuskauppakamari:7
+kustannusarviota:7 tehdessä:3 vakuutusyhtiön:6 täytyy:2 tietää:2 kaikenlaista:4 korjausmenetelmistä:8 varaosavalinnoista:8 ja:1 korjaamon:3 veloitusperiaatteista:8
+vakuutusyhtiö:6 vastaa:2 kuluista:3 jotka:2 tyypillisessä:5 käyvän:2 arvon:2 määrittelyssä:5 ovat:2 työmäärästä:4 riippuen:3 5001:1 000:1 euroa:3
+autoja:3 tarkastelussa:5 näytelaatikossa:6
+automatisoinnista:7 huolimatta:4 itse:2 vahinkotarkastaja:7 on:1 inhimillinen:5 tekijä:3
+cabas-järjestelmää:5 korjaamoihin:4 toimittavan:4 cab:1 groupin:2 vt:1
+maajohtaja:4 johanna:3 martolan:3 mukaan:2 automatisointi:6 nopeuttaa:4 kustannusten:4 laskemista:4 valtavasti:4
+peli:2 on:1 avointa:3
+kolari:3 tuli:2 auto:2 meni:2 miksi:2 auto:2 lunastetaan:4 joskus:2 pieneltä:3 kuulostavan:4 vian:2 takia:3
+ja:1 todella:3 harvoin:2 sattuu:2 tilanteita:4 joissa:2 riitaannutaan:4
+kun:1 vakuutusyhtiö:6 maksaa:2 sillä:2 ei:1 ole:2 väliä:3 onko:2 auto:2 omistajalleen:5 tärkeä:3 tai:1 rakas:2
+jos:1 tilanne:3 käy:1 mutkikkaaksi:4 eikä:2 vakuutusyhtiön:6 oma:2 tai:1 vaikkapa:3 svtn:1 tarkastaja:4 saa:1 kaikkia:3 tyydyttävää:4 ratkaisua:4 aikaiseksi:4 saattaa:2 vakuutusyhtiö:6 pyytää:2 paikalle:3 autoinsinööri:6 kai:1 kniivilän:3
+kaikki:2 se:1 maksaa:2
+supliikkimiestä:5 tarvitaan:3 tai:1 asiakas:4 lähtee:2 lätkimään:3 juttua:3 täydennetty:4 16.8:2 klo:1 900:1 lisätty:3 lunastettavien:6 autojen:3 vuosittainen:4 määrä:2 sekä:2 tietoa:3 lunastettujen:5 autojen:3 jäännösarvosta:5
+sitten:2 kustannuksia:5 verrataan:3 käypään:2 arvoon:2 tarkkaa:2 tilastointia:5 lunastuksista:5 ei:1 tehdä:2
+jos:1 vakuutusyhtiö:6 lunastaa:3 ajoneuvon:4 esimerkiksi:5 10 000:1 eurolla:3 saa:1 se:1 rikkinäisestä:5 autosta:3 vielä:2 keskimäärin:4 kolmisen:3 tonnia:3
+hyvä:2 vahinkotarkastaja:7 on:1 sellainen:3 joka:2 hallitsee:3 myös:1 puhumisen:4 ja:1 perustelemisen:6
+osa:2 autojen:3 omistajista:5 odottaa:3 vieläkin:3 päätöstä:3 tietämättömänä:6 mitä:2 autolla:3 aiotaan:3 tehdä:2
+se:1 ei:1 myöskään:2 ole:2 autoliikkeiden:5 pyyntihintojen:5 maksimihinta:5 eikä:2 edes:2 myynnissä:3 olevien:4 vastaavien:4 autojen:3 keskihinta:4
+kun:1 vakuutusyhtiö:6 maksaa:2 sillä:2 ei:1 ole:2 väliä:3 onko:2 auto:2 omistajalleen:5 tärkeä:3 tai:1 rakas:2
+tätä:2 tehdään:2 tasa-arvoisesti:5 riippumatta:4 siitä:2 kuka:2 asiakas:4 on:1
+korjaamossa:4 rikkinäisen:4 auton:2 tiedot:2 naputellaan:4 cabas-järjestelmään:5
+kai:1 kniivilä:3 sanoo:2 että:2 yleensä:3 auton:2 omistajan:4 paha:2 olo:2 kohdistuu:3 vakuutusyhtiöön:6 ja:1 hän:1 saa:1 tehdä:2 työnsä:2 ilman:2 haukkuja:3 tai:1 uhkauksia:5
+käypä:2 arvo:2 ei:1 siis:1 ole:2 rahamäärä:4 jolla:2 autoliike:4 ostaisi:3 auton:2
+joskus:2 riippumatonta:5 htt-tavarantarkastajaa:7 saattaa:2 tilannetta:4 laukaisemaan:4 ehdottaa:3 myös:1 auton:2 omistaja:4
+vanhan:2 sanonnan:3 mukaan:2 jokaisella:4 autolla:3 ajetaan:3 joskus:2 kolari:3
+käypää:2 arvoa:3 mietittäessä:5 pyritään:3 huomioimaan:4 kaikki:2 mikä:2 voisi:2 vaikuttaa:3 auton:2 arvoon:2
+nykyään:3 lunastettavien:6 autojen:3 hinnoittelua:5 helpottaa:3 että:2 autojen:3 pyyntihinnat:4 ovat:2 netissä:3 kaikkien:3 nähtävillä:4
+mitä:2 vahinkotarkastaja:7 autosta:3 etsii:2
+olen:2 sitten:2 sanonut:3 että:2 nyt:1 katsotaan:3 tätä:2 autoa:3 ja:1 mikäli:3 ette:2 rauhoitu:3 niin:1 palataan:3 asiaan:3 viikon:2 päästä:2
+lunastusneuvottelu:7 on:1 herkkä:2 hetki:2 sillä:2 auton:2 omistaja:4 muistaa:2 taatusti:3 kaiken:2 sanotun:3 ja:1 sanomatta:4 jätetyn:3
+erot:2 yhtiöiden:4 vakuutusehtojen:6 välillä:3 voivat:2 olla:2 suuriakin:4
+kniivilä:3 on:1 yksi:2 hyväksytyistä:5 tavarantarkastajista:8
+suomessa:3 pakollisesta:5 liikennevakuutuksesta:8 lunastetaan:4 noin:1 7 000:1 ajoneuvoa:5 vuodessa:3
+kun:1 autoon:2 tehdään:2 korjaamokielellä:6 cabassit:3 saadaan:2 korjauksista:5 sähköinen:3 kustannuslaskelma:6
+mutta:2 mikä:2 se:1 on:1
+mutta:2 välillä:3 riidellään:3
+tavarantarkastaja:7 on:1 asiantuntija:6 jolta:2 odotetaan:4 enemmän:3 kuin:1 normaalilta:4 asiantuntijalta:7
+mitä:2 vahinkotarkastaja:7 autosta:3 etsii:2
+kolari:3 tuli:2 auto:2 meni:2 miksi:2 auto:2 lunastetaan:4 joskus:2 pieneltä:3 kuulostavan:4 vian:2 takia:3
+kolarihan:4 ei:1 tee:1 autosta:3 vakuutusyhtiölle:7 arvotonta:4 vaan:1 siitä:2 saa:1 vielä:2 rahaa:2
+a-katsastus:3 -konserniin:3 kuuluvan:3 svtn:1 toimitusjohtaja:6 janne:2 aho:2 muistuttaa:3 että:2 ajoneuvon:4 käypä:2 arvo:2 on:1 käteishinta:4 jonka:2 omistaja:4 saisi:2 ehjästä:3 autostaan:3 myymällä:3 sen:1 suoralla:3 käteiskaupalla:5 toiselle:3 yksityishenkilölle:7
+väliä:3 on:1 auton:2 käyvällä:3 arvolla:3
+esimerkiksi:5 hartolan:3 heinäkuisen:4 salamaniskun:5 lamaannuttamista:6 11:1 autosta:3 muutama:3 on:1 lunastettu:4 auton:2 kaskovakuutuksen:6 törmäysvakuutuksesta:8
+laskelma:3 on:1 tarkka:2 ja:1 sisältää:3 myös:1 valokuvia:5
+vapaaehtoiset:5 kaskovakuutukset:6 mukaan:2 lukien:3 määrän:2 arvioidaan:4 olevan:3 noin:1 24:1 000:1
+vahinkotarkastaja:7 käyttää:2 siis:1 ajoneuvon:4 käyvän:2 arvon:2 määrittämiseksi:6 arvonmäärityslaskureita:9
+sellainen:3 on:1 lähes:2 kaikilla:3 vauriokorjauksia:7 tekevillä:4 firmoilla:3
+lunastustilanteessa:7 ei:1 koskaan:2 pidä:2 riitaantua:4
+kolari:3 tai:1 jokin:2 muu:1 autoa:3 kohtaava:3 mullistus:3 voi:1 olla:2 niin:1 raju:2 että:2 vakuutusyhtiö:6 lunastaa:3 vioittuneen:4 auton:2
+mutta:2 vakuutusyhtiön:6 on:1 tietysti:3 ensin:2 päätettävä:4 korjataanko:4 vai:1 lunastetaanko:5
+ennen:2 kuin:1 lunastusneuvotteluihin:8 edes:2 päästään:2 alkaa:2 kolarin:3 korvauskäsittely:7 vahinkoilmoituksen:7 jälkeen:2 ensin:2 selvityksellä:5 millainen:3 vakuutus:3 ajoneuvossa:5 on:1 tai:1 kuka:2 vahingon:3 korvaa:2
+autoja:3 tarkastelussa:5 näytelaatikossa:6
+järjestelmästä:5 löytyy:2 varaosatietoja:7 varaosahintoja:7 ja:1 tietoa:3 kuinka:2 paljon:2 keskimäärin:4 korjaus:3 vie:1 aikaa:2
+vakuutusyhtiölle:7 se:1 on:1 arvokasta:4 tietoa:3
+valehdella:4 ei:1 tietenkään:3 kannata:3 sillä:2 pyörät:2 tullaan:2 todennäköisesti:6 hakemaan:3 pois:1
+samasta:3 autosta:3 ei:1 kaksi:2 eri:2 tarkastajaa:4 koskaan:2 saa:1 laskettua:4 eurolleen:3 samaa:2 käypää:2 hintaa:2
+toki:2 se:1 tarkoittaa:3 että:2 asiakkaat:4 siirtyvät:3 ristiin:2
+väliä:3 on:1 auton:2 käyvällä:3 arvolla:3
+mitään:2 tiettyä:3 koulutustaustaa:6 ei:1 tarvita:3 mutta:2 yleensä:3 tarkastajat:4 ovat:2 jollakin:3 tavalla:3 olleet:2 korjauksien:5 kanssa:2 aiemminkin:4 tekemisissä:5
+lunastusneuvottelut:7 käydään:2 yleensä:3 niin:1 että:2 vahinkotarkastaja:7 soittaa:2 auton:2 omistajalle:5 ja:1 ehdottaa:3 lunastuksen:4 hinnaksi:3 summaa:2 jota:2 kutsutaan:3 käyväksi:3 arvoksi:3
+uusien:3 autojen:3 kohdalla:3 vakuutusyhtiö:6 saattaa:2 saada:2 jopa:2 60:1 prosenttia:4 lunastushinnasta:6 myymällä:3 auton:2 edelleen:3
+suututettu:4 asiakas:4 vaihtaa:2 herkästi:3 vakuutusyhtiötä:7
+asiat:3 saattavat:3 henkilöityä:5 niihin:2 en:1 ota:2 kantaa:2
+mutta:2 mikä:2 se:1 on:1
+moni:2 autoilija:4 toivookin:3 että:2 auto:2 menisi:3 kolarin:3 jäjiltä:3 lunastukseen:4
+mikäli:3 ette:2 rauhoitu:3 niin:1 palataan:3 asiaan:3 viikon:2 päästä:2 kun:1 korjauksen:4 kustannusarvio:6 ja:1 käypä:2 arvo:2 ovat:2 selvillä:3 alkaa:2 vakuutusyhtiötä:7 kiinnostava:4 ajoneuvon:4 jäännösarvon:4 määritys:3
+usein:2 vielä:2 lunastusneuvottelussa:8 auton:2 omistaja:4 voi:1 saada:2 hilattua:4 lunastushintaa:5 ylöspäin:3 kertomalla:4 esimerkiksi:5 että:2 varastossa:4 talvea:3 odottavat:4 upouudet:4 ja:1 vielä:2 ajamattomat:5 talvirenkaat:4 alumiinivanteilla:7
+asiakkaat:4 eivät:2 aina:2 tunne:2 vakuutusehtojaan:6
+vaikeaa:3 tulkinta:3 on:1 välillä:3 vakuutusyhtiöillekin:8
+mutta:2 kuumana:3 on:1 välillä:3 käyty:2
+sen:1 minkä:2 muualle:3 menettää:3 saa:1 toisista:3 yhtiöistä:4 yleensä:3 takaisin:3
+joskus:2 autoa:3 täytyy:2 purkaa:2 tai:1 suorittaa:3 mittauksia:5 vaurioanalyysin:7 tekemiseksi:5
+vauriokorjaamossa:7 autolle:3 tehdään:2 cabassit:3 häneltä:3 edellytetään:5 suurempaa:3 huolellisuutta:5 kniivilä:3 sanoo:2
+siinä:2 käytetään:3 eri:2 palveluiden:4 käyvän:2 arvon:2 määritysohjelmia:7 vertaillaan:3 markkinoilla:4 olevien:4 autojen:3 pyyntihintoja:5 ja:1 huomioidaan:4 ajoneuvon:4 kunto:2 ajomäärä:4 ja:1 varustetaso:5
+fernando:3 alonso:3 juhlii:2 le:1 mansin:2 voittoa:3
+hän:1 on:1 omalla:3 tavallaan:3 pikkaisen:3 ristiriitainen:5 ja:1 hyvinkin:3 oman:2 arvonsa:3 tunteva:3 kaveri:3 mildh:1 painottaa:3
+alonso:3 on:1 yksi:2 kaikkien:3 aikojen:3 f1-tähdistä:3
+alonson:3 todennäköinen:5 poistuminen:4 f1-sarjasta:3 on:1 mildin:2 mukaan:2 valtava:3 menetys:3 koko:2 lajille:3
+muun:1 muassa:3 red:1 bullin:2 f1-päällikkö:3 christian:3 horner:2 totesi:3 viime:2 viikolla:3 että:2 alonsolla:4 on:1 tapana:3 luoda:2 kaaosta:3 joka:2 paikassa:3
+viimeiseksi:4 palkintosijoituksesi:8 f1-uralla:3 jäänee:2 vuoden:2 2014:1 unkarin:3 kisan:2 kakkossija:4
+pitää:2 olla:2 itsekäs:3 mutta:2 tuli:2 mieleen:2 oliko:3 alonso:3 liian:2 itsekäs:3
+schumi:2 pystyi:2 tekemään:3 systemaattisesti:6 töitä:2 mestaruuksiin:4 vaikka:2 hänellä:3 oli:2 erittäin:3 vahva:2 poliittinen:4 asema:3
+17-vuotisen:3 uran:2 aikana:3 ohi:2 menivät:3 niin:1 lewis:2 hamilton:3 kuin:1 sebastian:4 vettelkin:3
+viimeinen:3 tikki:2 oli:2 siirtyä:3 kaudeksi:3 2015:1 mclarenille:4
+kun:1 alonso:3 pärjäsi:3 niin:1 hän:1 teki:2 briatoren:4 kanssa:2 hommia:3
+fernando:3 alonso:3 alonso:3 palasi:3 renaultille:5 ja:1 sen:1 jälkeen:2 korvasi:3 räikkösen:3 ferrarilla:4 kaudelle:3 2010:1
+tässä:2 tuleekin:3 ero:2 schumacheriin:4
+muissa:2 tilanteissa:4 alonso:3 oli:2 poliittisesti:5 ristiriitainen:5 persoona:3
+briatore:4 menetti:3 jupakassa:4 oikeutensa:4 toimia:3 fian:2 sarjoissa:3
+fernando:3 alonso:3 yle:2 urheilun:3 f1-asiantuntija:6 jukka:2 mildhin:2 mukaan:2 fernando:3 alonson:3 luonteenpiirteet:4 estivät:3 nousun:2 michael:3 schumacherin:4 ja:1 muiden:2 suurimpien:4 tähtien:3 joukkoon:2
+renaultin:4 mestaruusvuosien:6 jälkeen:2 temperamenttinen:6 espanjalainen:5 siirtyi:2 mclarenin:3 rattiin:2
+nyt:1 se:1 varmistui:3 kaksinkertainen:5 maailmanmestari:6 fernando:3 alonso:3 jättää:2 f1-sarjan:2 aika:2 siirtyä:3 eteenpäin:3 alonso:3 onkin:2 ajanut:3 viime:2 vuodet:2 pelkistä:3 jäännöspisteistä:5
+fernando:3 alonso:3 toisaalta:3 poikkeuksellinen:5 luonne:2 oli:2 myös:1 riippakivi:4
+fernando:3 alonso:3 mestari:3 renaultlla:4 2005:1 mutta:2 mestaruudet:4 jäivät:2 koska:2 italialaistallin:7 auto:2 oli:2 kaukana:3 parhaista:3 vuosistaan:3
+f1-tarvitsee:3 tähtiä:3
+hän:1 oli:2 liian:2 toiveikas:3 että:2 pystyy:2 rakentamaan:4 tallin:2 kukoistukseen:4
+nuoria:3 kuljettajia:5 sauberin:3 charles:2 leclercistä:4 lähtien:3 on:1 tyrkyllä:3 koko:2 ajan:2 enemmän:3 huipputalleihin:5
+alonso:3 jatkanee:3 seuraavaksi:4 moottoriurheilu-uraansa:8 amerikkalaisessa:7 indycar-sarjassa:5
+17-vuotisen:3 uran:2 aikana:3 ohi:2 menivät:3 niin:1 lewis:2 hamilton:3 kuin:1 sebastian:4 vettelkin:3
+mildh:1 spekuloikin:4 että:2 alonso:3 ei:1 ole:2 ollut:2 tarpeeksi:3 pitkäjänteinen:5
+espanjalainen:5 jätti:2 kuitenkin:3 tiedotteessa:4 vielä:2 oven:2 auki:2 mahdolliselle:5 paluulle:3 f1-sarjaa:2 mikäli:3 mclarenin:3 menestysmahdollisuudet:8 paranevat:4
+päätöksiä:4 liian:2 suurella:3 tunteella:3 kohti:2 kovaa:2 triplaa:2 37-vuotias:3 espanjalainen:5 kertoi:2 tallinsa:3 mclarenin:3 tiedotteessa:4 että:2 on:1 aika:2 siirtyä:3 eteenpäin:3
+alonsolla:4 oli:2 mahdollisuuksia:6 vaikuttaa:3 päätöksiin:3
+alonso:3 oli:2 vielä:2 yksi:2 sellainen:3
+yle:2 urheilun:3 f1-asiantuntija:6 jukka:2 mildhin:2 mukaan:2 fernando:3 alonson:3 luonteenpiirteet:4 estivät:3 nousun:2 michael:3 schumacherin:4 ja:1 muiden:2 suurimpien:4 tähtien:3 joukkoon:2
+f1:1 on:1 todella:3 raju:2 laji:2
+kaikki:2 asiat:3 loksahtivat:4 kohdalleen:3
+esimerkiksi:5 ferrarilla:4 paikka:2 suurempien:4 joukkoon:2 olisi:3 saattanut:3 aueta:3 jos:1 hän:1 olisi:3 malttanut:3 odottaa:3 italialaistallin:7 suvantovaiheen:5 ohi:2
+lue:2 lisää:2 mclaren:2 oli:2 iso:2 floppi:2 jos:1 ajattelee:4 alonson:3 osaamista:4 ja:1 taitoja:3
+mildhin:2 mukaan:2 se:1 ei:1 ole:2 lainkaan:2 ihme:2
+kaksinkertainen:5 f1-mestari:3 fernando:3 alonso:3 ilmoitti:3 tiistaina:3 että:2 hän:1 jättää:2 f1-sarjan:2 toistaiseksi:4 tämän:2 kauden:2 jälkeen:2
+hän:1 pysäytti:4 kaikkien:3 aikojen:3 kovimman:3 f1-kuljettajan:4 michael:3 schumacherin:4 viiden:2 mestaruuden:4 putken:2
+alonsolla:4 on:1 taskussaan:3 f1-uraltaan:3 jo:1 monacon:3 gpn:1 voitto:2 sekä:2 aiemmin:3 tältä:2 vuodelta:3 toyotan:3 ratista:3 le:1 mansin:2 24:1 tunnin:2 kisan:2 mestaruus:3
+alonsosta:4 tuli:2 aikanaan:3 kaikkien:3 aikojen:3 nuorin:2 f1-mestari:3 kun:1 hän:1 voitti:2 24-vuotiaana:4 renaultlla:4 sarjan:2 kaudella:3 2005:1
+alonso:3 ei:1 ole:2 seitsemänkertaisen:6 mestarin:3 schumacherin:4 tai:1 nelinkertaisten:5 mestarien:4 hamiltonin:4 ja:1 vettelin:3 kaltainen:3 mildh:1 pohtii:2
+siitä:2 kertovat:3 esimerkiksi:5 f1-sarjan:2 omistaja:4 liberty:3 median:3 eleet:2
+yksi:2 kaikkien:3 aikojen:3 f1-tähdistä:3 jätti:2 sarjan:2 poikkeusluonteesta:6 piti:2 tulla:2 uusi:2 michael:3 schumacher:3 mutta:2 väärät:2 valinnat:3 pudottivat:4 pohjalle:3 poliittisesti:5 ristiriitainen:5 persoona:3 toimitusjohtaja:6 chase:2 careyn:3 johdolla:3 liberty:3 yritti:3 houkutella:4 alonsoa:4 jäämään:2 sarjaan:2
+alonso:3 taisteli:3 ferrarin:3 ratissa:3 kolme:2 kertaa:2 mm-sarjan:2 kakkoseksi:4
+hänellä:3 ei:1 ollut:2 täydellistä:4 tukea:3 mildh:1 totesi:3
+se:1 oli:2 epäonnistunut:6 siirto:2
+se:1 kukoistus:3 päättyi:2 kuitenkin:3 kun:1 briatore:4 oli:2 ohjeistanut:4 renaultn:3 toista:2 tallin:2 kuljettajaa:4 nelson:2 piqeuet:3 junioria:5 kolaroimaan:4 jotta:2 alonson:3 asemat:3 singaporen:4 gpssä:1 2008:1 paranisvat:4
+taustalla:3 olivat:3 lukuisat:3 heikot:2 tallivalinnat:5
+schumacher:3 oli:2 mukana:3 ylimmässä:4 päättäjäporukassa:7 mutta:2 alonso:3 ei:1 siinä:2 onnistunut:4 luonteenpiirteidensä:6 takia:3
+fernando:3 alonso:3 flavio:3 briatore:4 alonson:3 f1-uran:2 jatko:2 näyttää:2 kuitenkin:3 vaikealta:4
+mildhin:2 mukaan:2 alonsolla:4 toimi:2 kaikki:2 hyvin:2 kun:1 espanjalainen:5 sai:1 toimia:3 esimerkiksi:5 renaultlla:4 yhdessä:3 flavio:3 briatoren:4 kanssa:2
+fernando:3 alonso:3 flavio:3 briatore:4 häneltä:3 puuttuu:2 moottoriurheilun:6 triplasta:3 enää:2 indy500-kisan:3 voitto:2
+hänessä:3 on:1 omaa:2 karismaa:3
+fernando:3 alonso:3 f1-sarjan:2 omistaja:4 maanitteli:4 kaksinkertaista:5 mestaria:4 jatkamaan:3 alonso:3 jätti:2 oven:2 auki:2 häkkisen:3 tapaan:2 f1-sarjassa:3 pitää:2 toimia:3 tiimien:3 sisällä:3
+mutta:2 kello:2 tikittää:3 alonsolle:4 nuoria:3 vastaan:2 mildh:1 sanoo:2
+yksi:2 kaikkien:3 aikojen:3 f1-tähdistä:3 jätti:2 sarjan:2 poikkeusluonteesta:6 piti:2 tulla:2 uusi:2 michael:3 schumacher:3 mutta:2 väärät:2 valinnat:3 pudottivat:4 pohjalle:3 poliittisesti:5 ristiriitainen:5 persoona:3 alonso:3 teki:2 kenties:3 päätöksiä:4 liian:2 suurella:3 tunteella:3
+menestys:3 jäi:1 todella:3 kaukaiseksi:4 haaveeksi:3
+kaudesta:3 tuli:2 kuitenkin:3 katastrofi:4 kun:1 temperamenttinen:6 alonso:3 ja:1 lewis:2 hamilton:3 nahistelivat:5 läpi:2 kauden:2
+aina:2 parempi:3 jättää:2 sellainen:3 fiilis:2 että:2 olen:2 tarvittessa:4 valmis:2
+esimerkiksi:5 odotukset:4 ja:1 oletukset:4 tallin:2 viemisestä:4 eteenpäin:3 eivät:2 usein:2 kohdanneet:3 alonson:3 kohdalla:3
+alonsosta:4 pitikin:3 tulla:2 seuraava:3 dominoiva:4 supertähti:4 mutta:2 saavutukset:4 jäivät:2 vain:1 kahteen:2 mestaruuteen:4
+myöhemmin:3 sebastian:4 vettel:2 ja:1 lewis:2 hamilton:3 ottivat:3 mestaruudet:4 vielä:2 espanjalaista:5 nuorempina:4
+fernando:3 alonso:3 juhlii:2 le:1 mansin:2 voittoa:3
+ferrarin:3 kimi:2 räikkönen:3 vei:1 kaksikon:3 edestä:3 mestaruuden:4
+hän:1 oli:2 vielä:2 myös:1 yksi:2 valtavirrasta:5 poikenneista:4 luonteista:3
+fernando:3 on:1 hakannut:3 päätään:2 jo:1 pitkällä:3 aikavälillä:5 tallipäätösten:5 kanssa:2 yle:2 urheilun:3 f1-asiantuntija:6 jukka:2 mildh:1 miettii:2 alonson:3 päätöksestä:4
+markkinointi:4 ja:1 ympäristötietoisuus:7 ovat:2 tuoneet:2 kuukupille:4 näkyvyyttä:4 raivostuttavan:5 runsaat:2 kuukautiset:4 saa:1 kuriin:2 kohdun:2 limakalvon:4 lämpöhoidolla:5 helppous:3 ja:1 ekologisuus:5 ovat:2 saaneet:2 naiset:2 hurahtamaan:4 kuukautiskuppiin:5 kuukuppia:4 käyttäessä:4 kuukautiset:4 voi:1 välillä:3 unohtaa:3 ei:1 siis:1 ihme:2 että:2 monet:2 naiset:2 vannovat:3 sen:1 nimeen:2 niin:1 keskustelupalstoilla:7 blogeissa:3 kuin:1 kahvipöytäkeskusteluissa:9
+kuukuppi:3 voi:1 olla:2 paikoillaan:3 jopa:2 12:1 tuntia:3 mikä:2 tekee:2 siitä:2 monen:2 mielestä:3 käytännöllisen:5
+kuvitus:3 kuukupeista:4 myös:1 valmistajia:5 on:1 entistä:3 enemmän:3
+olen:2 vastaanotollani:6 huomannut:3 selvästi:3 kasvavaa:3 kiinnostusta:4 kuukuppia:4 kohtaan:2
+söpö:2 kapistus:3 ja:1 yhä:2 useammalle:5 naiselle:3 tuttu:2 tuote:2
+mikään:2 uusi:2 keksintö:3 kuukuppi:3 ei:1 ole:2 sillä:2 sen:1 toimintamekanismi:7 kehitettiin:4 jo:1 1930-luvulla:3
+kertakäyttöiset:5 tamponit:3 ja:1 siteet:2 aiheuttavat:5 pidemmän:3 päälle:2 paljon:2 jätettä:3 kun:1 taas:1 yksi:2 kuukuppi:3 voi:1 kestää:2 oikein:2 käytettynä:4 jopa:2 kymmenen:3 vuotta:2
+kuukupin:3 asettaminen:5 emättimeen:4 voi:1 tuntua:3 aluksi:3 ahdistavalta:5 ajatukselta:5
+kustannukset:4 eivät:2 varsinaisesti:5 vaikuttaneet:4 päätökseeni:4 ostaa:2 kuukuppi:3 mutta:2 onhan:2 se:1 selvää:2 että:2 tämä:2 on:1 myös:1 taloudellisesti:6 paras:2 vaihtoehto:4 lämpsä:2 pohtii:2
+kun:1 tamponi:3 täyttyy:2 hetkessä:3 ja:1 loma:2 pitää:2 suunnitella:4 kuukautisten:4 mukaan:2 runsaaseen:3 vuotoon:2 kannattaa:3 hakea:3 apua:3 joskus:2 aamulla:3 on:1 ollut:2 hankaluuksia:5 saada:2 kuppi:2 tyhjennettyä:5 mutta:2 pienen:2 hengittelyn:4 ja:1 aikalisän:4 jälkeen:2 painovoima:4 on:1 hoitanut:3 tehtävänsä:4 ja:1 kuppi:2 on:1 ollut:2 taas:1 helppo:2 tyhjentää:3 lämpsä:2 kertoo:2
+kuukupin:3 käyttö:2 voi:1 aluksi:3 jännittää:3 toiset:2 ovat:2 rohkeampia:5 kokeilemaan:4 emättimen:4 sisäistä:3 kuukautissuojaa:5 toisien:3 mielestä:3 ajatus:3 voi:1 tuntua:3 epämukavalta:6
+lisäksi:3 monet:2 kuukupin:3 käyttäjät:3 hehkuttavat:4 kuukuppia:4 vaivattomana:5 kuukautissuojana:6
+mukavuus:3 on:1 monelle:3 ykkösprioriteetti:7 kuusiston:3 mukaan:2 oikein:2 asetetun:4 kuukupin:3 ei:1 pitäisi:3 tuntua:3 lainkaan:2
+kun:1 kuukuppi:3 on:1 paikoillaan:3 voin:1 käytännössä:4 usein:2 unohtaa:3 koko:2 kuukautiset:4 tyhjennysten:4 välillä:3 lämpsä:2 jatkaa:2
+yksi:2 kuukuppi:3 maksaa:2 valmistajasta:5 riippuen:3 noin:1 2030:1 euroa:3
+rakennepoikkeuksia:7 jotka:2 estävät:3 esimerkiksi:5 kuukupin:3 paikallaan:3 pysymisen:4 esiintyy:3 joskus:2
+vielä:2 jokunen:3 vuosi:2 sitten:2 kuukuppia:4 myytiin:2 lähinnä:3 luontaistuotekaupoissa:7 sekä:2 apteekeissa:4 ja:1 sillä:2 oli:2 maine:2 niin:1 sanottuna:4 hippituotteena:5
+mikäli:3 kuukupin:3 käyttö:2 tuntuu:2 hankalalta:4 tai:1 pelottaa:3 etukäteen:4 mutta:2 kuppia:3 kuitenkin:3 haluaisi:4 käyttää:2 kehottaa:3 kuusisto:3 juttelemaan:4 asiasta:4 oman:2 gynekologin:5 kanssa:2
+lisäksi:3 kuukuppi:3 ei:1 kuivata:3 limakalvoja:5 tai:1 ärsytä:3 ihoa:3 yhtä:2 helposti:3 kuin:1 side:2 ja:1 tamponit:3
+ennen:2 kaikkea:3 lämpsä:2 käyttää:2 kuukuppia:4 siksi:2 että:2 se:1 on:1 kuukautissuojista:6 kaikkein:2 mukavin:3
+esimerkiksi:5 edellä:3 mainittu:3 mariieveronican:7 menkkavideo:5 on:1 yksi:2 videobloggaajan:7 suosituimmista:5
+kuukuppi:3 sopii:2 suurimmalle:4 osalle:3 kuukautissuojaksi:6 mutta:2 joissain:2 tapauksissa:5 on:1 myös:1 mahdollista:4 että:2 kuukupin:3 käyttö:2 ei:1 anatomisista:6 syistä:2 onnistu:3
+vasta:2 viime:2 vuosina:3 kuukuppi:3 on:1 kuitenkin:3 alkanut:3 vakiinnuttaa:4 asemaansa:4 tasaveroisena:6 kuukautissuojavaihtoehtona:10 siteiden:3 ja:1 tamponien:4 rinnalla:3
+kuvitus:3 erityisesti:5 monet:2 nuoret:2 naiset:2 kertovat:3 joko:2 jo:1 käyttävänsä:4 kuukautissuojana:6 kuukuppia:4 tai:1 harkitsevansa:5 sitä:2 toteaa:3 naistentautien:5 ja:1 synnytysten:4 erikoislääkäri:6 minna:2 kuusisto:3
+lue:2 myös:1 terveysside:5 on:1 tuliainen:4 sodasta:3 tiesitkö:3 nämä:2 kymmenen:3 asiaa:3 kuukautisista:5
+2010-luvulla:3 kuukupeista:4 on:1 puhuttu:3 niin:1 lehtien:3 palstoilla:3 kuin:1 peruskoulun:4 terveystiedon:5 tunneillakin:4
+kuukuppi:3 eli:2 kuukautiskuppi:5 on:1 tamponeihin:4 ja:1 siteisiin:3 verrattuna:4 erittäin:3 ekologinen:5 ja:1 pitkällä:3 tähtäimellä:4 laskettuna:4 halvempikin:4
+kiinnostusta:4 ja:1 innostusta:4 siis:1 riittää:2 mutta:2 toisaalta:3 kuukupin:3 käytön:2 aloittaminen:5 myös:1 jännittää:3 monia:3
+se:1 on:1 äkkiä:3 muisteltu:3 mitä:2 lapsuudessa:4 asiasta:4 puhuttiin:3 kuukautistabu:5 on:1 sitkeä:3 mutta:2 nyt:1 perheissä:3 on:1 jopa:2 menkkajuhlia:5 keskusteluilmapiirin:8 muututtua:4 avoimemmaksi:5 myös:1 tietoisuus:3 kuukupista:4 on:1 kasvanut:3 helpommin:3
+helppous:3 ja:1 ekologisuus:5 ovat:2 saaneet:2 naiset:2 hurahtamaan:4 kuukautiskuppiin:5 kuukuppia:4 käyttäessä:4 kuukautiset:4 voi:1 välillä:3 unohtaa:3 tietoisuus:3 on:1 siis:1 kasvanut:3 valtavasti:4
+tää:1 kuukuppi:3 on:1 niinku:2 maanpäällinen:4 taivas:2 on:1 hehkuttanut:4 esimerkiksi:5 supersuosittu:5 videobloggaaja:6 mariieveronica:7 eli:2 veronica:4 verho:2 lähes:2 puoli:2 miljoonaa:3 katselukertaa:5 keränneellä:4 videolla:4
+myös:1 saatavuus:3 on:1 helpottunut:4
+mielestäni:4 kuukuppi:3 on:1 hyvä:2 keksintö:3 ja:1 sen:1 kokeilua:4 voi:1 suositella:4 useimmille:4 naisille:3
+avointa:3 keskustelua:5 kuukautisista:5 kannattaa:3 myös:1 lämpsä:2
+toisaalta:3 myös:1 kauhutarinat:5 esimerkiksi:5 jumiin:2 jääneistä:3 kupeista:3 leviävät:4 netissä:3 nopeasti:4 vaikka:2 kyse:2 on:1 verrattain:3 harvinaisista:5 tapauksista:5
+jos:1 kuppi:2 nousee:2 esimerkiksi:5 yön:1 aikana:3 ylemmäs:3 voi:1 irrottaminen:5 olla:2 hieman:2 normaalia:4 hankalampaa:4
+pitkän:2 käyttöajan:4 ansiosta:4 kuukuppi:3 on:1 myös:1 huomattavasti:5 edullisempi:5 kuukautissuoja:5 kuin:1 kertakäyttöiset:5 siteet:2 ja:1 tamponit:3
+kuukuppi:3 eli:2 kuukautiskuppi:5 on:1 vanha:2 keksintö:3 mutta:2 vasta:2 pikkuhiljaa:4 vakiintumassa:5 tasavertaiseksi:6 kuukautissuojavaihtoehdoksi:10 tamponin:3 ja:1 siteiden:3 rinnalle:3
+yleensä:3 ikävältä:4 tuntuva:3 tai:1 ohivuotava:5 kuukuppi:3 kuitenkin:3 on:1 esimerkiksi:5 väärin:2 asetettu:4 tai:1 väärän:2 kokoinen:3 kuusisto:3 sanoo:2
+avoimen:3 ilmapiirin:4 ansiosta:4 omista:3 kokemuksista:5 on:1 helpompi:3 puhua:3 ja:1 tietoisuus:3 vaikkapa:3 juuri:2 kuukupeista:4 kasvaa:2 nopeammin:4
+myös:1 esimerkiksi:5 suomalaisen:4 kuukuppeja:4 valmistavan:4 luneten:3 yhteistyökuviot:6 suomalaisten:4 videobloggaajien:7 ja:1 bloggaajien:4 kanssa:2 ovat:2 tuoneet:2 kuukupin:3 tehokkaasti:4 erityisesti:5 nuorempien:4 naisten:2 ja:1 tyttöjen:3 tietoisuuteen:4
+minusta:3 on:1 mahtavaa:3 että:2 näistä:2 asioista:4 puhutaan:3 enemmän:3
+kuukautisista:5 jutellaan:3 avoimemmin:4 kuukupista:4 puhutaan:3 ehdottomasti:5 paljon:2 enemmän:3 ja:1 sitä:2 markkinoidaan:4 näkyvämmin:4 kuin:1 silloin:2 kun:1 itse:2 hankin:2 kupin:2 vakuuttaa:3 jo:1 kahdeksan:3 vuotta:2 kuukuppia:4 käyttänyt:3 teija:2 lämpsä:2
+ekologisista:6 kulutusvalinnoista:7 on:1 tullut:2 trendi:2 mikä:2 on:1 osaltaan:3 vaikuttanut:4 ympäristöystävällisen:9 kuukupin:3 valtavirtaistumiseen:7
+kuukautisista:5 ei:1 enää:2 puhuta:3 ainoastaan:4 ujostellen:4 parhaalle:3 kaverille:4 vaan:1 menkoista:3 keskustellaan:4 nykyään:3 entistä:3 avoimemmin:4 muun:1 muassa:3 sosiaalisessa:6 mediassa:4
+esimerkiksi:5 tamponi:3 täytyy:2 vaihtaa:2 aina:2 vähintään:3 8:1 tunnin:2 välein:2
+kuvitus:3 mitään:2 vaaraa:2 käytössä:3 ei:1 kuitenkaan:3 ole:2 sillä:2 kuukuppi:3 ei:1 voi:1 esimerkiksi:5 mennä:2 vahingossa:4 väärään:2 paikkaan:2 kuusisto:3 kertoo:2
+kuukuppi:3 eli:2 kuukautiskuppi:5 on:1 vanha:2 keksintö:3 mutta:2 vasta:2 pikkuhiljaa:4 vakiintumassa:5 tasavertaiseksi:6 kuukautissuojavaihtoehdoksi:10 tamponin:3 ja:1 siteiden:3 rinnalle:3
+silikonista:5 valmistettu:4 iloisen:3 värinen:3 kuppi:2 josta:2 törröttää:3 pieni:2 antenni:3
+kuukupin:3 käytössä:3 voi:1 aluksi:3 pelottaa:3 myös:1 mahdollisuus:4 siitä:2 että:2 kuppi:2 jää:1 emättimeen:4 jumiin:2
+keskustelusta:5 myös:1 ollaan:2 kiinnostuneita:5
+nykyään:3 kuukupin:3 voi:1 helposti:3 tilata:3 myös:1 verkkokaupasta:5 tai:1 ostaa:2 päivittäistavarakaupan:9 hyllystä:3
+kuukuppia:4 markkinoidaankin:5 usein:2 kivempina:4 menkkoina:3
+yhtiö:3 sai:1 päätökseen:3 helsingin:3 kirjatalon:4 myynnin:2
+yhtiön:3 mukaan:2 lindexin:3 nousun:2 taustalla:3 on:1 uudistetut:4 kevät-:2 ja:1 kesämallistot:5
+rankat:2 mutta:2 tarpeelliset:4 kustannussäästöt:5 alkavat:3 myös:1 tuottaa:2 hedelmää:3 kertoo:2 stockmannin:3 toimitusjohtaja:6 lauri:2 veijalainen:4 tulostiedotteessa:6
+tavoitteenamme:5 on:1 kompensoida:4 liikevaihdon:4 lasku:2 parantuneella:5 myyntikatteella:5 ja:1 kustannussäästöillä:6 vuoden:2 2018:1 aikana:3 kiriäksemme:5 retailin:3 tulosparannuksen:6 aikataulua:5 veijalainen:4 sanoo:2
+yhtiön:3 mukaan:2 ravintolat:4 ja:1 kahvilat:3 ovat:2 vastaus:3 asiakkaiden:5 toiveisiin:3
+yhtiö:3 kertoo:2 että:2 huhtikuun:3 hullut:2 päivät:2 -kampanja:3 oli:2 menestys:3 mutta:2 stockmann:2 retailin:3 myynti:2 hidastui:3 toisen:2 vuosineljänneksen:6 lopulla:3
+stockmannin:3 julkisivu:4 helsingissä:4 vuoden:2 2018:1 liikevaihdon:4 odotetaan:4 olevan:3 edellisvuoden:5 tasolla:3 kun:1 taas:1 oikaistun:4 liikevoiton:4 odotetaan:4 parantuvan:4
+stockmann:2 hinasi:3 voittoaan:3 ylöspäin:3 lindex:2 vaihteeksi:3 iskussa:3 stockmann:2 satsasi:3 huhti-kesäkuussa:5 ravintoloihin:5 ja:1 kahviloihin:4 tavarataloissaan:6
+stockmann:2 satsasi:3 huhti-kesäkuussa:5 ravintoloihin:5 ja:1 kahviloihin:4 tavarataloissaan:6
+tulosparannuksesta:7 suuri:2 osa:2 tuli:2 näin:1 olen:2 lindexistä:4
+tavarataloyhtiö:8 stockmann:2 nosti:2 huhti-kesäkuussa:5 oikaistun:4 liikevoittonsa:5 24:1 miljoonaan:3 euroon:2 vuoden:2 takaisesta:4 15:1 miljoonasta:4 eurosta:3
+yhtiön:3 mukaan:2 tulosta:3 paransi:3 vaateketju:4 lindex:2 jonka:2 oikaistu:3 liiketulos:4 kohosi:3 8:1 miljoonaan:3 euroon:2
+kustannussäästöt:5 tarkoittavat:4 muun:1 muassa:3 sitä:2 että:2 lindex:2 sulkee:2 tappiollisia:6 myymälöitään:4
+stockmann:2 hinasi:3 voittoaan:3 ylöspäin:3 lindex:2 vaihteeksi:3 iskussa:3 lindex:2 kasvoi:2 vahvasti:3 uudistettujen:5 kevät-:2 ja:1 kesämallistojen:6 ansiosta:4 mikä:2 lisäsi:3 myyntiä:3 kaikilla:3 markkinoilla:4 ja:1 kaikissa:3 kanavissa:4
+stockmannin:3 julkisivu:4 helsingissä:4 lindex:2 oli:2 viime:2 vuonna:2 stockmannille:4 murheenkryyni:4 kun:1 ketjun:2 liikevaihto:4 ja:1 -tulos:2 pienenivät:4
+liikevaihto:4 supistui:3 kuitenkin:3 279:1 miljoonaan:3 euroon:2 281:1 miljoonasta:4 eurosta:3
+selvitykset:4 pietarin:3 nevsky:2 centren:2 mahdollisesta:5 myynnistä:3 jatkuvat:3 edelleen:3
+stockmann:2 retaililtä:5 ei:1 kuitenkaan:3 odoteta:4 koko:2 vuodelta:3 positiivista:5 liiketulosta:5
+satsauksia:5 kahviloihin:4 ja:1 ravintoloihin:5 stockmann:2 satsasi:3 huhti-kesäkuussa:5 ravintoloihin:5 ja:1 kahviloihin:4 tavarataloissaan:6
+kiinteistöyksikkö:6 real:2 estaten:3 kehitys:3 jatkui:2 veijalaisen:4 mukaan:2 vakaana:3
+yhtiön:3 mukaan:2 lindexin:3 nousun:2 taustalla:3 on:1 uudistetut:4 kevät-:2 ja:1 kesämallistot:5
+sergio:3 ramos:2 viimeisteli:4 varmasti:3 pilkulta:3
+gareth:2 bale:2 keskitti:3 ja:1 karim:2 benzema:3 puski:2 pallon:2 verkkoon:2
+esimakua:5 siitä:2 real:2 sai:1 uefan:3 super:2 cupissa:3 kun:1 se:1 kohtasi:3 paikalliskilpailija:7 atletico:4 madridin:3
+real:2 madrid:2 joutuu:2 totuttelemaan:5 elämään:3 ilman:2 cristiano:4 ronaldoa:4 alkavalla:4 kaudella:3
+diego:2 costa:2 vei:1 joukkueen:3 johtoon:2 jo:1 avausminuutilla:7
+atletico:4 sai:1 tallinnan:3 illassa:3 todellisen:4 salama-alun:4
+atletico:4 madrid:2 voitti:2 real:2 madridin:3 uefan:3 super:2 cupissa:3 tallinnassa:4 jatkoajan:4 jälkeen:2 4-2:1
+atletico:4 madrid:2 voitti:2 real:2 madridin:3 uefan:3 super:2 cupissa:3 tallinnassa:4 jatkoajan:4 jälkeen:2 4-2:1
+hetkeä:3 myöhemmin:3 marco:2 asension:4 laukaus:3 meni:2 vain:1 aavistuksen:4 verran:2 takanurkasta:5 ohi:2
+atletico:4 madridin:3 pelaajat:3 juhlivat:3 maalia:3
+ensimmäisen:4 teki:2 saul:1 upealla:4 vasemman:3 jalan:2 volleylla:4
+real:2 otti:2 pelin:2 hallinnan:3 ja:1 tuli:2 tasoihin:3 vajaan:2 puolen:2 tunnin:2 kohdalla:3
+toisella:3 puoliajalla:5 real:2 siirtyi:2 johtoon:2 rangaistuspotkusta:6
+atletico:4 pystyi:2 luomaan:2 realin:3 johtomaalin:4 jälkeen:2 hyvin:2 painetta:3 ja:1 yritys:3 palkittiin:3 79:1
+minuutilla:4
+jatkoajalla:5 atletico:4 iski:2 kaksi:2 todella:3 näyttävää:3 maalia:3
+kisaopas:4 la:1 liga:2 2018-2019:1 atletico:4 voitti:2 värikkään:3 ottelun:3 jatkoajan:4 jälkeen:2 4-2:1 ..:3 hetkeä:3 myöhemmin:3 koke:2 viimeisteli:4 loppunumerot:5 upean:3 kuvion:3 jälkeen:2
+varsinkin:3 jatkoajalla:5 nähtiin:2 todella:3 hienoja:3 maaleja:3
+atletico:4 madridin:3 pelaajat:3 juhlivat:3 maalia:3
+super:2 cupissa:3 kohtaavat:3 mestarien:4 liigan:2 ja:1 eurooppa-liigan:4 voittajat:3
+atletico:4 otti:2 makean:3 voiton:2 realista:4 super:2 cupissa:3 upeita:3 maaleja:3 jatkoajalla:5 costa:2 pääsi:2 iskemään:3 maalin:2 edestä:3 illan:2 toisen:2 osumansa:4
+juanfran:3 pelasi:3 palloa:3 kädellään:3 rangaistusalueella:7
+lue:2 myös:1 atletico:4 otti:2 makean:3 voiton:2 realista:4 super:2 cupissa:3 upeita:3 maaleja:3 jatkoajalla:5 costan:2 laukaus:3 pienestä:3 kulmasta:3 upposi:3 verkkoon:2 ohi:2 keylor:2 navasin:3
