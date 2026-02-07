@@ -16,6 +16,8 @@
 ## Markovin ketjun testaus
 * Päästä päähän testaus
 * tarkastetaan onko generoidun haikurunon sanat löydettävissä peräkkäin alkuperäisestä tekstiaineistosta
+* Generoidut haikurunot on tuotu merkkijonona ja täydennettynä tavumäärillä test_markov.py tiedostoon. Haikurunoista muodostetaan n-grammit, joita verrataan alkuperäisen tekstiaineistoon. 
+* Testit menivät lävitse, eli n-grammit säilyvät alkuperäisestä aineistosta generoituun tekstiin.
 
 ## Manuaalinen testaus seuraajasanoille testitulostuksilla
 Koska haikumuodon rajat ovat melko tiukat, ohjelma voi keskeyttää generoinnin, mikäli sopivia seuraajasanoja ei löydy. Testasin keskeytyneitä generointeja ja tarkastin manuaalisesti ettei tosiaan generointia ole voitu jatkaa.
@@ -34,7 +36,7 @@ hakusanojen ('sellaisena', 4), ('johon', 2) seuraajiksi palautuu tyhjät listat:
 Tarkastin hakemalla for-loopilla myös koko korpuksesta sanat peräkkäin ja tulostamaan niitä seuraavat sanat:
 ('tulee', 2) - tavumäärä > 1, joten seuraaja ei käy.
 
-Näin ollen sopivia seuraajia ei ole
+Näin ollen sopivia seuraajia ei ole.
 
 
 * Tapaus 2:
