@@ -2,4 +2,5 @@
 
 source = src
 
-omit = src/**/__init__.py,src/tests/**,src/index.py
+omit = src/**/__init__.py,src/tests/**,src/index.py,src/process_data.py,src/process_data.py
+

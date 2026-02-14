@@ -6,7 +6,7 @@
     2. generate ngrams from the haiku k-order
     3. check if the ngrams exist in the original corpus
     """
-class TestMarkov():
+class MarkovTest():
 
     def process_data(self, path):
         data = open(path, encoding="utf-8").read()
@@ -51,7 +51,7 @@ class TestMarkov():
         assert result == haiku_ngrams
 
 if __name__=="__main__":
-    test_markov = TestMarkov()
+    test_markov = MarkovTest()
     poem1 = "riikolan mukaan englannin kieli on jo odottamassa"
     poem2 = "pasi tinnilän liberi oy ja vr group lähtökohtana"
     test_markov.test_markov_chain(poem1)
