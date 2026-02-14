@@ -10,12 +10,19 @@ class TestTrie(unittest.TestCase):
         self.trie.trie_insert([('lastenlaulukulttuurin', 7), ('uudistamisesta', 6),
                                ('ja', 1)])
         self.trie.trie_insert([('on', 1), ('olemassa', 4), ('monia', 3)])
+        self.trie.trie_insert([('on', 1), ('olemassa', 4), ('monia', 3)])
         self.trie.trie_insert([('on', 1), ('olemassa', 4), ('ainakin', 3)])
         self.trie.trie_insert([('kokonaan', 1), ('uusi', 4), ('sanajono', 3)])
+        self.trie.trie_insert([('uusi', 1), ('kokoelma', 4), ('jonoja', 3)])
+        self.trie.trie_insert([('uusi', 1), ('talletus', 3), ('sanajono', 3)])
+        self.trie.trie_insert([('kokoelma', 4), ('jonoja', 3), ('uusia', 3)])
+        self.trie.trie_insert([('kokonaan', 1), ('uusi', 4), ('uudestaan', 3)])
 
     def test_str_(self):
-        self.assertEqual(str(self.trie), "node:root, children:[('on', 1), ('virrannut', 3), "
-        "('lastenlaulukulttuurin', 7), ('kokonaan', 1)]")
+        self.assertEqual(str(self.trie), "on4-virrannut1-lastenlaulukulttuurin1-olemassa3-monia2-" \
+        "ainakin1-virrannut1-lastenlaulukulttuurin1-uudistamisesta1-lastenlaulukulttuurin1-" \
+        "uudistamisesta1-ja1-kokonaan2-uusi2-sanajono1-uudestaan1-uusi2-kokoelma1-jonoja1-talletus1-" \
+        "sanajono1-kokoelma1-jonoja1-uusia1-")
 
     def test_trie_insert(self):
         """Test trie insert-function."""

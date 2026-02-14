@@ -10,9 +10,17 @@ class Trie:
         self.root = TrieNode()
 
     def __str__(self):
-        node = self.root
-        successors = list(node.children.keys())
-        return f"node:root, children:{successors}"
+        trie_content = []
+
+        def _dfs(node, visited):
+            visited.add(node)
+            for key, child in node.children.items():
+                trie_content.append(key[0]+str(child.frequency)+"-")
+                if child not in visited:
+                    _dfs(child, visited)
+
+        _dfs(self.root, set())
+        return "".join(trie_content)
 
     def trie_insert(self, ngram):
         """Function inserting ngrams to trie"""
@@ -29,14 +37,11 @@ class Trie:
 
         if not ngram:
             return False
-
         node = self.root
-
         for word in ngram:
             if word not in node.children:
                 return False
             node = node.children[word]
-
         return True
 
 
