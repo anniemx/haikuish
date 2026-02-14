@@ -13,6 +13,41 @@
 - def test_search_none; Trien haku-metodia testataan None-tyypillä.
 - def test_get_successors; Trien seuraajien getteriä testataan hakemalla annetun hakusekvenssin lapset ja vertaamalla niitä haluttuihin tuloksiin. Samalla testataan tavufilterin toimivuutta, koska filterin tulisi päästää läpi vain rajaan sopivat lapset.
 
+- Trien rakenne testataan tulostamalla syvyyshaun avulla solmut ja lapset. Testauksen tulisi siis todistaa, että rakenne yhdellätoista testisekvenssillä on: 
+
+root
+->on
+    ->virrannut
+        ->lastenlaulukulttuurin
+    ->olemassa
+	    ->monia
+	    ->ainakin
+->virrannut
+    ->lastenlaulukulttuurin
+	    ->uudistamisesta
+->lastenlaulukulttuurin
+    ->uudistamisesta
+	    ->ja
+->kokonaan
+    ->uusi
+	    ->sanajono
+        ->uudestaan
+->uusi
+    ->kokoelma
+        ->jonoja
+    ->talletus
+        ->sanajono
+->kokoelma
+    ->jonoja
+	    ->uusia
+
+Syvyyshaku käy siis solmun kerrallaan lisäten sen lapset tulostettavaan merkkijonoon ja ohittaen jo lisätyt solmut, mikäli ne ovat jonkun sekvenssin alussa lisätty. Merkkijonossa on myös frekvenssit heti sanan perässä. Näin ollen tulostettava merkkijono on: 
+"on4-virrannut1-lastenlaulukulttuurin1-olemassa3-monia2-" \
+"ainakin1-virrannut1-lastenlaulukulttuurin1-uudistamisesta1-lastenlaulukulttuurin1-" \
+"uudistamisesta1-ja1-kokonaan2-uusi2-sanajono1-uudestaan1-uusi2-kokoelma1-jonoja1-talletus1-" \
+"sanajono1-kokoelma1-jonoja1-uusia1-"
+
+
 ## Markovin ketjun testaus
 * Päästä päähän testaus
 * tarkastetaan onko generoidun haikurunon sanat löydettävissä peräkkäin alkuperäisestä tekstiaineistosta
