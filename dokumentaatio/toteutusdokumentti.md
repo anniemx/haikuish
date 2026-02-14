@@ -5,9 +5,9 @@ Esimerkiksi generoitu runo;
 ***************************
 - Uutishaiku -
 ***************************
-pyörivä tuuli
-jonka takia piispat
-keskeyttävät
+riikolan mukaan
+englannin kieli on jo
+odottamassa
 ***************************
 
 Algoritmin opetukseen käytetty prosessoitu osa-aineisto/pienehkö testiaineisto löytyy data-kansioista nimellä test_corpus.txt. Osakorpus on alkuprosessointu ja tavutettu FinnSyll-kirjaston avulla YLE:n 2018 uutisaineistokorpuksesta. Aineisto koostuu yleiskielisistä lauseista.
