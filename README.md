@@ -19,7 +19,15 @@ $ python3 src/index.py
 * to test:
 ```
 $ poetry add pytest
-$ pytest src
+```
+Test trie:
+```
+$ pytest src/tests/test_trie.py
+```
+
+Test markov:
+```
+$ python3 src/tests/markov_test.py
 ```
 
 

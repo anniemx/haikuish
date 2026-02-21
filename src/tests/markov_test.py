@@ -54,18 +54,9 @@ if __name__=="__main__":
     test_markov = MarkovTest()
     poem1 = "riikolan mukaan englannin kieli on jo odottamassa"
     poem2 = "pasi tinnilän liberi oy ja vr group lähtökohtana"
-    test_markov.test_markov_chain(poem1)
-    test_markov.test_markov_chain(poem2)
-
-
-"""#load and process corpus
-        corpus = process_data.process(path = "src/data/test_corpus.txt")
-        haiku_poem = Haiku()
-        k_order = 2
-        #insert sentences by k+1 ngrams to trie
-        haiku_poem.create_trie(k_order, corpus)
-
-        try:
-            haiku = haiku_poem.generate_haiku(k_order)
-        except:
-            print("Haikumuotoa noudattavia runoja ei voitu generoida.")"""
+    try: 
+        test_markov.test_markov_chain(poem1)
+        test_markov.test_markov_chain(poem2)
+        print("Tests passed")
+    except:
+        print("not passed")
