@@ -12,11 +12,11 @@ class TestTrie(unittest.TestCase):
         self.trie.trie_insert([('on', 1), ('olemassa', 4), ('monia', 3)])
         self.trie.trie_insert([('on', 1), ('olemassa', 4), ('monia', 3)])
         self.trie.trie_insert([('on', 1), ('olemassa', 4), ('ainakin', 3)])
-        self.trie.trie_insert([('kokonaan', 1), ('uusi', 4), ('sanajono', 3)])
-        self.trie.trie_insert([('uusi', 1), ('kokoelma', 4), ('jonoja', 3)])
-        self.trie.trie_insert([('uusi', 1), ('talletus', 3), ('sanajono', 3)])
+        self.trie.trie_insert([('kokonaan', 3), ('uusi', 2), ('sanajono', 3)])
+        self.trie.trie_insert([('uusi', 2), ('kokoelma', 4), ('jonoja', 3)])
+        self.trie.trie_insert([('uusi', 2), ('talletus', 3), ('sanajono', 3)])
         self.trie.trie_insert([('kokoelma', 4), ('jonoja', 3), ('uusia', 3)])
-        self.trie.trie_insert([('kokonaan', 1), ('uusi', 4), ('uudestaan', 3)])
+        self.trie.trie_insert([('kokonaan', 3), ('uusi', 2), ('uudestaan', 3)])
 
     def test_str_(self):
         self.assertEqual(str(self.trie), "on4-virrannut1-lastenlaulukulttuurin1-olemassa3-monia2-" \
@@ -58,5 +58,19 @@ class TestTrie(unittest.TestCase):
         result2 = self.trie.trie_get_successors(search_words, limit2)
         result3 = self.trie.trie_get_successors(search_words2, limit1)
         self.assertEqual(len(result1[0]), 2) #2 children should be "virrannut" and "olemassa"
+        self.assertEqual(result1[0], [('virrannut', 3), ('olemassa', 4)])
         self.assertEqual(len(result2[0]), 1) #1 child should be "virrannut"
+        self.assertEqual(result2[0], [('virrannut', 3)])
         self.assertEqual(len(result3[0]), 2) #2 children should be "monia" and "ainakin"
+        self.assertEqual(result3[0], [('monia', 3), ('ainakin', 3)])
+
+    def test_get_no_successors(self):
+        """Test finding no successors."""
+        search_words1 = [None]
+        limit1 = 1
+        result1 = self.trie.trie_get_successors(search_words1, limit1)
+        self.assertEqual(result1, ([],[]))
+        search_words1 = []
+        limit2 = 0
+        result2 = self.trie.trie_get_successors(search_words1, limit2)
+        self.assertEqual(result2, ([],[]))
