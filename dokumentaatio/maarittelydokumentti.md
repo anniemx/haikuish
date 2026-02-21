@@ -12,7 +12,7 @@ Projektin ohjelmointikieli on Python. Vertaisarvioinnin tekisin myös Pythonilla
 Projektin kieli on suomi ja projektin generoinnissa käytetään suomen kieltä, mutta koodi itsessään on englanniksi. Vertaisarviointeja voin tehdä myös englanniksi.
 
 ## Projektin toiminnallisuus ja aihe
-Projektin aiheena on haikumaisia runoja generoiva malli, joka on opetettu yleiskielellä. Haiku-runossa olennaista on tavujen määrä, joita on yhteensä 17 ja ne jakautuvat kolmelle riville jaolla 5-7-5. Malli siis generoi runon tämän säännön perusteella. Syötteenä malli saa sanan, jonka perusteella se generoi haikumaisen runon. 
+Projektin aiheena on haikumaisia runoja generoiva malli, joka on opetettu yleiskielisillä lauseilla Ylen vuoden 2018 uutisaineistolla. Haiku-runossa olennaista on tavujen määrä, joita on yhteensä 17 ja ne jakautuvat kolmelle riville jaolla 5-7-5. Malli siis generoi runon tämän säännön perusteella. Syötteenä malli saa sanan, jonka perusteella se generoi haikumaisen runon. 
 
 Malli pohjautuu Markovin ketjuihin ja TRIE-hakupuuhun. Ketjuissa mallinnetaan tiloja, joista siirrytään seuraavaan tilaan tietyillä todennäköisyyksillä ja jossa seuraava tila riippuu vain nykyisestä tilasta. Tässä mallissa siis Markovin ketjun muodostaisivat sanat. Rakennetta käytetään luonnollisen kielen prosessoinnissa. 
 

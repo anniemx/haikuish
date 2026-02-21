@@ -7,4 +7,4 @@ Päivitin myös testauksen rakennetta hieman, jotta yksikkötestit eivät yritä
 
 Seuraavaksi päivitän varmaankin dokumentaatiota tarvittavin osin ja tarkennan vielä tarpeen vaatiessa testejä.
 
-Työtunnit 4h
+Työtunnit 4.5h
