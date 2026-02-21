@@ -39,7 +39,7 @@ class TestTrie(unittest.TestCase):
     def test_search_empty_sequence(self):
         """Test trie search-function with empty sequence."""
 
-        self.assertEqual(self.trie.trie_search(""), False)
+        self.assertFalse(self.trie.trie_search(""))
 
     def test_search_none(self):
         """Test trie search-function with None."""
@@ -47,30 +47,32 @@ class TestTrie(unittest.TestCase):
         result = self.trie.trie_search(None)
         self.assertEqual(result, False)
 
-    def test_get_successors(self):
+    def test_trie_get_successors(self):
         """Test trie structure and syllable filter."""
-
         search_words = [('on', 1)]
         search_words2 = [('on', 1), ('olemassa', 4)]
         limit1 = 5
         limit2 = 3
-        result1 = self.trie.trie_get_successors(search_words, limit1)
-        result2 = self.trie.trie_get_successors(search_words, limit2)
-        result3 = self.trie.trie_get_successors(search_words2, limit1)
-        self.assertEqual(len(result1[0]), 2) #2 children should be "virrannut" and "olemassa"
-        self.assertEqual(result1[0], [('virrannut', 3), ('olemassa', 4)])
-        self.assertEqual(len(result2[0]), 1) #1 child should be "virrannut"
-        self.assertEqual(result2[0], [('virrannut', 3)])
-        self.assertEqual(len(result3[0]), 2) #2 children should be "monia" and "ainakin"
-        self.assertEqual(result3[0], [('monia', 3), ('ainakin', 3)])
+        self.assertEqual(len(self.trie.trie_get_successors(search_words, limit1)[0]), 2) 
+        #2 children should be "virrannut" and "olemassa"
+        self.assertEqual(self.trie.trie_get_successors(search_words, limit1)[0], [('virrannut', 3), ('olemassa', 4)])
+        self.assertEqual(len(self.trie.trie_get_successors(search_words, limit2)[0]), 1)
+        #1 child should be "virrannut"
+        self.assertEqual(self.trie.trie_get_successors(search_words, limit2)[0], [('virrannut', 3)])
+        self.assertEqual(len(self.trie.trie_get_successors(search_words2, limit1)[0]), 2)
+        #2 children should be "monia" and "ainakin"
+        self.assertEqual(self.trie.trie_get_successors(search_words2, limit1)[0], [('monia', 3), ('ainakin', 3)])
 
     def test_get_no_successors(self):
         """Test finding no successors."""
         search_words1 = [None]
         limit1 = 1
-        result1 = self.trie.trie_get_successors(search_words1, limit1)
-        self.assertEqual(result1, ([],[]))
-        search_words1 = []
+        self.assertEqual(self.trie.trie_get_successors(search_words1, limit1), ([],[]))
+        search_words2 = []
         limit2 = 0
-        result2 = self.trie.trie_get_successors(search_words1, limit2)
-        self.assertEqual(result2, ([],[]))
+        self.assertEqual(self.trie.trie_get_successors(search_words2, limit2), ([],[]))
+
+    def test_empty_trie(self):
+        trie = Trie()
+        self.assertFalse(trie.trie_search([('on', 1), ('virrannut', 3), ('lastenlaulukulttuurin', 7)]))
+        self.assertFalse(trie.trie_search([" "]))
