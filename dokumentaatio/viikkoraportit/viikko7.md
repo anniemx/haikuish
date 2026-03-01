@@ -1,2 +1,0 @@
-# Viikkoraportti 7
-
