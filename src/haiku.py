@@ -37,6 +37,7 @@ class Haiku():
     def generate_haiku(self, k_order):
         """Function to generate 3 lines of haiku poem line by line."""
         search_words = []
+        self.poem = []
         #generate line 1:
         line_1 = []
         limit = 5
@@ -52,7 +53,7 @@ class Haiku():
 
         self.poem.append(line_1)
         line_1 = " ".join(line_1)
-        print("Rivi 1:", line_1)
+        print("Rivi1:", line_1)
 
         #generate line 2:
         line_2 = []
@@ -88,7 +89,6 @@ class Haiku():
         self.poem.append(line_3)
         line_3 = " ".join(line_3)
         print("Rivi3:", line_3)
-        self.print_haiku()
         return self.poem
 
     def print_haiku(self):

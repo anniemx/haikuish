@@ -11,10 +11,15 @@ def main():
     haiku_poem.create_trie(k_order, corpus)
     #try generating haiku line by line
     print("Aloitetaan generointi...")
-    try:
-        haiku_poem.generate_haiku(k_order)
-    except:
-        print("Haikumuotoa noudattavia runoja ei voitu generoida.")
+    attempts = 1
+    while attempts <= 25:
+        try:
+            haiku_poem.generate_haiku(k_order)
+            haiku_poem.print_haiku()
+            break
+        except:
+            attempts += 1
+            #print("Haikumuotoa noudattavia runoja ei voitu generoida.")
 
 if __name__=="__main__":
     main()
