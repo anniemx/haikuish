@@ -23,7 +23,12 @@ class Trie:
         return "".join(trie_content)
 
     def trie_insert(self, ngram):
-        """Function inserting ngrams to trie"""
+        """Function inserting ngrams to trie.
+        
+        Args:
+            ngram (list): list of words as tuples
+            
+        """
 
         current_node = self.root
         for word in ngram:
@@ -33,7 +38,14 @@ class Trie:
             current_node.frequency += 1
 
     def trie_search(self, ngram):
-        """Function searching words/ngrams from trie, return False/True."""
+        """Function searching words/ngrams from trie. 
+        Args: 
+            ngram (list): words for search
+
+        Return: 
+            False/True.
+        
+        """
 
         if not ngram:
             return False
@@ -47,7 +59,15 @@ class Trie:
 
     def get_node(self, wordlist):
         """Function to check whether the path of wordlist exists, 
-            return None/the last word."""
+            return None/the last word.
+            
+        Args:
+            wordlist (list): words for search
+
+        Return:
+            None
+            node: the last word object
+        """
 
         node = self.root
         for word in wordlist:
@@ -59,7 +79,17 @@ class Trie:
 
     def trie_get_successors(self, search_words, limit):
         """Getter to search the successors of last word from wordlist, 
-            return all valid words considering syllable limit."""
+            return all valid words considering syllable limit.
+            
+        Args:
+            search_words (list): wordlist used for search in trie
+            limit (int): syllable limit
+
+        Returns:
+            (successors_words, successors_frequencies): all valid successors 
+            and their frequencies
+        
+        """
 
         node = self.get_node(search_words)
         successors_words = []
