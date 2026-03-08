@@ -53,15 +53,17 @@ class TestTrie(unittest.TestCase):
         search_words2 = [('on', 1), ('olemassa', 4)]
         limit1 = 5
         limit2 = 3
-        self.assertEqual(len(self.trie.trie_get_successors(search_words, limit1)[0]), 2) 
+        self.assertEqual(len(self.trie.trie_get_successors(search_words, limit1)[0]), 2)
         #2 children should be "virrannut" and "olemassa"
-        self.assertEqual(self.trie.trie_get_successors(search_words, limit1)[0], [('virrannut', 3), ('olemassa', 4)])
+        self.assertEqual(self.trie.trie_get_successors(search_words, limit1)[0], [('virrannut', 3), 
+                                                                                  ('olemassa', 4)])
         self.assertEqual(len(self.trie.trie_get_successors(search_words, limit2)[0]), 1)
         #1 child should be "virrannut"
         self.assertEqual(self.trie.trie_get_successors(search_words, limit2)[0], [('virrannut', 3)])
         self.assertEqual(len(self.trie.trie_get_successors(search_words2, limit1)[0]), 2)
         #2 children should be "monia" and "ainakin"
-        self.assertEqual(self.trie.trie_get_successors(search_words2, limit1)[0], [('monia', 3), ('ainakin', 3)])
+        self.assertEqual(self.trie.trie_get_successors(search_words2, limit1)[0], [('monia', 3), 
+                                                                                   ('ainakin', 3)])
 
     def test_get_no_successors(self):
         """Test finding no successors."""
@@ -74,5 +76,6 @@ class TestTrie(unittest.TestCase):
 
     def test_empty_trie(self):
         trie = Trie()
-        self.assertFalse(trie.trie_search([('on', 1), ('virrannut', 3), ('lastenlaulukulttuurin', 7)]))
+        self.assertFalse(trie.trie_search([('on', 1), ('virrannut', 3), 
+                                           ('lastenlaulukulttuurin', 7)]))
         self.assertFalse(trie.trie_search([" "]))

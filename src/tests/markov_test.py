@@ -31,14 +31,14 @@ class MarkovTest():
         haiku_ngrams = []
         for i in range(len(haiku_words) - n + 1):
             haiku_ngrams.append(haiku_words[i: i + n])
-        
+
         corpus_ngrams = []
         self.corpus = self.process_data(path = "src/data/test_corpus.txt")
         for sentence in self.corpus:
             for i in range(len(sentence) - n + 1):
                 ngram1 = sentence[i: i + n]
                 ngram_words = []
-                for word in ngram1: 
+                for word in ngram1:
                     ngram_words.append(word[0]) #[sana1, sana2, sana3]
                 corpus_ngrams.append(ngram_words)
 

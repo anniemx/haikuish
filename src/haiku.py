@@ -36,7 +36,7 @@ class Haiku():
             for i in range(len(sentence) - n + 1):
                 self.trie.trie_insert(sentence[i: i + n])
 
-    def lottery(self, words): 
+    def lottery(self, words):
         """Function to draw a word with weights based on frequencies.
 
         Args: 
