@@ -6,7 +6,7 @@
 ## TRIE:n testaus
 * Yksikkötestit:
 - Yksikkötesti on erityisesti trie-tietorakenteen kannalta olennainen.
-- Yksikkötestissä muodostetaan trie-luokka ja trie-rakenteelle annetaan listana 3-grammit, joissa 3-grammit ovat tupleina muodossa ("sana", "tavumäärä").
+- Yksikkötestissä muodostetaan trie-luokka ja trie-rakenteelle annetaan listana 3-grammit (11kpl, jotka menevät osittain päällekkäin), joissa 3-grammit ovat tupleina muodossa ("sana", "tavumäärä").
 - def test_str_; testataan alkaako TRIE-rakenne muodostua oikein juuresta. Tulostetaan ensimmäiset lapset merkkijonona ja verrataan niitä haluttuihin lapsiin.
 - def test_trie_insert; Trien syötteen lisäys -metodi testataan vertaamalla löytyykö search-metodilla vastaavat annetut 3-grammit tietorakenteesta.
 - def test_search_empty_sequence; Trien haku-metodia testataan tyhjällä merkkijonolla.
@@ -46,19 +46,19 @@ Syvyyshaku käy siis solmun kerrallaan lisäten sen lapset tulostettavaan merkki
 "ainakin1-virrannut1-lastenlaulukulttuurin1-uudistamisesta1-lastenlaulukulttuurin1-" \
 "uudistamisesta1-ja1-kokonaan2-uusi2-sanajono1-uudestaan1-uusi2-kokoelma1-jonoja1-talletus1-" \
 "sanajono1-kokoelma1-jonoja1-uusia1-"
+- Yksikkötestit tulivat hyväksyttynä ulos.
 
 
 ## Markovin ketjun testaus
-* Päästä päähän testaus
+* Päästä päähän -testaus
 * tarkastetaan onko generoidun haikurunon sanat löydettävissä peräkkäin alkuperäisestä tekstiaineistosta
-* Generoidut haikurunot on tuotu merkkijonona ja täydennettynä tavumäärillä test_markov.py tiedostoon. Haikurunoista muodostetaan n-grammit, joita verrataan alkuperäisen tekstiaineistoon. 
+* Generoidut haikurunot on tuotu merkkijonona ja täydennettynä tavumäärillä test_markov.py tiedostoon. Haikurunoista muodostetaan uudestaan n-grammit, joita verrataan alkuperäisen tekstiaineistoon. 
 * Testit menivät lävitse, eli n-grammit säilyvät alkuperäisestä aineistosta generoituun tekstiin.
 
 ## Manuaalinen testaus seuraajasanoille testitulostuksilla
 Koska haikumuodon rajat ovat melko tiukat, ohjelma voi keskeyttää generoinnin, mikäli sopivia seuraajasanoja ei löydy. Testasin keskeytyneitä generointeja ja tarkastin manuaalisesti ettei tosiaan generointia ole voitu jatkaa.
 
 * Tapaus 1:
-
 Anna Markovin ketjun aste: 2
 Rivi 1: [['asiana', 'ja']] tavumäärä: 5 - ok!
 hakusanat rivin generoinnin jälkeen: [('asiana', 4), ('ja', 1)] - ok!
@@ -75,7 +75,6 @@ Näin ollen sopivia seuraajia ei ole.
 
 
 * Tapaus 2:
-
 Anna Markovin ketjun aste: 2
 
 Rivi 1: [['miljoonaa', 'yli']] tavumäärä: 5 - ok!
@@ -87,6 +86,7 @@ Rivi 3: ([('nettiä', 3)]) tavumäärä 3 < 5 ok!
 generointi katkeaa
 
 hakusanojen ('käytä', 2), ('nettiä', 3) seuraajiksi palautuu tyhjät listat: ([], [])
+
 Koko korpuksesta etsittässä ei löydy ollenkaan seuraavia sanoja hakusanoilla, koska lause loppuu näihin.
 Näin ollen sopivia seuraajia ei ole.
 
@@ -110,3 +110,4 @@ Näin ollen sopivia seuraajia ei ole.
 
 ## Pylint testaukset:
 - vk 3: 7.43/10 -> 8.06/10
+- vk 8: 8.13/10 -> 8.29/10
