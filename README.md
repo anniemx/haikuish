@@ -30,7 +30,8 @@ Test markov:
 $ python3 src/tests/markov_test.py
 ```
 
-
+## Käyttöohje
+[Käyttöohje](./dokumentaatio/kaytto_ohje.md)
 
 ## Määrittelydokumentti
 [Määrittelydokumentti](./dokumentaatio/maarittelydokumentti.md)
