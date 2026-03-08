@@ -19,7 +19,9 @@ def main():
             break
         except:
             attempts += 1
-            #print("Haikumuotoa noudattavia runoja ei voitu generoida.")
+    else:
+        print("aikakatkaisu")
+        raise RuntimeError("Haikurunojen generointi ei onnistunut 25 yrityksellä")
 
 if __name__=="__main__":
     main()

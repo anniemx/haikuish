@@ -14,12 +14,15 @@ class Haiku():
             k_order(int): Markov-chain k-order
         
         """
-
-        k_order = int(input("Anna Markovin ketjun aste: "))
-        if k_order < 1 or k_order > 10:
+        k_order = input("Anna Markovin ketjun aste: ")
+        if k_order == None or k_order == "" or k_order == " ":
+            print("Anna numeraalinen syöte 1-10.")
+            self.k_order()
+            
+        elif int(k_order) < 1 or int(k_order) > 10:
             print("Aste liian suuri tai pieni.")
             self.k_order()
-        return k_order
+        return int(k_order)
 
     def create_trie(self, k, corpus):
         """Create trie datastructure and insert sentences from 
