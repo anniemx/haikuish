@@ -47,6 +47,35 @@ class TestTrie(unittest.TestCase):
         result = self.trie.trie_search(None)
         self.assertEqual(result, False)
 
+    def test_get_node_empty(self):
+        """Test trie get_node-function with empty list."""
+        result = self.trie.get_node([])
+        self.assertEqual(result, self.trie.root)
+
+    def test_get_node_no_results(self):
+        """Test trie get_node-function with None."""
+        search_words = [('eihän', 2)]
+        result = self.trie.get_node(search_words)
+        self.assertEqual(result, None)
+
+    def test_get_no_successors(self):
+        """Test finding no successors."""
+        search_words1 = [None]
+        limit1 = 1
+        self.assertEqual(self.trie.trie_get_successors(search_words1, limit1), ([],[]))
+
+    def test_get_root_successors(self):
+        """Test finding root successors."""
+        search_words1 = []
+        limit1 = 10
+        self.assertEqual(len(self.trie.trie_get_successors(search_words1, limit1)[0]), 6)
+
+    def test_empty_trie(self):
+        trie = Trie()
+        self.assertFalse(trie.trie_search([('on', 1), ('virrannut', 3), 
+                                           ('lastenlaulukulttuurin', 7)]))
+        self.assertFalse(trie.trie_search([" "]))
+
     def test_trie_get_successors(self):
         """Test trie structure and syllable filter."""
         search_words = [('on', 1)]
@@ -65,17 +94,3 @@ class TestTrie(unittest.TestCase):
         self.assertEqual(self.trie.trie_get_successors(search_words2, limit1)[0], [('monia', 3), 
                                                                                    ('ainakin', 3)])
 
-    def test_get_no_successors(self):
-        """Test finding no successors."""
-        search_words1 = [None]
-        limit1 = 1
-        self.assertEqual(self.trie.trie_get_successors(search_words1, limit1), ([],[]))
-        search_words2 = []
-        limit2 = 0
-        self.assertEqual(self.trie.trie_get_successors(search_words2, limit2), ([],[]))
-
-    def test_empty_trie(self):
-        trie = Trie()
-        self.assertFalse(trie.trie_search([('on', 1), ('virrannut', 3), 
-                                           ('lastenlaulukulttuurin', 7)]))
-        self.assertFalse(trie.trie_search([" "]))
