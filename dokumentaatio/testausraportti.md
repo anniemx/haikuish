@@ -11,6 +11,10 @@
 - def test_trie_insert; Trien syötteen lisäys -metodi testataan vertaamalla löytyykö search-metodilla vastaavat annetut 3-grammit tietorakenteesta.
 - def test_search_empty_sequence; Trien haku-metodia testataan tyhjällä merkkijonolla.
 - def test_search_none; Trien haku-metodia testataan None-tyypillä.
+- def test_get_node_empty; Trien node-getteriä testataan tyhjällä listalla, palauttaa juurisolmun.
+- def test_get_node_no_results; Trien node-getteriä testataan tallentamattomalla listalla, palauttaa None.
+- def test_get_no_successors(self); Trien seuraaja-getteriä testataan tallentamattomalla listalla, palauttaa tuplen tyhjillä listoilla.
+- def test_get_root_successors(self); Trien seuraaja-getteriä testataan tyhjällä listalla, palauttaa kaikki juuren lapset.
 - def test_get_successors; Trien seuraajien getteriä testataan hakemalla annetun hakusekvenssin lapset ja vertaamalla niitä haluttuihin tuloksiin. Samalla testataan tavufilterin toimivuutta, koska filterin tulisi päästää läpi vain rajaan sopivat lapset.
 
 - Trien rakenne testataan tulostamalla syvyyshaun avulla solmut ja lapset. Testauksen tulisi siis todistaa, että rakenne yhdellätoista testisekvenssillä on: 
@@ -46,7 +50,7 @@ Syvyyshaku käy siis solmun kerrallaan lisäten sen lapset tulostettavaan merkki
 "ainakin1-virrannut1-lastenlaulukulttuurin1-uudistamisesta1-lastenlaulukulttuurin1-" \
 "uudistamisesta1-ja1-kokonaan2-uusi2-sanajono1-uudestaan1-uusi2-kokoelma1-jonoja1-talletus1-" \
 "sanajono1-kokoelma1-jonoja1-uusia1-"
-- Yksikkötestit tulivat hyväksyttynä ulos.
+- Yksikkötestit tulivat hyväksyttynä ulos 10/10.
 
 
 ## Markovin ketjun testaus
